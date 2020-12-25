@@ -1,0 +1,456 @@
+,fund,stock
+0,AS SICAV I Eurp Eq Div A Acc EUR,Enel Spa
+1,AS SICAV I Eurp Eq Div A Acc EUR,Rwe Ag
+2,AS SICAV I Eurp Eq Div A Acc EUR,Novo Nordisk A/S B
+3,AS SICAV I Eurp Eq Div A Acc EUR,Nestle Sa
+4,AS SICAV I Eurp Eq Div A Acc EUR,Zurich Insurance Group Ag
+5,AS SICAV I Eurp Eq Div A Acc EUR,Swedish Match Ab
+6,AS SICAV I Eurp Eq Div A Acc EUR,Roche Holding Ag Dividend Right Cert.
+7,AS SICAV I Eurp Eq Div A Acc EUR,Deutsche Boerse Ag
+8,AS SICAV I Eurp Eq Div A Acc EUR,L'oreal Sa
+9,AS SICAV I Eurp Eq Div A AInc EUR,Enel Spa
+10,AS SICAV I Eurp Eq Div A AInc EUR,Rwe Ag
+11,AS SICAV I Eurp Eq Div A AInc EUR,Novo Nordisk A/S B
+12,AS SICAV I Eurp Eq Div A AInc EUR,Nestle Sa
+13,AS SICAV I Eurp Eq Div A AInc EUR,Zurich Insurance Group Ag
+14,AS SICAV I Eurp Eq Div A AInc EUR,Swedish Match Ab
+15,AS SICAV I Eurp Eq Div A AInc EUR,Roche Holding Ag Dividend Right Cert.
+16,AS SICAV I Eurp Eq Div A AInc EUR,Deutsche Boerse Ag
+17,AS SICAV I Eurp Eq Div A AInc EUR,L'oreal Sa
+18,AS SICAV I Eurp Eq Div I Acc EUR,Enel Spa
+19,AS SICAV I Eurp Eq Div I Acc EUR,Rwe Ag
+20,AS SICAV I Eurp Eq Div I Acc EUR,Novo Nordisk A/S B
+21,AS SICAV I Eurp Eq Div I Acc EUR,Nestle Sa
+22,AS SICAV I Eurp Eq Div I Acc EUR,Zurich Insurance Group Ag
+23,AS SICAV I Eurp Eq Div I Acc EUR,Swedish Match Ab
+24,AS SICAV I Eurp Eq Div I Acc EUR,Roche Holding Ag Dividend Right Cert.
+25,AS SICAV I Eurp Eq Div I Acc EUR,Deutsche Boerse Ag
+26,AS SICAV I Eurp Eq Div I Acc EUR,L'oreal Sa
+27,AS SICAV I Eurp Eq Div X Acc EUR,Enel Spa
+28,AS SICAV I Eurp Eq Div X Acc EUR,Rwe Ag
+29,AS SICAV I Eurp Eq Div X Acc EUR,Novo Nordisk A/S B
+30,AS SICAV I Eurp Eq Div X Acc EUR,Nestle Sa
+31,AS SICAV I Eurp Eq Div X Acc EUR,Zurich Insurance Group Ag
+32,AS SICAV I Eurp Eq Div X Acc EUR,Swedish Match Ab
+33,AS SICAV I Eurp Eq Div X Acc EUR,Roche Holding Ag Dividend Right Cert.
+34,AS SICAV I Eurp Eq Div X Acc EUR,Deutsche Boerse Ag
+35,AS SICAV I Eurp Eq Div X Acc EUR,L'oreal Sa
+36,BGF European Equity Income A4G EUR,Enel SpA
+37,BGF European Equity Income A4G EUR,Allianz SE
+38,BGF European Equity Income A4G EUR,Zurich Insurance Group AG
+39,BGF European Equity Income A4G EUR,Iberdrola SA
+40,BGF European Equity Income A4G EUR,EDP - Energias de Portugal SA
+41,BGF European Equity Income A4G EUR,Sanofi SA
+42,BGF European Equity Income A4G EUR,Lonza Group Ltd
+43,BGF European Equity Income A4G EUR,Nestle SA
+44,BGF European Equity Income A4G EUR,Tele2 AB B
+45,BGF European Equity Income A4G EUR,Novo Nordisk A/S B
+46,BGF European Equity Income A5G EUR,Enel SpA
+47,BGF European Equity Income A5G EUR,Allianz SE
+48,BGF European Equity Income A5G EUR,Zurich Insurance Group AG
+49,BGF European Equity Income A5G EUR,Iberdrola SA
+50,BGF European Equity Income A5G EUR,EDP - Energias de Portugal SA
+51,BGF European Equity Income A5G EUR,Sanofi SA
+52,BGF European Equity Income A5G EUR,Lonza Group Ltd
+53,BGF European Equity Income A5G EUR,Nestle SA
+54,BGF European Equity Income A5G EUR,Tele2 AB B
+55,BGF European Equity Income A5G EUR,Novo Nordisk A/S B
+56,BGF European Equity Income A6 EUR,Enel SpA
+57,BGF European Equity Income A6 EUR,Allianz SE
+58,BGF European Equity Income A6 EUR,Zurich Insurance Group AG
+59,BGF European Equity Income A6 EUR,Iberdrola SA
+60,BGF European Equity Income A6 EUR,EDP - Energias de Portugal SA
+61,BGF European Equity Income A6 EUR,Sanofi SA
+62,BGF European Equity Income A6 EUR,Lonza Group Ltd
+63,BGF European Equity Income A6 EUR,Nestle SA
+64,BGF European Equity Income A6 EUR,Tele2 AB B
+65,BGF European Equity Income A6 EUR,Novo Nordisk A/S B
+66,BGF European Equity Income D2 EUR,Enel SpA
+67,BGF European Equity Income D2 EUR,Allianz SE
+68,BGF European Equity Income D2 EUR,Zurich Insurance Group AG
+69,BGF European Equity Income D2 EUR,Iberdrola SA
+70,BGF European Equity Income D2 EUR,EDP - Energias de Portugal SA
+71,BGF European Equity Income D2 EUR,Sanofi SA
+72,BGF European Equity Income D2 EUR,Lonza Group Ltd
+73,BGF European Equity Income D2 EUR,Nestle SA
+74,BGF European Equity Income D2 EUR,Tele2 AB B
+75,BGF European Equity Income D2 EUR,Novo Nordisk A/S B
+76,BGF European Equity Income D4G EUR,Enel SpA
+77,BGF European Equity Income D4G EUR,Allianz SE
+78,BGF European Equity Income D4G EUR,Zurich Insurance Group AG
+79,BGF European Equity Income D4G EUR,Iberdrola SA
+80,BGF European Equity Income D4G EUR,EDP - Energias de Portugal SA
+81,BGF European Equity Income D4G EUR,Sanofi SA
+82,BGF European Equity Income D4G EUR,Lonza Group Ltd
+83,BGF European Equity Income D4G EUR,Nestle SA
+84,BGF European Equity Income D4G EUR,Tele2 AB B
+85,BGF European Equity Income D4G EUR,Novo Nordisk A/S B
+86,BGF European Equity Income D5G EUR,Enel SpA
+87,BGF European Equity Income D5G EUR,Allianz SE
+88,BGF European Equity Income D5G EUR,Zurich Insurance Group AG
+89,BGF European Equity Income D5G EUR,Iberdrola SA
+90,BGF European Equity Income D5G EUR,EDP - Energias de Portugal SA
+91,BGF European Equity Income D5G EUR,Sanofi SA
+92,BGF European Equity Income D5G EUR,Lonza Group Ltd
+93,BGF European Equity Income D5G EUR,Nestle SA
+94,BGF European Equity Income D5G EUR,Tele2 AB B
+95,BGF European Equity Income D5G EUR,Novo Nordisk A/S B
+96,BGF European Equity Income I2 EUR,Enel SpA
+97,BGF European Equity Income I2 EUR,Allianz SE
+98,BGF European Equity Income I2 EUR,Zurich Insurance Group AG
+99,BGF European Equity Income I2 EUR,Iberdrola SA
+100,BGF European Equity Income I2 EUR,EDP - Energias de Portugal SA
+101,BGF European Equity Income I2 EUR,Sanofi SA
+102,BGF European Equity Income I2 EUR,Lonza Group Ltd
+103,BGF European Equity Income I2 EUR,Nestle SA
+104,BGF European Equity Income I2 EUR,Tele2 AB B
+105,BGF European Equity Income I2 EUR,Novo Nordisk A/S B
+106,BGF European Equity Income I4G,Enel SpA
+107,BGF European Equity Income I4G,Allianz SE
+108,BGF European Equity Income I4G,Zurich Insurance Group AG
+109,BGF European Equity Income I4G,Iberdrola SA
+110,BGF European Equity Income I4G,EDP - Energias de Portugal SA
+111,BGF European Equity Income I4G,Sanofi SA
+112,BGF European Equity Income I4G,Lonza Group Ltd
+113,BGF European Equity Income I4G,Nestle SA
+114,BGF European Equity Income I4G,Tele2 AB B
+115,BGF European Equity Income I4G,Novo Nordisk A/S B
+116,BGF European Equity Income X5G GBP,Enel SpA
+117,BGF European Equity Income X5G GBP,Allianz SE
+118,BGF European Equity Income X5G GBP,Zurich Insurance Group AG
+119,BGF European Equity Income X5G GBP,Iberdrola SA
+120,BGF European Equity Income X5G GBP,EDP - Energias de Portugal SA
+121,BGF European Equity Income X5G GBP,Sanofi SA
+122,BGF European Equity Income X5G GBP,Lonza Group Ltd
+123,BGF European Equity Income X5G GBP,Nestle SA
+124,BGF European Equity Income X5G GBP,Tele2 AB B
+125,BGF European Equity Income X5G GBP,Novo Nordisk A/S B
+126,BGF European Equity Income A2 EUR,Enel SpA
+127,BGF European Equity Income A2 EUR,Allianz SE
+128,BGF European Equity Income A2 EUR,Zurich Insurance Group AG
+129,BGF European Equity Income A2 EUR,Iberdrola SA
+130,BGF European Equity Income A2 EUR,EDP - Energias de Portugal SA
+131,BGF European Equity Income A2 EUR,Sanofi SA
+132,BGF European Equity Income A2 EUR,Lonza Group Ltd
+133,BGF European Equity Income A2 EUR,Nestle SA
+134,BGF European Equity Income A2 EUR,Tele2 AB B
+135,BGF European Equity Income A2 EUR,Novo Nordisk A/S B
+136,CS European Dividend Value FB EUR,Atlas Copco AB A
+137,CS European Dividend Value FB EUR,Deutsche Post AG
+138,CS European Dividend Value FB EUR,Diageo PLC
+139,CS European Dividend Value FB EUR,Schneider Electric SE
+140,CS European Dividend Value FB EUR,Iberdrola SA
+141,CS European Dividend Value FB EUR,Novartis AG
+142,CS European Dividend Value FB EUR,Basf SE
+143,CS European Dividend Value FB EUR,Bayer AG
+144,CS European Dividend Value FB EUR,Reckitt Benckiser Group PLC
+145,CS European Dividend Value FB EUR,Deutsche Boerse AG
+146,CS European Dividend Value UA EUR,Atlas Copco AB A
+147,CS European Dividend Value UA EUR,Deutsche Post AG
+148,CS European Dividend Value UA EUR,Diageo PLC
+149,CS European Dividend Value UA EUR,Schneider Electric SE
+150,CS European Dividend Value UA EUR,Iberdrola SA
+151,CS European Dividend Value UA EUR,Novartis AG
+152,CS European Dividend Value UA EUR,Basf SE
+153,CS European Dividend Value UA EUR,Bayer AG
+154,CS European Dividend Value UA EUR,Reckitt Benckiser Group PLC
+155,CS European Dividend Value UA EUR,Deutsche Boerse AG
+156,CS European Dividend Value UB EUR,Atlas Copco AB A
+157,CS European Dividend Value UB EUR,Deutsche Post AG
+158,CS European Dividend Value UB EUR,Diageo PLC
+159,CS European Dividend Value UB EUR,Schneider Electric SE
+160,CS European Dividend Value UB EUR,Iberdrola SA
+161,CS European Dividend Value UB EUR,Novartis AG
+162,CS European Dividend Value UB EUR,Basf SE
+163,CS European Dividend Value UB EUR,Bayer AG
+164,CS European Dividend Value UB EUR,Reckitt Benckiser Group PLC
+165,CS European Dividend Value UB EUR,Deutsche Boerse AG
+166,CS (Lux) European Div Plus Eq B EUR,Nestle SA
+167,CS (Lux) European Div Plus Eq B EUR,Total SE
+168,CS (Lux) European Div Plus Eq B EUR,Unilever NV
+169,CS (Lux) European Div Plus Eq B EUR,Sanofi SA
+170,CS (Lux) European Div Plus Eq B EUR,Enel SpA
+171,CS (Lux) European Div Plus Eq B EUR,Roche Holding AG Dividend Right Cert.
+172,CS (Lux) European Div Plus Eq B EUR,Diageo PLC
+173,CS (Lux) European Div Plus Eq B EUR,Koninklijke DSM NV
+174,CS (Lux) European Div Plus Eq B EUR,Iberdrola SA
+175,CS (Lux) European Div Plus Eq B EUR,AstraZeneca PLC
+176,CS (Lux) European Div Plus Eq UB EUR,Nestle SA
+177,CS (Lux) European Div Plus Eq UB EUR,Total SE
+178,CS (Lux) European Div Plus Eq UB EUR,Unilever NV
+179,CS (Lux) European Div Plus Eq UB EUR,Sanofi SA
+180,CS (Lux) European Div Plus Eq UB EUR,Enel SpA
+181,CS (Lux) European Div Plus Eq UB EUR,Roche Holding AG Dividend Right Cert.
+182,CS (Lux) European Div Plus Eq UB EUR,Diageo PLC
+183,CS (Lux) European Div Plus Eq UB EUR,Koninklijke DSM NV
+184,CS (Lux) European Div Plus Eq UB EUR,Iberdrola SA
+185,CS (Lux) European Div Plus Eq UB EUR,AstraZeneca PLC
+186,Danske Invest Europe High Dividend I,Unilever NV
+187,Danske Invest Europe High Dividend I,Nestle SA
+188,Danske Invest Europe High Dividend I,Siemens AG
+189,Danske Invest Europe High Dividend I,Iberdrola SA
+190,Danske Invest Europe High Dividend I,Roche Holding AG Dividend Right Cert.
+191,Danske Invest Europe High Dividend I,National Grid PLC
+192,Danske Invest Europe High Dividend I,Sampo Oyj Class A
+193,Danske Invest Europe High Dividend I,Zurich Insurance Group AG
+194,Danske Invest Europe High Dividend I,Cie Generale des Etablissements Michelin SA
+195,Danske Invest Europe High Dividend I,Sanofi SA
+196,Fidelity European Div A-Acc-EUR,Sanofi SA
+197,Fidelity European Div A-Acc-EUR,Allianz SE
+198,Fidelity European Div A-Acc-EUR,Vonovia SE
+199,Fidelity European Div A-Acc-EUR,Epiroc AB Share B
+200,Fidelity European Div A-Acc-EUR,Novo Nordisk A/S B
+201,Fidelity European Div A-Acc-EUR,Ferrovial SA
+202,Fidelity European Div A-Acc-EUR,RELX PLC
+203,Fidelity European Div A-Dis-EUR,Sanofi SA
+204,Fidelity European Div A-Dis-EUR,Allianz SE
+205,Fidelity European Div A-Dis-EUR,Vonovia SE
+206,Fidelity European Div A-Dis-EUR,Epiroc AB Share B
+207,Fidelity European Div A-Dis-EUR,Novo Nordisk A/S B
+208,Fidelity European Div A-Dis-EUR,Ferrovial SA
+209,Fidelity European Div A-Dis-EUR,RELX PLC
+210,Fidelity European Div A-MInc(G)-EUR,Sanofi SA
+211,Fidelity European Div A-MInc(G)-EUR,Allianz SE
+212,Fidelity European Div A-MInc(G)-EUR,Vonovia SE
+213,Fidelity European Div A-MInc(G)-EUR,Epiroc AB Share B
+214,Fidelity European Div A-MInc(G)-EUR,Novo Nordisk A/S B
+215,Fidelity European Div A-MInc(G)-EUR,Ferrovial SA
+216,Fidelity European Div A-MInc(G)-EUR,RELX PLC
+217,Fidelity European Div A-QInc(G)-EUR,Sanofi SA
+218,Fidelity European Div A-QInc(G)-EUR,Allianz SE
+219,Fidelity European Div A-QInc(G)-EUR,Vonovia SE
+220,Fidelity European Div A-QInc(G)-EUR,Epiroc AB Share B
+221,Fidelity European Div A-QInc(G)-EUR,Novo Nordisk A/S B
+222,Fidelity European Div A-QInc(G)-EUR,Ferrovial SA
+223,Fidelity European Div A-QInc(G)-EUR,RELX PLC
+224,Fidelity European Div I-Acc-EUR,Sanofi SA
+225,Fidelity European Div I-Acc-EUR,Allianz SE
+226,Fidelity European Div I-Acc-EUR,Vonovia SE
+227,Fidelity European Div I-Acc-EUR,Epiroc AB Share B
+228,Fidelity European Div I-Acc-EUR,Novo Nordisk A/S B
+229,Fidelity European Div I-Acc-EUR,Ferrovial SA
+230,Fidelity European Div I-Acc-EUR,RELX PLC
+231,Fidelity European Div Y-Acc-EUR,Sanofi SA
+232,Fidelity European Div Y-Acc-EUR,Allianz SE
+233,Fidelity European Div Y-Acc-EUR,Vonovia SE
+234,Fidelity European Div Y-Acc-EUR,Epiroc AB Share B
+235,Fidelity European Div Y-Acc-EUR,Novo Nordisk A/S B
+236,Fidelity European Div Y-Acc-EUR,Ferrovial SA
+237,Fidelity European Div Y-Acc-EUR,RELX PLC
+238,Fidelity European Div Y-QInc(G)-EUR,Sanofi SA
+239,Fidelity European Div Y-QInc(G)-EUR,Allianz SE
+240,Fidelity European Div Y-QInc(G)-EUR,Vonovia SE
+241,Fidelity European Div Y-QInc(G)-EUR,Epiroc AB Share B
+242,Fidelity European Div Y-QInc(G)-EUR,Novo Nordisk A/S B
+243,Fidelity European Div Y-QInc(G)-EUR,Ferrovial SA
+244,Fidelity European Div Y-QInc(G)-EUR,RELX PLC
+245,Invesco Pan European Eq Inc C EUR Acc,Roche Holding AG Dividend Right Cert.
+246,Invesco Pan European Eq Inc C EUR Acc,Sanofi SA
+247,Invesco Pan European Eq Inc C EUR Acc,Novartis AG
+248,Invesco Pan European Eq Inc C EUR Acc,Tesco PLC
+249,Invesco Pan European Eq Inc C EUR Acc,UPM-Kymmene Oyj
+250,Invesco Pan European Eq Inc C EUR Acc,Deutsche Post AG
+251,Invesco Pan European Eq Inc C EUR Acc,Munchener Ruckversicherungs-Gesellschaft AG
+252,Invesco Pan European Eq Inc C EUR Acc,Orange SA
+253,Invesco Pan European Eq Inc C EUR Acc,AXA SA
+254,Invesco Pan European Eq Inc C EUR Acc,EDP - Energias de Portugal SA
+255,Man GLG Eurp Inc Opports I C EUR,Roche Holding AG Dividend Right Cert.
+256,Man GLG Eurp Inc Opports I C EUR,SIG Combibloc Group AG Ordinary Shares
+257,Man GLG Eurp Inc Opports I C EUR,Danone SA
+258,Man GLG Eurp Inc Opports I C EUR,Anglo American PLC
+259,Man GLG Eurp Inc Opports I C EUR,Rockwool International A/S B
+260,Man GLG Eurp Inc Opports I C EUR,Allianz SE
+261,Man GLG Eurp Inc Opports I C EUR,easyJet PLC
+262,Man GLG Eurp Inc Opports I C EUR,SAP SE
+263,Man GLG Eurp Inc Opports I C EUR,Vinci SA
+264,Man GLG Eurp Inc Opports I C EUR,Intesa Sanpaolo
+265,Man GLG Eurp Inc Opports IM C EUR,Roche Holding AG Dividend Right Cert.
+266,Man GLG Eurp Inc Opports IM C EUR,SIG Combibloc Group AG Ordinary Shares
+267,Man GLG Eurp Inc Opports IM C EUR,Danone SA
+268,Man GLG Eurp Inc Opports IM C EUR,Anglo American PLC
+269,Man GLG Eurp Inc Opports IM C EUR,Rockwool International A/S B
+270,Man GLG Eurp Inc Opports IM C EUR,Allianz SE
+271,Man GLG Eurp Inc Opports IM C EUR,easyJet PLC
+272,Man GLG Eurp Inc Opports IM C EUR,SAP SE
+273,Man GLG Eurp Inc Opports IM C EUR,Vinci SA
+274,Man GLG Eurp Inc Opports IM C EUR,Intesa Sanpaolo
+275,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,AXA SA
+276,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,ASM International NV
+277,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,DWS Group GmbH & Co KGaA
+278,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,Royal Philips NV
+279,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,Enel SpA
+280,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,St James's Place PLC
+281,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,Brenntag AG
+282,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,Sandvik AB
+283,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,Infrastrutture Wireless Italiane SpA
+284,Threadneedle (Lux) Pan Eur Eq Dv 1E EUR,Neste Corp
+285,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,AXA SA
+286,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,ASM International NV
+287,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,DWS Group GmbH & Co KGaA
+288,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,Royal Philips NV
+289,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,Enel SpA
+290,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,St James's Place PLC
+291,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,Brenntag AG
+292,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,Sandvik AB
+293,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,Infrastrutture Wireless Italiane SpA
+294,Threadneedle (Lux) Pan Eur Eq Dv 1EP EUR,Neste Corp
+295,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,AXA SA
+296,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,ASM International NV
+297,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,DWS Group GmbH & Co KGaA
+298,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,Royal Philips NV
+299,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,Enel SpA
+300,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,St James's Place PLC
+301,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,Brenntag AG
+302,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,Sandvik AB
+303,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,Infrastrutture Wireless Italiane SpA
+304,Threadneedle (Lux) Pan Eur Eq Dv 1G GBP,Neste Corp
+305,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,AXA SA
+306,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,ASM International NV
+307,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,DWS Group GmbH & Co KGaA
+308,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,Royal Philips NV
+309,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,Enel SpA
+310,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,St James's Place PLC
+311,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,Brenntag AG
+312,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,Sandvik AB
+313,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,Infrastrutture Wireless Italiane SpA
+314,Threadneedle (Lux) Pan Eur Eq Dv 1GP GBP,Neste Corp
+315,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,AXA SA
+316,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,ASM International NV
+317,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,DWS Group GmbH & Co KGaA
+318,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,Royal Philips NV
+319,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,Enel SpA
+320,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,St James's Place PLC
+321,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,Brenntag AG
+322,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,Sandvik AB
+323,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,Infrastrutture Wireless Italiane SpA
+324,Threadneedle (Lux) Pan Eur Eq Dv 2E EUR,Neste Corp
+325,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,AXA SA
+326,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,ASM International NV
+327,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,DWS Group GmbH & Co KGaA
+328,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,Royal Philips NV
+329,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,Enel SpA
+330,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,St James's Place PLC
+331,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,Brenntag AG
+332,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,Sandvik AB
+333,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,Infrastrutture Wireless Italiane SpA
+334,Threadneedle (Lux) Pan Eur Eq Dv 2EP EUR,Neste Corp
+335,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,AXA SA
+336,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,ASM International NV
+337,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,DWS Group GmbH & Co KGaA
+338,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,Royal Philips NV
+339,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,Enel SpA
+340,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,St James's Place PLC
+341,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,Brenntag AG
+342,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,Sandvik AB
+343,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,Infrastrutture Wireless Italiane SpA
+344,Threadneedle (Lux) Pan Eur Eq Dv 2G GBP,Neste Corp
+345,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,AXA SA
+346,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,ASM International NV
+347,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,DWS Group GmbH & Co KGaA
+348,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,Royal Philips NV
+349,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,Enel SpA
+350,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,St James's Place PLC
+351,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,Brenntag AG
+352,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,Sandvik AB
+353,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,Infrastrutture Wireless Italiane SpA
+354,Threadneedle (Lux) Pan Eur Eq Dv 2GP GBP,Neste Corp
+355,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,AXA SA
+356,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,ASM International NV
+357,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,DWS Group GmbH & Co KGaA
+358,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,Royal Philips NV
+359,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,Enel SpA
+360,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,St James's Place PLC
+361,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,Brenntag AG
+362,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,Sandvik AB
+363,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,Infrastrutture Wireless Italiane SpA
+364,Threadneedle (Lux) Pan Eur Eq Dv 3EP EUR,Neste Corp
+365,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,AXA SA
+366,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,ASM International NV
+367,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,DWS Group GmbH & Co KGaA
+368,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,Royal Philips NV
+369,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,Enel SpA
+370,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,St James's Place PLC
+371,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,Brenntag AG
+372,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,Sandvik AB
+373,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,Infrastrutture Wireless Italiane SpA
+374,Threadneedle (Lux) Pan Eur Eq Dv 3G GBP,Neste Corp
+375,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,AXA SA
+376,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,ASM International NV
+377,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,DWS Group GmbH & Co KGaA
+378,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,Royal Philips NV
+379,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,Enel SpA
+380,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,St James's Place PLC
+381,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,Brenntag AG
+382,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,Sandvik AB
+383,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,Infrastrutture Wireless Italiane SpA
+384,Threadneedle (Lux) Pan Eur Eq Dv 3GP GBP,Neste Corp
+385,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,AXA SA
+386,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,ASM International NV
+387,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,DWS Group GmbH & Co KGaA
+388,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,Royal Philips NV
+389,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,Enel SpA
+390,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,St James's Place PLC
+391,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,Brenntag AG
+392,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,Sandvik AB
+393,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,Infrastrutture Wireless Italiane SpA
+394,Threadneedle (Lux) Pan Eur Eq Dv 4GP GBP,Neste Corp
+395,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,AXA SA
+396,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,ASM International NV
+397,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,DWS Group GmbH & Co KGaA
+398,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,Royal Philips NV
+399,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,Enel SpA
+400,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,St James's Place PLC
+401,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,Brenntag AG
+402,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,Sandvik AB
+403,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,Infrastrutture Wireless Italiane SpA
+404,Threadneedle (Lux) Pan Eur Eq Dv 8E EUR,Neste Corp
+405,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,AXA SA
+406,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,ASM International NV
+407,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,DWS Group GmbH & Co KGaA
+408,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,Royal Philips NV
+409,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,Enel SpA
+410,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,St James's Place PLC
+411,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,Brenntag AG
+412,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,Sandvik AB
+413,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,Infrastrutture Wireless Italiane SpA
+414,Threadneedle (Lux) Pan Eur Eq Dv 9GP GBP,Neste Corp
+415,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,AXA SA
+416,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,ASM International NV
+417,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,DWS Group GmbH & Co KGaA
+418,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,Royal Philips NV
+419,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,Enel SpA
+420,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,St James's Place PLC
+421,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,Brenntag AG
+422,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,Sandvik AB
+423,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,Infrastrutture Wireless Italiane SpA
+424,Threadneedle (Lux) Pan Eur Eq Dv IE EUR,Neste Corp
+425,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,AXA SA
+426,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,ASM International NV
+427,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,DWS Group GmbH & Co KGaA
+428,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,Royal Philips NV
+429,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,Enel SpA
+430,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,St James's Place PLC
+431,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,Brenntag AG
+432,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,Sandvik AB
+433,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,Infrastrutture Wireless Italiane SpA
+434,Threadneedle (Lux) Pan Eur Eq Dv IEP EUR,Neste Corp
+435,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,AXA SA
+436,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,ASM International NV
+437,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,DWS Group GmbH & Co KGaA
+438,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,Royal Philips NV
+439,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,Enel SpA
+440,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,St James's Place PLC
+441,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,Brenntag AG
+442,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,Sandvik AB
+443,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,Infrastrutture Wireless Italiane SpA
+444,Threadneedle (Lux) Pan Eur Eq Dv ZE EUR,Neste Corp
+445,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,AXA SA
+446,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,ASM International NV
+447,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,DWS Group GmbH & Co KGaA
+448,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,Royal Philips NV
+449,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,Enel SpA
+450,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,St James's Place PLC
+451,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,Brenntag AG
+452,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,Sandvik AB
+453,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,Infrastrutture Wireless Italiane SpA
+454,Threadneedle (Lux) Pan Eur Eq Dv ZEP EUR,Neste Corp

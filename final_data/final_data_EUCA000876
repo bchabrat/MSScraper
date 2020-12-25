@@ -1,0 +1,2926 @@
+,fund,stock
+0,Aegon Global Equity Income EUR A Inc,Microsoft Corp
+1,Aegon Global Equity Income EUR A Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2,Aegon Global Equity Income EUR A Inc,Texas Instruments Inc
+3,Aegon Global Equity Income EUR A Inc,Broadcom Inc
+4,Aegon Global Equity Income EUR A Inc,Schneider Electric SE
+5,Aegon Global Equity Income EUR A Inc,Nestle SA
+6,Aegon Global Equity Income EUR A Inc,NextEra Energy Inc
+7,Aegon Global Equity Income EUR A Inc,PepsiCo Inc
+8,Aegon Global Equity Income EUR A Inc,Eaton Corp PLC
+9,Aegon Global Equity Income EUR A Inc,Macquarie Group Ltd
+10,Aegon Global Equity Income EUR B Inc,Microsoft Corp
+11,Aegon Global Equity Income EUR B Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+12,Aegon Global Equity Income EUR B Inc,Texas Instruments Inc
+13,Aegon Global Equity Income EUR B Inc,Broadcom Inc
+14,Aegon Global Equity Income EUR B Inc,Schneider Electric SE
+15,Aegon Global Equity Income EUR B Inc,Nestle SA
+16,Aegon Global Equity Income EUR B Inc,NextEra Energy Inc
+17,Aegon Global Equity Income EUR B Inc,PepsiCo Inc
+18,Aegon Global Equity Income EUR B Inc,Eaton Corp PLC
+19,Aegon Global Equity Income EUR B Inc,Macquarie Group Ltd
+20,Aegon Global Equity Income GBP B Acc,Microsoft Corp
+21,Aegon Global Equity Income GBP B Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+22,Aegon Global Equity Income GBP B Acc,Texas Instruments Inc
+23,Aegon Global Equity Income GBP B Acc,Broadcom Inc
+24,Aegon Global Equity Income GBP B Acc,Schneider Electric SE
+25,Aegon Global Equity Income GBP B Acc,Nestle SA
+26,Aegon Global Equity Income GBP B Acc,NextEra Energy Inc
+27,Aegon Global Equity Income GBP B Acc,PepsiCo Inc
+28,Aegon Global Equity Income GBP B Acc,Eaton Corp PLC
+29,Aegon Global Equity Income GBP B Acc,Macquarie Group Ltd
+30,Aegon Global Equity Income GBP C Inc,Microsoft Corp
+31,Aegon Global Equity Income GBP C Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+32,Aegon Global Equity Income GBP C Inc,Texas Instruments Inc
+33,Aegon Global Equity Income GBP C Inc,Broadcom Inc
+34,Aegon Global Equity Income GBP C Inc,Schneider Electric SE
+35,Aegon Global Equity Income GBP C Inc,Nestle SA
+36,Aegon Global Equity Income GBP C Inc,NextEra Energy Inc
+37,Aegon Global Equity Income GBP C Inc,PepsiCo Inc
+38,Aegon Global Equity Income GBP C Inc,Eaton Corp PLC
+39,Aegon Global Equity Income GBP C Inc,Macquarie Group Ltd
+40,Aegon Global Equity Income USD B Acc,Microsoft Corp
+41,Aegon Global Equity Income USD B Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+42,Aegon Global Equity Income USD B Acc,Texas Instruments Inc
+43,Aegon Global Equity Income USD B Acc,Broadcom Inc
+44,Aegon Global Equity Income USD B Acc,Schneider Electric SE
+45,Aegon Global Equity Income USD B Acc,Nestle SA
+46,Aegon Global Equity Income USD B Acc,NextEra Energy Inc
+47,Aegon Global Equity Income USD B Acc,PepsiCo Inc
+48,Aegon Global Equity Income USD B Acc,Eaton Corp PLC
+49,Aegon Global Equity Income USD B Acc,Macquarie Group Ltd
+50,Aegon Global Equity Income USD C Inc,Microsoft Corp
+51,Aegon Global Equity Income USD C Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+52,Aegon Global Equity Income USD C Inc,Texas Instruments Inc
+53,Aegon Global Equity Income USD C Inc,Broadcom Inc
+54,Aegon Global Equity Income USD C Inc,Schneider Electric SE
+55,Aegon Global Equity Income USD C Inc,Nestle SA
+56,Aegon Global Equity Income USD C Inc,NextEra Energy Inc
+57,Aegon Global Equity Income USD C Inc,PepsiCo Inc
+58,Aegon Global Equity Income USD C Inc,Eaton Corp PLC
+59,Aegon Global Equity Income USD C Inc,Macquarie Group Ltd
+60,ASI Global Income Equity I Founder Acc,Microsoft Corp
+61,ASI Global Income Equity I Founder Acc,Taiwan Semiconductor Manufacturing Co Ltd
+62,ASI Global Income Equity I Founder Acc,Samsung Electronics Co Ltd Participating Preferred
+63,ASI Global Income Equity I Founder Acc,Nestle SA
+64,ASI Global Income Equity I Founder Acc,Procter & Gamble Co
+65,ASI Global Income Equity I Founder Acc,AstraZeneca PLC
+66,ASI Global Income Equity I Founder Acc,Vonovia SE
+67,ASI Global Income Equity I Founder Acc,Enel SpA
+68,ASI Global Income Equity I Founder Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+69,ASI Global Income Equity I Founder Acc,NextEra Energy Inc
+70,ASI Global Income Equity P1 Acc,Microsoft Corp
+71,ASI Global Income Equity P1 Acc,Taiwan Semiconductor Manufacturing Co Ltd
+72,ASI Global Income Equity P1 Acc,Samsung Electronics Co Ltd Participating Preferred
+73,ASI Global Income Equity P1 Acc,Nestle SA
+74,ASI Global Income Equity P1 Acc,Procter & Gamble Co
+75,ASI Global Income Equity P1 Acc,AstraZeneca PLC
+76,ASI Global Income Equity P1 Acc,Vonovia SE
+77,ASI Global Income Equity P1 Acc,Enel SpA
+78,ASI Global Income Equity P1 Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+79,ASI Global Income Equity P1 Acc,NextEra Energy Inc
+80,ASI Global Income Equity R Founder Acc,Microsoft Corp
+81,ASI Global Income Equity R Founder Acc,Taiwan Semiconductor Manufacturing Co Ltd
+82,ASI Global Income Equity R Founder Acc,Samsung Electronics Co Ltd Participating Preferred
+83,ASI Global Income Equity R Founder Acc,Nestle SA
+84,ASI Global Income Equity R Founder Acc,Procter & Gamble Co
+85,ASI Global Income Equity R Founder Acc,AstraZeneca PLC
+86,ASI Global Income Equity R Founder Acc,Vonovia SE
+87,ASI Global Income Equity R Founder Acc,Enel SpA
+88,ASI Global Income Equity R Founder Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+89,ASI Global Income Equity R Founder Acc,NextEra Energy Inc
+90,Aviva Investors Global Eq Inc 1 GBP Acc,AXA SA
+91,Aviva Investors Global Eq Inc 1 GBP Acc,Microsoft Corp
+92,Aviva Investors Global Eq Inc 1 GBP Acc,Cisco Systems Inc
+93,Aviva Investors Global Eq Inc 1 GBP Acc,NextEra Energy Inc
+94,Aviva Investors Global Eq Inc 1 GBP Acc,UnitedHealth Group Inc
+95,Aviva Investors Global Eq Inc 1 GBP Acc,Hubbell Inc
+96,Aviva Investors Global Eq Inc 1 GBP Acc,Medtronic PLC
+97,Aviva Investors Global Eq Inc 1 GBP Acc,Motorola Solutions Inc
+98,Aviva Investors Global Eq Inc 1 GBP Acc,Total SE
+99,Aviva Investors Global Eq Inc 1 GBP Acc,The Home Depot Inc
+100,Aviva Investors Global Eq Inc 1 GBP Inc,AXA SA
+101,Aviva Investors Global Eq Inc 1 GBP Inc,Microsoft Corp
+102,Aviva Investors Global Eq Inc 1 GBP Inc,Cisco Systems Inc
+103,Aviva Investors Global Eq Inc 1 GBP Inc,NextEra Energy Inc
+104,Aviva Investors Global Eq Inc 1 GBP Inc,UnitedHealth Group Inc
+105,Aviva Investors Global Eq Inc 1 GBP Inc,Hubbell Inc
+106,Aviva Investors Global Eq Inc 1 GBP Inc,Medtronic PLC
+107,Aviva Investors Global Eq Inc 1 GBP Inc,Motorola Solutions Inc
+108,Aviva Investors Global Eq Inc 1 GBP Inc,Total SE
+109,Aviva Investors Global Eq Inc 1 GBP Inc,The Home Depot Inc
+110,Aviva Investors Global Eq Inc 2 GBP Acc,AXA SA
+111,Aviva Investors Global Eq Inc 2 GBP Acc,Microsoft Corp
+112,Aviva Investors Global Eq Inc 2 GBP Acc,Cisco Systems Inc
+113,Aviva Investors Global Eq Inc 2 GBP Acc,NextEra Energy Inc
+114,Aviva Investors Global Eq Inc 2 GBP Acc,UnitedHealth Group Inc
+115,Aviva Investors Global Eq Inc 2 GBP Acc,Hubbell Inc
+116,Aviva Investors Global Eq Inc 2 GBP Acc,Medtronic PLC
+117,Aviva Investors Global Eq Inc 2 GBP Acc,Motorola Solutions Inc
+118,Aviva Investors Global Eq Inc 2 GBP Acc,Total SE
+119,Aviva Investors Global Eq Inc 2 GBP Acc,The Home Depot Inc
+120,Aviva Investors Global Eq Inc 2 GBP Inc,AXA SA
+121,Aviva Investors Global Eq Inc 2 GBP Inc,Microsoft Corp
+122,Aviva Investors Global Eq Inc 2 GBP Inc,Cisco Systems Inc
+123,Aviva Investors Global Eq Inc 2 GBP Inc,NextEra Energy Inc
+124,Aviva Investors Global Eq Inc 2 GBP Inc,UnitedHealth Group Inc
+125,Aviva Investors Global Eq Inc 2 GBP Inc,Hubbell Inc
+126,Aviva Investors Global Eq Inc 2 GBP Inc,Medtronic PLC
+127,Aviva Investors Global Eq Inc 2 GBP Inc,Motorola Solutions Inc
+128,Aviva Investors Global Eq Inc 2 GBP Inc,Total SE
+129,Aviva Investors Global Eq Inc 2 GBP Inc,The Home Depot Inc
+130,Aviva Investors Global Eq Inc 3 GBP Acc,AXA SA
+131,Aviva Investors Global Eq Inc 3 GBP Acc,Microsoft Corp
+132,Aviva Investors Global Eq Inc 3 GBP Acc,Cisco Systems Inc
+133,Aviva Investors Global Eq Inc 3 GBP Acc,NextEra Energy Inc
+134,Aviva Investors Global Eq Inc 3 GBP Acc,UnitedHealth Group Inc
+135,Aviva Investors Global Eq Inc 3 GBP Acc,Hubbell Inc
+136,Aviva Investors Global Eq Inc 3 GBP Acc,Medtronic PLC
+137,Aviva Investors Global Eq Inc 3 GBP Acc,Motorola Solutions Inc
+138,Aviva Investors Global Eq Inc 3 GBP Acc,Total SE
+139,Aviva Investors Global Eq Inc 3 GBP Acc,The Home Depot Inc
+140,Aviva Investors Global Eq Inc 3 GBP Inc,AXA SA
+141,Aviva Investors Global Eq Inc 3 GBP Inc,Microsoft Corp
+142,Aviva Investors Global Eq Inc 3 GBP Inc,Cisco Systems Inc
+143,Aviva Investors Global Eq Inc 3 GBP Inc,NextEra Energy Inc
+144,Aviva Investors Global Eq Inc 3 GBP Inc,UnitedHealth Group Inc
+145,Aviva Investors Global Eq Inc 3 GBP Inc,Hubbell Inc
+146,Aviva Investors Global Eq Inc 3 GBP Inc,Medtronic PLC
+147,Aviva Investors Global Eq Inc 3 GBP Inc,Motorola Solutions Inc
+148,Aviva Investors Global Eq Inc 3 GBP Inc,Total SE
+149,Aviva Investors Global Eq Inc 3 GBP Inc,The Home Depot Inc
+150,Baillie Gifford Global Inc Growth A Acc,United Parcel Service Inc Class B
+151,Baillie Gifford Global Inc Growth A Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+152,Baillie Gifford Global Inc Growth A Acc,Procter & Gamble Co
+153,Baillie Gifford Global Inc Growth A Acc,Roche Holding AG Dividend Right Cert.
+154,Baillie Gifford Global Inc Growth A Acc,Deutsche Boerse AG
+155,Baillie Gifford Global Inc Growth A Acc,Fastenal Co
+156,Baillie Gifford Global Inc Growth A Acc,Sonic Healthcare Ltd
+157,Baillie Gifford Global Inc Growth A Acc,Nestle SA
+158,Baillie Gifford Global Inc Growth A Acc,Microsoft Corp
+159,Baillie Gifford Global Inc Growth A Acc,Coca-Cola Co
+160,Baillie Gifford Global Inc Growth A Inc,United Parcel Service Inc Class B
+161,Baillie Gifford Global Inc Growth A Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+162,Baillie Gifford Global Inc Growth A Inc,Procter & Gamble Co
+163,Baillie Gifford Global Inc Growth A Inc,Roche Holding AG Dividend Right Cert.
+164,Baillie Gifford Global Inc Growth A Inc,Deutsche Boerse AG
+165,Baillie Gifford Global Inc Growth A Inc,Fastenal Co
+166,Baillie Gifford Global Inc Growth A Inc,Sonic Healthcare Ltd
+167,Baillie Gifford Global Inc Growth A Inc,Nestle SA
+168,Baillie Gifford Global Inc Growth A Inc,Microsoft Corp
+169,Baillie Gifford Global Inc Growth A Inc,Coca-Cola Co
+170,Baillie Gifford Global Inc Growth B Acc,United Parcel Service Inc Class B
+171,Baillie Gifford Global Inc Growth B Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+172,Baillie Gifford Global Inc Growth B Acc,Procter & Gamble Co
+173,Baillie Gifford Global Inc Growth B Acc,Roche Holding AG Dividend Right Cert.
+174,Baillie Gifford Global Inc Growth B Acc,Deutsche Boerse AG
+175,Baillie Gifford Global Inc Growth B Acc,Fastenal Co
+176,Baillie Gifford Global Inc Growth B Acc,Sonic Healthcare Ltd
+177,Baillie Gifford Global Inc Growth B Acc,Nestle SA
+178,Baillie Gifford Global Inc Growth B Acc,Microsoft Corp
+179,Baillie Gifford Global Inc Growth B Acc,Coca-Cola Co
+180,Baillie Gifford Global Inc Growth B Inc,United Parcel Service Inc Class B
+181,Baillie Gifford Global Inc Growth B Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+182,Baillie Gifford Global Inc Growth B Inc,Procter & Gamble Co
+183,Baillie Gifford Global Inc Growth B Inc,Roche Holding AG Dividend Right Cert.
+184,Baillie Gifford Global Inc Growth B Inc,Deutsche Boerse AG
+185,Baillie Gifford Global Inc Growth B Inc,Fastenal Co
+186,Baillie Gifford Global Inc Growth B Inc,Sonic Healthcare Ltd
+187,Baillie Gifford Global Inc Growth B Inc,Nestle SA
+188,Baillie Gifford Global Inc Growth B Inc,Microsoft Corp
+189,Baillie Gifford Global Inc Growth B Inc,Coca-Cola Co
+190,Barings Global Div Champions A USD Acc,Unilever PLC
+191,Barings Global Div Champions A USD Acc,Nestle SA
+192,Barings Global Div Champions A USD Acc,Nintendo Co Ltd
+193,Barings Global Div Champions A USD Acc,Air Liquide SA
+194,Barings Global Div Champions A USD Acc,3M Co
+195,Barings Global Div Champions A USD Acc,L'Oreal SA
+196,Barings Global Div Champions A USD Acc,Reckitt Benckiser Group PLC
+197,Barings Global Div Champions A USD Acc,Stryker Corp
+198,Barings Global Div Champions A USD Acc,"Becton, Dickinson and Co"
+199,Barings Global Div Champions A USD Acc,PepsiCo Inc
+200,Barings Global Div Champions I GBP Acc,Unilever PLC
+201,Barings Global Div Champions I GBP Acc,Nestle SA
+202,Barings Global Div Champions I GBP Acc,Nintendo Co Ltd
+203,Barings Global Div Champions I GBP Acc,Air Liquide SA
+204,Barings Global Div Champions I GBP Acc,3M Co
+205,Barings Global Div Champions I GBP Acc,L'Oreal SA
+206,Barings Global Div Champions I GBP Acc,Reckitt Benckiser Group PLC
+207,Barings Global Div Champions I GBP Acc,Stryker Corp
+208,Barings Global Div Champions I GBP Acc,"Becton, Dickinson and Co"
+209,Barings Global Div Champions I GBP Acc,PepsiCo Inc
+210,Barings Global Div Champions I USD Inc,Unilever PLC
+211,Barings Global Div Champions I USD Inc,Nestle SA
+212,Barings Global Div Champions I USD Inc,Nintendo Co Ltd
+213,Barings Global Div Champions I USD Inc,Air Liquide SA
+214,Barings Global Div Champions I USD Inc,3M Co
+215,Barings Global Div Champions I USD Inc,L'Oreal SA
+216,Barings Global Div Champions I USD Inc,Reckitt Benckiser Group PLC
+217,Barings Global Div Champions I USD Inc,Stryker Corp
+218,Barings Global Div Champions I USD Inc,"Becton, Dickinson and Co"
+219,Barings Global Div Champions I USD Inc,PepsiCo Inc
+220,BL-Equities Dividend A EUR,Unilever NV
+221,BL-Equities Dividend A EUR,PepsiCo Inc
+222,BL-Equities Dividend A EUR,Colgate-Palmolive Co
+223,BL-Equities Dividend A EUR,Philip Morris International Inc
+224,BL-Equities Dividend A EUR,Nestle SA
+225,BL-Equities Dividend A EUR,Givaudan SA
+226,BL-Equities Dividend A EUR,Reckitt Benckiser Group PLC
+227,BL-Equities Dividend A EUR,National Grid PLC
+228,BL-Equities Dividend A EUR,SGS AG
+229,BL-Equities Dividend A EUR,Canadian National Railway Co
+230,BL-Equities Dividend AI EUR,Unilever NV
+231,BL-Equities Dividend AI EUR,PepsiCo Inc
+232,BL-Equities Dividend AI EUR,Colgate-Palmolive Co
+233,BL-Equities Dividend AI EUR,Philip Morris International Inc
+234,BL-Equities Dividend AI EUR,Nestle SA
+235,BL-Equities Dividend AI EUR,Givaudan SA
+236,BL-Equities Dividend AI EUR,Reckitt Benckiser Group PLC
+237,BL-Equities Dividend AI EUR,National Grid PLC
+238,BL-Equities Dividend AI EUR,SGS AG
+239,BL-Equities Dividend AI EUR,Canadian National Railway Co
+240,BL-Equities Dividend AM EUR,Unilever NV
+241,BL-Equities Dividend AM EUR,PepsiCo Inc
+242,BL-Equities Dividend AM EUR,Colgate-Palmolive Co
+243,BL-Equities Dividend AM EUR,Philip Morris International Inc
+244,BL-Equities Dividend AM EUR,Nestle SA
+245,BL-Equities Dividend AM EUR,Givaudan SA
+246,BL-Equities Dividend AM EUR,Reckitt Benckiser Group PLC
+247,BL-Equities Dividend AM EUR,National Grid PLC
+248,BL-Equities Dividend AM EUR,SGS AG
+249,BL-Equities Dividend AM EUR,Canadian National Railway Co
+250,BL-Equities Dividend AR EUR,Unilever NV
+251,BL-Equities Dividend AR EUR,PepsiCo Inc
+252,BL-Equities Dividend AR EUR,Colgate-Palmolive Co
+253,BL-Equities Dividend AR EUR,Philip Morris International Inc
+254,BL-Equities Dividend AR EUR,Nestle SA
+255,BL-Equities Dividend AR EUR,Givaudan SA
+256,BL-Equities Dividend AR EUR,Reckitt Benckiser Group PLC
+257,BL-Equities Dividend AR EUR,National Grid PLC
+258,BL-Equities Dividend AR EUR,SGS AG
+259,BL-Equities Dividend AR EUR,Canadian National Railway Co
+260,BL-Equities Dividend B EUR,Unilever NV
+261,BL-Equities Dividend B EUR,PepsiCo Inc
+262,BL-Equities Dividend B EUR,Colgate-Palmolive Co
+263,BL-Equities Dividend B EUR,Philip Morris International Inc
+264,BL-Equities Dividend B EUR,Nestle SA
+265,BL-Equities Dividend B EUR,Givaudan SA
+266,BL-Equities Dividend B EUR,Reckitt Benckiser Group PLC
+267,BL-Equities Dividend B EUR,National Grid PLC
+268,BL-Equities Dividend B EUR,SGS AG
+269,BL-Equities Dividend B EUR,Canadian National Railway Co
+270,BL-Equities Dividend BI EUR,Unilever NV
+271,BL-Equities Dividend BI EUR,PepsiCo Inc
+272,BL-Equities Dividend BI EUR,Colgate-Palmolive Co
+273,BL-Equities Dividend BI EUR,Philip Morris International Inc
+274,BL-Equities Dividend BI EUR,Nestle SA
+275,BL-Equities Dividend BI EUR,Givaudan SA
+276,BL-Equities Dividend BI EUR,Reckitt Benckiser Group PLC
+277,BL-Equities Dividend BI EUR,National Grid PLC
+278,BL-Equities Dividend BI EUR,SGS AG
+279,BL-Equities Dividend BI EUR,Canadian National Railway Co
+280,BL-Equities Dividend BM EUR,Unilever NV
+281,BL-Equities Dividend BM EUR,PepsiCo Inc
+282,BL-Equities Dividend BM EUR,Colgate-Palmolive Co
+283,BL-Equities Dividend BM EUR,Philip Morris International Inc
+284,BL-Equities Dividend BM EUR,Nestle SA
+285,BL-Equities Dividend BM EUR,Givaudan SA
+286,BL-Equities Dividend BM EUR,Reckitt Benckiser Group PLC
+287,BL-Equities Dividend BM EUR,National Grid PLC
+288,BL-Equities Dividend BM EUR,SGS AG
+289,BL-Equities Dividend BM EUR,Canadian National Railway Co
+290,BL-Equities Dividend BR EUR,Unilever NV
+291,BL-Equities Dividend BR EUR,PepsiCo Inc
+292,BL-Equities Dividend BR EUR,Colgate-Palmolive Co
+293,BL-Equities Dividend BR EUR,Philip Morris International Inc
+294,BL-Equities Dividend BR EUR,Nestle SA
+295,BL-Equities Dividend BR EUR,Givaudan SA
+296,BL-Equities Dividend BR EUR,Reckitt Benckiser Group PLC
+297,BL-Equities Dividend BR EUR,National Grid PLC
+298,BL-Equities Dividend BR EUR,SGS AG
+299,BL-Equities Dividend BR EUR,Canadian National Railway Co
+300,BGF Systematic Glbl Eq Hi Inc D2 USD,Apple Inc
+301,BGF Systematic Glbl Eq Hi Inc D2 USD,Costco Wholesale Corp
+302,BGF Systematic Glbl Eq Hi Inc D2 USD,Mastercard Inc A
+303,BGF Systematic Glbl Eq Hi Inc D2 USD,Amazon.com Inc
+304,BGF Systematic Glbl Eq Hi Inc D2 USD,Microsoft Corp
+305,BGF Systematic Glbl Eq Hi Inc D2 USD,Visa Inc Class A
+306,BGF Systematic Glbl Eq Hi Inc D2 USD,Adobe Inc
+307,BGF Systematic Glbl Eq Hi Inc D2 USD,Nike Inc B
+308,BGF Systematic Glbl Eq Hi Inc D2 USD,Activision Blizzard Inc
+309,BGF Systematic Glbl Eq Hi Inc D2 USD,Bristol-Myers Squibb Company
+310,BGF Systematic Glbl Eq Hi Inc I5 USD,Apple Inc
+311,BGF Systematic Glbl Eq Hi Inc I5 USD,Costco Wholesale Corp
+312,BGF Systematic Glbl Eq Hi Inc I5 USD,Mastercard Inc A
+313,BGF Systematic Glbl Eq Hi Inc I5 USD,Amazon.com Inc
+314,BGF Systematic Glbl Eq Hi Inc I5 USD,Microsoft Corp
+315,BGF Systematic Glbl Eq Hi Inc I5 USD,Visa Inc Class A
+316,BGF Systematic Glbl Eq Hi Inc I5 USD,Adobe Inc
+317,BGF Systematic Glbl Eq Hi Inc I5 USD,Nike Inc B
+318,BGF Systematic Glbl Eq Hi Inc I5 USD,Activision Blizzard Inc
+319,BGF Systematic Glbl Eq Hi Inc I5 USD,Bristol-Myers Squibb Company
+320,BGF Systematic Glbl Eq Hi Inc D5G USD,Apple Inc
+321,BGF Systematic Glbl Eq Hi Inc D5G USD,Costco Wholesale Corp
+322,BGF Systematic Glbl Eq Hi Inc D5G USD,Mastercard Inc A
+323,BGF Systematic Glbl Eq Hi Inc D5G USD,Amazon.com Inc
+324,BGF Systematic Glbl Eq Hi Inc D5G USD,Microsoft Corp
+325,BGF Systematic Glbl Eq Hi Inc D5G USD,Visa Inc Class A
+326,BGF Systematic Glbl Eq Hi Inc D5G USD,Adobe Inc
+327,BGF Systematic Glbl Eq Hi Inc D5G USD,Nike Inc B
+328,BGF Systematic Glbl Eq Hi Inc D5G USD,Activision Blizzard Inc
+329,BGF Systematic Glbl Eq Hi Inc D5G USD,Bristol-Myers Squibb Company
+330,BGF Systematic Glbl Eq Hi Inc A6 USD,Apple Inc
+331,BGF Systematic Glbl Eq Hi Inc A6 USD,Costco Wholesale Corp
+332,BGF Systematic Glbl Eq Hi Inc A6 USD,Mastercard Inc A
+333,BGF Systematic Glbl Eq Hi Inc A6 USD,Amazon.com Inc
+334,BGF Systematic Glbl Eq Hi Inc A6 USD,Microsoft Corp
+335,BGF Systematic Glbl Eq Hi Inc A6 USD,Visa Inc Class A
+336,BGF Systematic Glbl Eq Hi Inc A6 USD,Adobe Inc
+337,BGF Systematic Glbl Eq Hi Inc A6 USD,Nike Inc B
+338,BGF Systematic Glbl Eq Hi Inc A6 USD,Activision Blizzard Inc
+339,BGF Systematic Glbl Eq Hi Inc A6 USD,Bristol-Myers Squibb Company
+340,BGF Global Equity Income A5G GBP,Sanofi SA
+341,BGF Global Equity Income A5G GBP,TELUS Corp
+342,BGF Global Equity Income A5G GBP,Texas Instruments Inc
+343,BGF Global Equity Income A5G GBP,Microsoft Corp
+344,BGF Global Equity Income A5G GBP,Paychex Inc
+345,BGF Global Equity Income A5G GBP,Novartis AG
+346,BGF Global Equity Income A5G GBP,Comcast Corp Class A
+347,BGF Global Equity Income A5G GBP,Unilever PLC
+348,BGF Global Equity Income A5G GBP,Philip Morris International Inc
+349,BGF Global Equity Income A5G GBP,BAE Systems PLC
+350,BGF Global Equity Income A5G USD,Sanofi SA
+351,BGF Global Equity Income A5G USD,TELUS Corp
+352,BGF Global Equity Income A5G USD,Texas Instruments Inc
+353,BGF Global Equity Income A5G USD,Microsoft Corp
+354,BGF Global Equity Income A5G USD,Paychex Inc
+355,BGF Global Equity Income A5G USD,Novartis AG
+356,BGF Global Equity Income A5G USD,Comcast Corp Class A
+357,BGF Global Equity Income A5G USD,Unilever PLC
+358,BGF Global Equity Income A5G USD,Philip Morris International Inc
+359,BGF Global Equity Income A5G USD,BAE Systems PLC
+360,BGF Global Equity Income D2 USD,Sanofi SA
+361,BGF Global Equity Income D2 USD,TELUS Corp
+362,BGF Global Equity Income D2 USD,Texas Instruments Inc
+363,BGF Global Equity Income D2 USD,Microsoft Corp
+364,BGF Global Equity Income D2 USD,Paychex Inc
+365,BGF Global Equity Income D2 USD,Novartis AG
+366,BGF Global Equity Income D2 USD,Comcast Corp Class A
+367,BGF Global Equity Income D2 USD,Unilever PLC
+368,BGF Global Equity Income D2 USD,Philip Morris International Inc
+369,BGF Global Equity Income D2 USD,BAE Systems PLC
+370,BGF Global Equity Income D4G EUR,Sanofi SA
+371,BGF Global Equity Income D4G EUR,TELUS Corp
+372,BGF Global Equity Income D4G EUR,Texas Instruments Inc
+373,BGF Global Equity Income D4G EUR,Microsoft Corp
+374,BGF Global Equity Income D4G EUR,Paychex Inc
+375,BGF Global Equity Income D4G EUR,Novartis AG
+376,BGF Global Equity Income D4G EUR,Comcast Corp Class A
+377,BGF Global Equity Income D4G EUR,Unilever PLC
+378,BGF Global Equity Income D4G EUR,Philip Morris International Inc
+379,BGF Global Equity Income D4G EUR,BAE Systems PLC
+380,BGF Global Equity Income D5G GBP,Sanofi SA
+381,BGF Global Equity Income D5G GBP,TELUS Corp
+382,BGF Global Equity Income D5G GBP,Texas Instruments Inc
+383,BGF Global Equity Income D5G GBP,Microsoft Corp
+384,BGF Global Equity Income D5G GBP,Paychex Inc
+385,BGF Global Equity Income D5G GBP,Novartis AG
+386,BGF Global Equity Income D5G GBP,Comcast Corp Class A
+387,BGF Global Equity Income D5G GBP,Unilever PLC
+388,BGF Global Equity Income D5G GBP,Philip Morris International Inc
+389,BGF Global Equity Income D5G GBP,BAE Systems PLC
+390,BGF Global Equity Income D5G USD,Sanofi SA
+391,BGF Global Equity Income D5G USD,TELUS Corp
+392,BGF Global Equity Income D5G USD,Texas Instruments Inc
+393,BGF Global Equity Income D5G USD,Microsoft Corp
+394,BGF Global Equity Income D5G USD,Paychex Inc
+395,BGF Global Equity Income D5G USD,Novartis AG
+396,BGF Global Equity Income D5G USD,Comcast Corp Class A
+397,BGF Global Equity Income D5G USD,Unilever PLC
+398,BGF Global Equity Income D5G USD,Philip Morris International Inc
+399,BGF Global Equity Income D5G USD,BAE Systems PLC
+400,BGF Global Equity Income A2 USD,Sanofi SA
+401,BGF Global Equity Income A2 USD,TELUS Corp
+402,BGF Global Equity Income A2 USD,Texas Instruments Inc
+403,BGF Global Equity Income A2 USD,Microsoft Corp
+404,BGF Global Equity Income A2 USD,Paychex Inc
+405,BGF Global Equity Income A2 USD,Novartis AG
+406,BGF Global Equity Income A2 USD,Comcast Corp Class A
+407,BGF Global Equity Income A2 USD,Unilever PLC
+408,BGF Global Equity Income A2 USD,Philip Morris International Inc
+409,BGF Global Equity Income A2 USD,BAE Systems PLC
+410,BlackRock Global Income D Acc,Sanofi SA
+411,BlackRock Global Income D Acc,Microsoft Corp
+412,BlackRock Global Income D Acc,TELUS Corp
+413,BlackRock Global Income D Acc,Paychex Inc
+414,BlackRock Global Income D Acc,Texas Instruments Inc
+415,BlackRock Global Income D Acc,Novartis AG
+416,BlackRock Global Income D Acc,Comcast Corp Class A
+417,BlackRock Global Income D Acc,Unilever PLC
+418,BlackRock Global Income D Acc,Philip Morris International Inc
+419,BlackRock Global Income D Acc,Lockheed Martin Corp
+420,BlackRock Global Income D Inc,Sanofi SA
+421,BlackRock Global Income D Inc,Microsoft Corp
+422,BlackRock Global Income D Inc,TELUS Corp
+423,BlackRock Global Income D Inc,Paychex Inc
+424,BlackRock Global Income D Inc,Texas Instruments Inc
+425,BlackRock Global Income D Inc,Novartis AG
+426,BlackRock Global Income D Inc,Comcast Corp Class A
+427,BlackRock Global Income D Inc,Unilever PLC
+428,BlackRock Global Income D Inc,Philip Morris International Inc
+429,BlackRock Global Income D Inc,Lockheed Martin Corp
+430,BNY Mellon Global Equity Inc EUR A Acc,Cisco Systems Inc
+431,BNY Mellon Global Equity Inc EUR A Acc,Samsung Electronics Co Ltd Participating Preferred
+432,BNY Mellon Global Equity Inc EUR A Acc,Qualcomm Inc
+433,BNY Mellon Global Equity Inc EUR A Acc,Unilever PLC
+434,BNY Mellon Global Equity Inc EUR A Acc,Infosys Ltd ADR
+435,BNY Mellon Global Equity Inc EUR A Acc,PepsiCo Inc
+436,BNY Mellon Global Equity Inc EUR A Acc,Zurich Insurance Group AG
+437,BNY Mellon Global Equity Inc EUR A Acc,Novartis AG
+438,BNY Mellon Global Equity Inc EUR A Acc,Sanofi SA
+439,BNY Mellon Global Equity Inc EUR A Acc,Cie Financiere Richemont SA
+440,BNY Mellon Global Equity Inc EUR B Acc,Cisco Systems Inc
+441,BNY Mellon Global Equity Inc EUR B Acc,Samsung Electronics Co Ltd Participating Preferred
+442,BNY Mellon Global Equity Inc EUR B Acc,Qualcomm Inc
+443,BNY Mellon Global Equity Inc EUR B Acc,Unilever PLC
+444,BNY Mellon Global Equity Inc EUR B Acc,Infosys Ltd ADR
+445,BNY Mellon Global Equity Inc EUR B Acc,PepsiCo Inc
+446,BNY Mellon Global Equity Inc EUR B Acc,Zurich Insurance Group AG
+447,BNY Mellon Global Equity Inc EUR B Acc,Novartis AG
+448,BNY Mellon Global Equity Inc EUR B Acc,Sanofi SA
+449,BNY Mellon Global Equity Inc EUR B Acc,Cie Financiere Richemont SA
+450,BNY Mellon Global Equity Inc EUR B Inc,Cisco Systems Inc
+451,BNY Mellon Global Equity Inc EUR B Inc,Samsung Electronics Co Ltd Participating Preferred
+452,BNY Mellon Global Equity Inc EUR B Inc,Qualcomm Inc
+453,BNY Mellon Global Equity Inc EUR B Inc,Unilever PLC
+454,BNY Mellon Global Equity Inc EUR B Inc,Infosys Ltd ADR
+455,BNY Mellon Global Equity Inc EUR B Inc,PepsiCo Inc
+456,BNY Mellon Global Equity Inc EUR B Inc,Zurich Insurance Group AG
+457,BNY Mellon Global Equity Inc EUR B Inc,Novartis AG
+458,BNY Mellon Global Equity Inc EUR B Inc,Sanofi SA
+459,BNY Mellon Global Equity Inc EUR B Inc,Cie Financiere Richemont SA
+460,BNY Mellon Global Equity Inc EUR C Acc,Cisco Systems Inc
+461,BNY Mellon Global Equity Inc EUR C Acc,Samsung Electronics Co Ltd Participating Preferred
+462,BNY Mellon Global Equity Inc EUR C Acc,Qualcomm Inc
+463,BNY Mellon Global Equity Inc EUR C Acc,Unilever PLC
+464,BNY Mellon Global Equity Inc EUR C Acc,Infosys Ltd ADR
+465,BNY Mellon Global Equity Inc EUR C Acc,PepsiCo Inc
+466,BNY Mellon Global Equity Inc EUR C Acc,Zurich Insurance Group AG
+467,BNY Mellon Global Equity Inc EUR C Acc,Novartis AG
+468,BNY Mellon Global Equity Inc EUR C Acc,Sanofi SA
+469,BNY Mellon Global Equity Inc EUR C Acc,Cie Financiere Richemont SA
+470,BNY Mellon Global Equity Inc EUR C Inc,Cisco Systems Inc
+471,BNY Mellon Global Equity Inc EUR C Inc,Samsung Electronics Co Ltd Participating Preferred
+472,BNY Mellon Global Equity Inc EUR C Inc,Qualcomm Inc
+473,BNY Mellon Global Equity Inc EUR C Inc,Unilever PLC
+474,BNY Mellon Global Equity Inc EUR C Inc,Infosys Ltd ADR
+475,BNY Mellon Global Equity Inc EUR C Inc,PepsiCo Inc
+476,BNY Mellon Global Equity Inc EUR C Inc,Zurich Insurance Group AG
+477,BNY Mellon Global Equity Inc EUR C Inc,Novartis AG
+478,BNY Mellon Global Equity Inc EUR C Inc,Sanofi SA
+479,BNY Mellon Global Equity Inc EUR C Inc,Cie Financiere Richemont SA
+480,BNY Mellon Global Equity Inc EUR W Acc,Cisco Systems Inc
+481,BNY Mellon Global Equity Inc EUR W Acc,Samsung Electronics Co Ltd Participating Preferred
+482,BNY Mellon Global Equity Inc EUR W Acc,Qualcomm Inc
+483,BNY Mellon Global Equity Inc EUR W Acc,Unilever PLC
+484,BNY Mellon Global Equity Inc EUR W Acc,Infosys Ltd ADR
+485,BNY Mellon Global Equity Inc EUR W Acc,PepsiCo Inc
+486,BNY Mellon Global Equity Inc EUR W Acc,Zurich Insurance Group AG
+487,BNY Mellon Global Equity Inc EUR W Acc,Novartis AG
+488,BNY Mellon Global Equity Inc EUR W Acc,Sanofi SA
+489,BNY Mellon Global Equity Inc EUR W Acc,Cie Financiere Richemont SA
+490,BNY Mellon Global Equity Inc EUR W Inc,Cisco Systems Inc
+491,BNY Mellon Global Equity Inc EUR W Inc,Samsung Electronics Co Ltd Participating Preferred
+492,BNY Mellon Global Equity Inc EUR W Inc,Qualcomm Inc
+493,BNY Mellon Global Equity Inc EUR W Inc,Unilever PLC
+494,BNY Mellon Global Equity Inc EUR W Inc,Infosys Ltd ADR
+495,BNY Mellon Global Equity Inc EUR W Inc,PepsiCo Inc
+496,BNY Mellon Global Equity Inc EUR W Inc,Zurich Insurance Group AG
+497,BNY Mellon Global Equity Inc EUR W Inc,Novartis AG
+498,BNY Mellon Global Equity Inc EUR W Inc,Sanofi SA
+499,BNY Mellon Global Equity Inc EUR W Inc,Cie Financiere Richemont SA
+500,BNY Mellon Global Equity Inc EUR Z Acc,Cisco Systems Inc
+501,BNY Mellon Global Equity Inc EUR Z Acc,Samsung Electronics Co Ltd Participating Preferred
+502,BNY Mellon Global Equity Inc EUR Z Acc,Qualcomm Inc
+503,BNY Mellon Global Equity Inc EUR Z Acc,Unilever PLC
+504,BNY Mellon Global Equity Inc EUR Z Acc,Infosys Ltd ADR
+505,BNY Mellon Global Equity Inc EUR Z Acc,PepsiCo Inc
+506,BNY Mellon Global Equity Inc EUR Z Acc,Zurich Insurance Group AG
+507,BNY Mellon Global Equity Inc EUR Z Acc,Novartis AG
+508,BNY Mellon Global Equity Inc EUR Z Acc,Sanofi SA
+509,BNY Mellon Global Equity Inc EUR Z Acc,Cie Financiere Richemont SA
+510,BNY Mellon Global Equity Inc GBP A Acc,Cisco Systems Inc
+511,BNY Mellon Global Equity Inc GBP A Acc,Samsung Electronics Co Ltd Participating Preferred
+512,BNY Mellon Global Equity Inc GBP A Acc,Qualcomm Inc
+513,BNY Mellon Global Equity Inc GBP A Acc,Unilever PLC
+514,BNY Mellon Global Equity Inc GBP A Acc,Infosys Ltd ADR
+515,BNY Mellon Global Equity Inc GBP A Acc,PepsiCo Inc
+516,BNY Mellon Global Equity Inc GBP A Acc,Zurich Insurance Group AG
+517,BNY Mellon Global Equity Inc GBP A Acc,Novartis AG
+518,BNY Mellon Global Equity Inc GBP A Acc,Sanofi SA
+519,BNY Mellon Global Equity Inc GBP A Acc,Cie Financiere Richemont SA
+520,BNY Mellon Global Equity Inc GBP B Inc,Cisco Systems Inc
+521,BNY Mellon Global Equity Inc GBP B Inc,Samsung Electronics Co Ltd Participating Preferred
+522,BNY Mellon Global Equity Inc GBP B Inc,Qualcomm Inc
+523,BNY Mellon Global Equity Inc GBP B Inc,Unilever PLC
+524,BNY Mellon Global Equity Inc GBP B Inc,Infosys Ltd ADR
+525,BNY Mellon Global Equity Inc GBP B Inc,PepsiCo Inc
+526,BNY Mellon Global Equity Inc GBP B Inc,Zurich Insurance Group AG
+527,BNY Mellon Global Equity Inc GBP B Inc,Novartis AG
+528,BNY Mellon Global Equity Inc GBP B Inc,Sanofi SA
+529,BNY Mellon Global Equity Inc GBP B Inc,Cie Financiere Richemont SA
+530,BNY Mellon Global Equity Inc GBP C Inc,Cisco Systems Inc
+531,BNY Mellon Global Equity Inc GBP C Inc,Samsung Electronics Co Ltd Participating Preferred
+532,BNY Mellon Global Equity Inc GBP C Inc,Qualcomm Inc
+533,BNY Mellon Global Equity Inc GBP C Inc,Unilever PLC
+534,BNY Mellon Global Equity Inc GBP C Inc,Infosys Ltd ADR
+535,BNY Mellon Global Equity Inc GBP C Inc,PepsiCo Inc
+536,BNY Mellon Global Equity Inc GBP C Inc,Zurich Insurance Group AG
+537,BNY Mellon Global Equity Inc GBP C Inc,Novartis AG
+538,BNY Mellon Global Equity Inc GBP C Inc,Sanofi SA
+539,BNY Mellon Global Equity Inc GBP C Inc,Cie Financiere Richemont SA
+540,BNY Mellon Global Equity Inc GBP W Acc,Cisco Systems Inc
+541,BNY Mellon Global Equity Inc GBP W Acc,Samsung Electronics Co Ltd Participating Preferred
+542,BNY Mellon Global Equity Inc GBP W Acc,Qualcomm Inc
+543,BNY Mellon Global Equity Inc GBP W Acc,Unilever PLC
+544,BNY Mellon Global Equity Inc GBP W Acc,Infosys Ltd ADR
+545,BNY Mellon Global Equity Inc GBP W Acc,PepsiCo Inc
+546,BNY Mellon Global Equity Inc GBP W Acc,Zurich Insurance Group AG
+547,BNY Mellon Global Equity Inc GBP W Acc,Novartis AG
+548,BNY Mellon Global Equity Inc GBP W Acc,Sanofi SA
+549,BNY Mellon Global Equity Inc GBP W Acc,Cie Financiere Richemont SA
+550,BNY Mellon Global Equity Inc GBP W Inc,Cisco Systems Inc
+551,BNY Mellon Global Equity Inc GBP W Inc,Samsung Electronics Co Ltd Participating Preferred
+552,BNY Mellon Global Equity Inc GBP W Inc,Qualcomm Inc
+553,BNY Mellon Global Equity Inc GBP W Inc,Unilever PLC
+554,BNY Mellon Global Equity Inc GBP W Inc,Infosys Ltd ADR
+555,BNY Mellon Global Equity Inc GBP W Inc,PepsiCo Inc
+556,BNY Mellon Global Equity Inc GBP W Inc,Zurich Insurance Group AG
+557,BNY Mellon Global Equity Inc GBP W Inc,Novartis AG
+558,BNY Mellon Global Equity Inc GBP W Inc,Sanofi SA
+559,BNY Mellon Global Equity Inc GBP W Inc,Cie Financiere Richemont SA
+560,BNY Mellon Global Equity Inc USD A Acc,Cisco Systems Inc
+561,BNY Mellon Global Equity Inc USD A Acc,Samsung Electronics Co Ltd Participating Preferred
+562,BNY Mellon Global Equity Inc USD A Acc,Qualcomm Inc
+563,BNY Mellon Global Equity Inc USD A Acc,Unilever PLC
+564,BNY Mellon Global Equity Inc USD A Acc,Infosys Ltd ADR
+565,BNY Mellon Global Equity Inc USD A Acc,PepsiCo Inc
+566,BNY Mellon Global Equity Inc USD A Acc,Zurich Insurance Group AG
+567,BNY Mellon Global Equity Inc USD A Acc,Novartis AG
+568,BNY Mellon Global Equity Inc USD A Acc,Sanofi SA
+569,BNY Mellon Global Equity Inc USD A Acc,Cie Financiere Richemont SA
+570,BNY Mellon Global Equity Inc USD A Inc,Cisco Systems Inc
+571,BNY Mellon Global Equity Inc USD A Inc,Samsung Electronics Co Ltd Participating Preferred
+572,BNY Mellon Global Equity Inc USD A Inc,Qualcomm Inc
+573,BNY Mellon Global Equity Inc USD A Inc,Unilever PLC
+574,BNY Mellon Global Equity Inc USD A Inc,Infosys Ltd ADR
+575,BNY Mellon Global Equity Inc USD A Inc,PepsiCo Inc
+576,BNY Mellon Global Equity Inc USD A Inc,Zurich Insurance Group AG
+577,BNY Mellon Global Equity Inc USD A Inc,Novartis AG
+578,BNY Mellon Global Equity Inc USD A Inc,Sanofi SA
+579,BNY Mellon Global Equity Inc USD A Inc,Cie Financiere Richemont SA
+580,BNY Mellon Global Equity Inc USD B Acc,Cisco Systems Inc
+581,BNY Mellon Global Equity Inc USD B Acc,Samsung Electronics Co Ltd Participating Preferred
+582,BNY Mellon Global Equity Inc USD B Acc,Qualcomm Inc
+583,BNY Mellon Global Equity Inc USD B Acc,Unilever PLC
+584,BNY Mellon Global Equity Inc USD B Acc,Infosys Ltd ADR
+585,BNY Mellon Global Equity Inc USD B Acc,PepsiCo Inc
+586,BNY Mellon Global Equity Inc USD B Acc,Zurich Insurance Group AG
+587,BNY Mellon Global Equity Inc USD B Acc,Novartis AG
+588,BNY Mellon Global Equity Inc USD B Acc,Sanofi SA
+589,BNY Mellon Global Equity Inc USD B Acc,Cie Financiere Richemont SA
+590,BNY Mellon Global Equity Inc USD B Inc,Cisco Systems Inc
+591,BNY Mellon Global Equity Inc USD B Inc,Samsung Electronics Co Ltd Participating Preferred
+592,BNY Mellon Global Equity Inc USD B Inc,Qualcomm Inc
+593,BNY Mellon Global Equity Inc USD B Inc,Unilever PLC
+594,BNY Mellon Global Equity Inc USD B Inc,Infosys Ltd ADR
+595,BNY Mellon Global Equity Inc USD B Inc,PepsiCo Inc
+596,BNY Mellon Global Equity Inc USD B Inc,Zurich Insurance Group AG
+597,BNY Mellon Global Equity Inc USD B Inc,Novartis AG
+598,BNY Mellon Global Equity Inc USD B Inc,Sanofi SA
+599,BNY Mellon Global Equity Inc USD B Inc,Cie Financiere Richemont SA
+600,BNY Mellon Global Equity Inc USD C Acc,Cisco Systems Inc
+601,BNY Mellon Global Equity Inc USD C Acc,Samsung Electronics Co Ltd Participating Preferred
+602,BNY Mellon Global Equity Inc USD C Acc,Qualcomm Inc
+603,BNY Mellon Global Equity Inc USD C Acc,Unilever PLC
+604,BNY Mellon Global Equity Inc USD C Acc,Infosys Ltd ADR
+605,BNY Mellon Global Equity Inc USD C Acc,PepsiCo Inc
+606,BNY Mellon Global Equity Inc USD C Acc,Zurich Insurance Group AG
+607,BNY Mellon Global Equity Inc USD C Acc,Novartis AG
+608,BNY Mellon Global Equity Inc USD C Acc,Sanofi SA
+609,BNY Mellon Global Equity Inc USD C Acc,Cie Financiere Richemont SA
+610,BNY Mellon Global Equity Inc USD C Inc,Cisco Systems Inc
+611,BNY Mellon Global Equity Inc USD C Inc,Samsung Electronics Co Ltd Participating Preferred
+612,BNY Mellon Global Equity Inc USD C Inc,Qualcomm Inc
+613,BNY Mellon Global Equity Inc USD C Inc,Unilever PLC
+614,BNY Mellon Global Equity Inc USD C Inc,Infosys Ltd ADR
+615,BNY Mellon Global Equity Inc USD C Inc,PepsiCo Inc
+616,BNY Mellon Global Equity Inc USD C Inc,Zurich Insurance Group AG
+617,BNY Mellon Global Equity Inc USD C Inc,Novartis AG
+618,BNY Mellon Global Equity Inc USD C Inc,Sanofi SA
+619,BNY Mellon Global Equity Inc USD C Inc,Cie Financiere Richemont SA
+620,BNY Mellon Global Equity Inc USD W Acc,Cisco Systems Inc
+621,BNY Mellon Global Equity Inc USD W Acc,Samsung Electronics Co Ltd Participating Preferred
+622,BNY Mellon Global Equity Inc USD W Acc,Qualcomm Inc
+623,BNY Mellon Global Equity Inc USD W Acc,Unilever PLC
+624,BNY Mellon Global Equity Inc USD W Acc,Infosys Ltd ADR
+625,BNY Mellon Global Equity Inc USD W Acc,PepsiCo Inc
+626,BNY Mellon Global Equity Inc USD W Acc,Zurich Insurance Group AG
+627,BNY Mellon Global Equity Inc USD W Acc,Novartis AG
+628,BNY Mellon Global Equity Inc USD W Acc,Sanofi SA
+629,BNY Mellon Global Equity Inc USD W Acc,Cie Financiere Richemont SA
+630,BNY Mellon Global Equity Inc USD W Inc,Cisco Systems Inc
+631,BNY Mellon Global Equity Inc USD W Inc,Samsung Electronics Co Ltd Participating Preferred
+632,BNY Mellon Global Equity Inc USD W Inc,Qualcomm Inc
+633,BNY Mellon Global Equity Inc USD W Inc,Unilever PLC
+634,BNY Mellon Global Equity Inc USD W Inc,Infosys Ltd ADR
+635,BNY Mellon Global Equity Inc USD W Inc,PepsiCo Inc
+636,BNY Mellon Global Equity Inc USD W Inc,Zurich Insurance Group AG
+637,BNY Mellon Global Equity Inc USD W Inc,Novartis AG
+638,BNY Mellon Global Equity Inc USD W Inc,Sanofi SA
+639,BNY Mellon Global Equity Inc USD W Inc,Cie Financiere Richemont SA
+640,BNY Mellon Global Equity Inc USD Z Acc,Cisco Systems Inc
+641,BNY Mellon Global Equity Inc USD Z Acc,Samsung Electronics Co Ltd Participating Preferred
+642,BNY Mellon Global Equity Inc USD Z Acc,Qualcomm Inc
+643,BNY Mellon Global Equity Inc USD Z Acc,Unilever PLC
+644,BNY Mellon Global Equity Inc USD Z Acc,Infosys Ltd ADR
+645,BNY Mellon Global Equity Inc USD Z Acc,PepsiCo Inc
+646,BNY Mellon Global Equity Inc USD Z Acc,Zurich Insurance Group AG
+647,BNY Mellon Global Equity Inc USD Z Acc,Novartis AG
+648,BNY Mellon Global Equity Inc USD Z Acc,Sanofi SA
+649,BNY Mellon Global Equity Inc USD Z Acc,Cie Financiere Richemont SA
+650,BNY Mellon Global Income B Acc,Cisco Systems Inc
+651,BNY Mellon Global Income B Acc,Samsung Electronics Co Ltd Participating Preferred
+652,BNY Mellon Global Income B Acc,Qualcomm Inc
+653,BNY Mellon Global Income B Acc,Unilever PLC
+654,BNY Mellon Global Income B Acc,Infosys Ltd ADR
+655,BNY Mellon Global Income B Acc,PepsiCo Inc
+656,BNY Mellon Global Income B Acc,Zurich Insurance Group AG
+657,BNY Mellon Global Income B Acc,Novartis AG
+658,BNY Mellon Global Income B Acc,Sanofi SA
+659,BNY Mellon Global Income B Acc,Cie Financiere Richemont SA
+660,BNY Mellon Global Income B Inc,Cisco Systems Inc
+661,BNY Mellon Global Income B Inc,Samsung Electronics Co Ltd Participating Preferred
+662,BNY Mellon Global Income B Inc,Qualcomm Inc
+663,BNY Mellon Global Income B Inc,Unilever PLC
+664,BNY Mellon Global Income B Inc,Infosys Ltd ADR
+665,BNY Mellon Global Income B Inc,PepsiCo Inc
+666,BNY Mellon Global Income B Inc,Zurich Insurance Group AG
+667,BNY Mellon Global Income B Inc,Novartis AG
+668,BNY Mellon Global Income B Inc,Sanofi SA
+669,BNY Mellon Global Income B Inc,Cie Financiere Richemont SA
+670,BNY Mellon Global Income Expt 2 Acc,Cisco Systems Inc
+671,BNY Mellon Global Income Expt 2 Acc,Samsung Electronics Co Ltd Participating Preferred
+672,BNY Mellon Global Income Expt 2 Acc,Qualcomm Inc
+673,BNY Mellon Global Income Expt 2 Acc,Unilever PLC
+674,BNY Mellon Global Income Expt 2 Acc,Infosys Ltd ADR
+675,BNY Mellon Global Income Expt 2 Acc,PepsiCo Inc
+676,BNY Mellon Global Income Expt 2 Acc,Zurich Insurance Group AG
+677,BNY Mellon Global Income Expt 2 Acc,Novartis AG
+678,BNY Mellon Global Income Expt 2 Acc,Sanofi SA
+679,BNY Mellon Global Income Expt 2 Acc,Cie Financiere Richemont SA
+680,BNY Mellon Global Income Expt 2 Inc,Cisco Systems Inc
+681,BNY Mellon Global Income Expt 2 Inc,Samsung Electronics Co Ltd Participating Preferred
+682,BNY Mellon Global Income Expt 2 Inc,Qualcomm Inc
+683,BNY Mellon Global Income Expt 2 Inc,Unilever PLC
+684,BNY Mellon Global Income Expt 2 Inc,Infosys Ltd ADR
+685,BNY Mellon Global Income Expt 2 Inc,PepsiCo Inc
+686,BNY Mellon Global Income Expt 2 Inc,Zurich Insurance Group AG
+687,BNY Mellon Global Income Expt 2 Inc,Novartis AG
+688,BNY Mellon Global Income Expt 2 Inc,Sanofi SA
+689,BNY Mellon Global Income Expt 2 Inc,Cie Financiere Richemont SA
+690,BNY Mellon Global Income Inst Acc,Cisco Systems Inc
+691,BNY Mellon Global Income Inst Acc,Samsung Electronics Co Ltd Participating Preferred
+692,BNY Mellon Global Income Inst Acc,Qualcomm Inc
+693,BNY Mellon Global Income Inst Acc,Unilever PLC
+694,BNY Mellon Global Income Inst Acc,Infosys Ltd ADR
+695,BNY Mellon Global Income Inst Acc,PepsiCo Inc
+696,BNY Mellon Global Income Inst Acc,Zurich Insurance Group AG
+697,BNY Mellon Global Income Inst Acc,Novartis AG
+698,BNY Mellon Global Income Inst Acc,Sanofi SA
+699,BNY Mellon Global Income Inst Acc,Cie Financiere Richemont SA
+700,BNY Mellon Global Income Inst Inc,Cisco Systems Inc
+701,BNY Mellon Global Income Inst Inc,Samsung Electronics Co Ltd Participating Preferred
+702,BNY Mellon Global Income Inst Inc,Qualcomm Inc
+703,BNY Mellon Global Income Inst Inc,Unilever PLC
+704,BNY Mellon Global Income Inst Inc,Infosys Ltd ADR
+705,BNY Mellon Global Income Inst Inc,PepsiCo Inc
+706,BNY Mellon Global Income Inst Inc,Zurich Insurance Group AG
+707,BNY Mellon Global Income Inst Inc,Novartis AG
+708,BNY Mellon Global Income Inst Inc,Sanofi SA
+709,BNY Mellon Global Income Inst Inc,Cie Financiere Richemont SA
+710,BNY Mellon Global Income Inst W Acc,Cisco Systems Inc
+711,BNY Mellon Global Income Inst W Acc,Samsung Electronics Co Ltd Participating Preferred
+712,BNY Mellon Global Income Inst W Acc,Qualcomm Inc
+713,BNY Mellon Global Income Inst W Acc,Unilever PLC
+714,BNY Mellon Global Income Inst W Acc,Infosys Ltd ADR
+715,BNY Mellon Global Income Inst W Acc,PepsiCo Inc
+716,BNY Mellon Global Income Inst W Acc,Zurich Insurance Group AG
+717,BNY Mellon Global Income Inst W Acc,Novartis AG
+718,BNY Mellon Global Income Inst W Acc,Sanofi SA
+719,BNY Mellon Global Income Inst W Acc,Cie Financiere Richemont SA
+720,BNY Mellon Global Income Inst W Inc,Cisco Systems Inc
+721,BNY Mellon Global Income Inst W Inc,Samsung Electronics Co Ltd Participating Preferred
+722,BNY Mellon Global Income Inst W Inc,Qualcomm Inc
+723,BNY Mellon Global Income Inst W Inc,Unilever PLC
+724,BNY Mellon Global Income Inst W Inc,Infosys Ltd ADR
+725,BNY Mellon Global Income Inst W Inc,PepsiCo Inc
+726,BNY Mellon Global Income Inst W Inc,Zurich Insurance Group AG
+727,BNY Mellon Global Income Inst W Inc,Novartis AG
+728,BNY Mellon Global Income Inst W Inc,Sanofi SA
+729,BNY Mellon Global Income Inst W Inc,Cie Financiere Richemont SA
+730,BNY Mellon Global Income GBP Acc,Cisco Systems Inc
+731,BNY Mellon Global Income GBP Acc,Samsung Electronics Co Ltd Participating Preferred
+732,BNY Mellon Global Income GBP Acc,Qualcomm Inc
+733,BNY Mellon Global Income GBP Acc,Unilever PLC
+734,BNY Mellon Global Income GBP Acc,Infosys Ltd ADR
+735,BNY Mellon Global Income GBP Acc,PepsiCo Inc
+736,BNY Mellon Global Income GBP Acc,Zurich Insurance Group AG
+737,BNY Mellon Global Income GBP Acc,Novartis AG
+738,BNY Mellon Global Income GBP Acc,Sanofi SA
+739,BNY Mellon Global Income GBP Acc,Cie Financiere Richemont SA
+740,BNY Mellon Global Income GBP Inc,Cisco Systems Inc
+741,BNY Mellon Global Income GBP Inc,Samsung Electronics Co Ltd Participating Preferred
+742,BNY Mellon Global Income GBP Inc,Qualcomm Inc
+743,BNY Mellon Global Income GBP Inc,Unilever PLC
+744,BNY Mellon Global Income GBP Inc,Infosys Ltd ADR
+745,BNY Mellon Global Income GBP Inc,PepsiCo Inc
+746,BNY Mellon Global Income GBP Inc,Zurich Insurance Group AG
+747,BNY Mellon Global Income GBP Inc,Novartis AG
+748,BNY Mellon Global Income GBP Inc,Sanofi SA
+749,BNY Mellon Global Income GBP Inc,Cie Financiere Richemont SA
+750,BNY Mellon Global Income U Acc,Cisco Systems Inc
+751,BNY Mellon Global Income U Acc,Samsung Electronics Co Ltd Participating Preferred
+752,BNY Mellon Global Income U Acc,Qualcomm Inc
+753,BNY Mellon Global Income U Acc,Unilever PLC
+754,BNY Mellon Global Income U Acc,Infosys Ltd ADR
+755,BNY Mellon Global Income U Acc,PepsiCo Inc
+756,BNY Mellon Global Income U Acc,Zurich Insurance Group AG
+757,BNY Mellon Global Income U Acc,Novartis AG
+758,BNY Mellon Global Income U Acc,Sanofi SA
+759,BNY Mellon Global Income U Acc,Cie Financiere Richemont SA
+760,BNY Mellon Global Income U Inc,Cisco Systems Inc
+761,BNY Mellon Global Income U Inc,Samsung Electronics Co Ltd Participating Preferred
+762,BNY Mellon Global Income U Inc,Qualcomm Inc
+763,BNY Mellon Global Income U Inc,Unilever PLC
+764,BNY Mellon Global Income U Inc,Infosys Ltd ADR
+765,BNY Mellon Global Income U Inc,PepsiCo Inc
+766,BNY Mellon Global Income U Inc,Zurich Insurance Group AG
+767,BNY Mellon Global Income U Inc,Novartis AG
+768,BNY Mellon Global Income U Inc,Sanofi SA
+769,BNY Mellon Global Income U Inc,Cie Financiere Richemont SA
+770,BNY Mellon Global Income X Acc,Cisco Systems Inc
+771,BNY Mellon Global Income X Acc,Samsung Electronics Co Ltd Participating Preferred
+772,BNY Mellon Global Income X Acc,Qualcomm Inc
+773,BNY Mellon Global Income X Acc,Unilever PLC
+774,BNY Mellon Global Income X Acc,Infosys Ltd ADR
+775,BNY Mellon Global Income X Acc,PepsiCo Inc
+776,BNY Mellon Global Income X Acc,Zurich Insurance Group AG
+777,BNY Mellon Global Income X Acc,Novartis AG
+778,BNY Mellon Global Income X Acc,Sanofi SA
+779,BNY Mellon Global Income X Acc,Cie Financiere Richemont SA
+780,Capital Group World Div Grwr (LUX) C,Crown Castle International Corp
+781,Capital Group World Div Grwr (LUX) C,Hong Kong Exchanges and Clearing Ltd
+782,Capital Group World Div Grwr (LUX) C,Broadcom Inc
+783,Capital Group World Div Grwr (LUX) C,Taiwan Semiconductor Manufacturing Co Ltd
+784,Capital Group World Div Grwr (LUX) C,Link Real Estate Investment Trust
+785,Capital Group World Div Grwr (LUX) C,Unilever PLC
+786,Capital Group World Div Grwr (LUX) C,Philip Morris International Inc
+787,Capital Group World Div Grwr (LUX) C,British American Tobacco PLC
+788,Capital Group World Div Grwr (LUX) C,VICI Properties Inc Ordinary Shares
+789,Capital Group World Div Grwr (LUX) C,Carlsberg A/S B
+790,Capital Group World Div Grwr (LUX) C CHF,Crown Castle International Corp
+791,Capital Group World Div Grwr (LUX) C CHF,Hong Kong Exchanges and Clearing Ltd
+792,Capital Group World Div Grwr (LUX) C CHF,Broadcom Inc
+793,Capital Group World Div Grwr (LUX) C CHF,Taiwan Semiconductor Manufacturing Co Ltd
+794,Capital Group World Div Grwr (LUX) C CHF,Link Real Estate Investment Trust
+795,Capital Group World Div Grwr (LUX) C CHF,Unilever PLC
+796,Capital Group World Div Grwr (LUX) C CHF,Philip Morris International Inc
+797,Capital Group World Div Grwr (LUX) C CHF,British American Tobacco PLC
+798,Capital Group World Div Grwr (LUX) C CHF,VICI Properties Inc Ordinary Shares
+799,Capital Group World Div Grwr (LUX) C CHF,Carlsberg A/S B
+800,Capital Group World Div Grwr (LUX) C EUR,Crown Castle International Corp
+801,Capital Group World Div Grwr (LUX) C EUR,Hong Kong Exchanges and Clearing Ltd
+802,Capital Group World Div Grwr (LUX) C EUR,Broadcom Inc
+803,Capital Group World Div Grwr (LUX) C EUR,Taiwan Semiconductor Manufacturing Co Ltd
+804,Capital Group World Div Grwr (LUX) C EUR,Link Real Estate Investment Trust
+805,Capital Group World Div Grwr (LUX) C EUR,Unilever PLC
+806,Capital Group World Div Grwr (LUX) C EUR,Philip Morris International Inc
+807,Capital Group World Div Grwr (LUX) C EUR,British American Tobacco PLC
+808,Capital Group World Div Grwr (LUX) C EUR,VICI Properties Inc Ordinary Shares
+809,Capital Group World Div Grwr (LUX) C EUR,Carlsberg A/S B
+810,Capital Group World Div Grwr (LUX) C GBP,Crown Castle International Corp
+811,Capital Group World Div Grwr (LUX) C GBP,Hong Kong Exchanges and Clearing Ltd
+812,Capital Group World Div Grwr (LUX) C GBP,Broadcom Inc
+813,Capital Group World Div Grwr (LUX) C GBP,Taiwan Semiconductor Manufacturing Co Ltd
+814,Capital Group World Div Grwr (LUX) C GBP,Link Real Estate Investment Trust
+815,Capital Group World Div Grwr (LUX) C GBP,Unilever PLC
+816,Capital Group World Div Grwr (LUX) C GBP,Philip Morris International Inc
+817,Capital Group World Div Grwr (LUX) C GBP,British American Tobacco PLC
+818,Capital Group World Div Grwr (LUX) C GBP,VICI Properties Inc Ordinary Shares
+819,Capital Group World Div Grwr (LUX) C GBP,Carlsberg A/S B
+820,Capital Group World Div Grwr (LUX) C JPY,Crown Castle International Corp
+821,Capital Group World Div Grwr (LUX) C JPY,Hong Kong Exchanges and Clearing Ltd
+822,Capital Group World Div Grwr (LUX) C JPY,Broadcom Inc
+823,Capital Group World Div Grwr (LUX) C JPY,Taiwan Semiconductor Manufacturing Co Ltd
+824,Capital Group World Div Grwr (LUX) C JPY,Link Real Estate Investment Trust
+825,Capital Group World Div Grwr (LUX) C JPY,Unilever PLC
+826,Capital Group World Div Grwr (LUX) C JPY,Philip Morris International Inc
+827,Capital Group World Div Grwr (LUX) C JPY,British American Tobacco PLC
+828,Capital Group World Div Grwr (LUX) C JPY,VICI Properties Inc Ordinary Shares
+829,Capital Group World Div Grwr (LUX) C JPY,Carlsberg A/S B
+830,Capital Group World Div Grwr (LUX) Z,Crown Castle International Corp
+831,Capital Group World Div Grwr (LUX) Z,Hong Kong Exchanges and Clearing Ltd
+832,Capital Group World Div Grwr (LUX) Z,Broadcom Inc
+833,Capital Group World Div Grwr (LUX) Z,Taiwan Semiconductor Manufacturing Co Ltd
+834,Capital Group World Div Grwr (LUX) Z,Link Real Estate Investment Trust
+835,Capital Group World Div Grwr (LUX) Z,Unilever PLC
+836,Capital Group World Div Grwr (LUX) Z,Philip Morris International Inc
+837,Capital Group World Div Grwr (LUX) Z,British American Tobacco PLC
+838,Capital Group World Div Grwr (LUX) Z,VICI Properties Inc Ordinary Shares
+839,Capital Group World Div Grwr (LUX) Z,Carlsberg A/S B
+840,Capital Group World Div Grwr (LUX) Z CHF,Crown Castle International Corp
+841,Capital Group World Div Grwr (LUX) Z CHF,Hong Kong Exchanges and Clearing Ltd
+842,Capital Group World Div Grwr (LUX) Z CHF,Broadcom Inc
+843,Capital Group World Div Grwr (LUX) Z CHF,Taiwan Semiconductor Manufacturing Co Ltd
+844,Capital Group World Div Grwr (LUX) Z CHF,Link Real Estate Investment Trust
+845,Capital Group World Div Grwr (LUX) Z CHF,Unilever PLC
+846,Capital Group World Div Grwr (LUX) Z CHF,Philip Morris International Inc
+847,Capital Group World Div Grwr (LUX) Z CHF,British American Tobacco PLC
+848,Capital Group World Div Grwr (LUX) Z CHF,VICI Properties Inc Ordinary Shares
+849,Capital Group World Div Grwr (LUX) Z CHF,Carlsberg A/S B
+850,Capital Group World Div Grwr (LUX) Z EUR,Crown Castle International Corp
+851,Capital Group World Div Grwr (LUX) Z EUR,Hong Kong Exchanges and Clearing Ltd
+852,Capital Group World Div Grwr (LUX) Z EUR,Broadcom Inc
+853,Capital Group World Div Grwr (LUX) Z EUR,Taiwan Semiconductor Manufacturing Co Ltd
+854,Capital Group World Div Grwr (LUX) Z EUR,Link Real Estate Investment Trust
+855,Capital Group World Div Grwr (LUX) Z EUR,Unilever PLC
+856,Capital Group World Div Grwr (LUX) Z EUR,Philip Morris International Inc
+857,Capital Group World Div Grwr (LUX) Z EUR,British American Tobacco PLC
+858,Capital Group World Div Grwr (LUX) Z EUR,VICI Properties Inc Ordinary Shares
+859,Capital Group World Div Grwr (LUX) Z EUR,Carlsberg A/S B
+860,Capital Group World Div Grwr (LUX) Z GBP,Crown Castle International Corp
+861,Capital Group World Div Grwr (LUX) Z GBP,Hong Kong Exchanges and Clearing Ltd
+862,Capital Group World Div Grwr (LUX) Z GBP,Broadcom Inc
+863,Capital Group World Div Grwr (LUX) Z GBP,Taiwan Semiconductor Manufacturing Co Ltd
+864,Capital Group World Div Grwr (LUX) Z GBP,Link Real Estate Investment Trust
+865,Capital Group World Div Grwr (LUX) Z GBP,Unilever PLC
+866,Capital Group World Div Grwr (LUX) Z GBP,Philip Morris International Inc
+867,Capital Group World Div Grwr (LUX) Z GBP,British American Tobacco PLC
+868,Capital Group World Div Grwr (LUX) Z GBP,VICI Properties Inc Ordinary Shares
+869,Capital Group World Div Grwr (LUX) Z GBP,Carlsberg A/S B
+870,Capital Group World Div Grwr (LUX) Zd,Crown Castle International Corp
+871,Capital Group World Div Grwr (LUX) Zd,Hong Kong Exchanges and Clearing Ltd
+872,Capital Group World Div Grwr (LUX) Zd,Broadcom Inc
+873,Capital Group World Div Grwr (LUX) Zd,Taiwan Semiconductor Manufacturing Co Ltd
+874,Capital Group World Div Grwr (LUX) Zd,Link Real Estate Investment Trust
+875,Capital Group World Div Grwr (LUX) Zd,Unilever PLC
+876,Capital Group World Div Grwr (LUX) Zd,Philip Morris International Inc
+877,Capital Group World Div Grwr (LUX) Zd,British American Tobacco PLC
+878,Capital Group World Div Grwr (LUX) Zd,VICI Properties Inc Ordinary Shares
+879,Capital Group World Div Grwr (LUX) Zd,Carlsberg A/S B
+880,Capital Group World Div Grwr (LUX) Zd EUR,Crown Castle International Corp
+881,Capital Group World Div Grwr (LUX) Zd EUR,Hong Kong Exchanges and Clearing Ltd
+882,Capital Group World Div Grwr (LUX) Zd EUR,Broadcom Inc
+883,Capital Group World Div Grwr (LUX) Zd EUR,Taiwan Semiconductor Manufacturing Co Ltd
+884,Capital Group World Div Grwr (LUX) Zd EUR,Link Real Estate Investment Trust
+885,Capital Group World Div Grwr (LUX) Zd EUR,Unilever PLC
+886,Capital Group World Div Grwr (LUX) Zd EUR,Philip Morris International Inc
+887,Capital Group World Div Grwr (LUX) Zd EUR,British American Tobacco PLC
+888,Capital Group World Div Grwr (LUX) Zd EUR,VICI Properties Inc Ordinary Shares
+889,Capital Group World Div Grwr (LUX) Zd EUR,Carlsberg A/S B
+890,Capital Group World Div Grwr (LUX) Zd GBP,Crown Castle International Corp
+891,Capital Group World Div Grwr (LUX) Zd GBP,Hong Kong Exchanges and Clearing Ltd
+892,Capital Group World Div Grwr (LUX) Zd GBP,Broadcom Inc
+893,Capital Group World Div Grwr (LUX) Zd GBP,Taiwan Semiconductor Manufacturing Co Ltd
+894,Capital Group World Div Grwr (LUX) Zd GBP,Link Real Estate Investment Trust
+895,Capital Group World Div Grwr (LUX) Zd GBP,Unilever PLC
+896,Capital Group World Div Grwr (LUX) Zd GBP,Philip Morris International Inc
+897,Capital Group World Div Grwr (LUX) Zd GBP,British American Tobacco PLC
+898,Capital Group World Div Grwr (LUX) Zd GBP,VICI Properties Inc Ordinary Shares
+899,Capital Group World Div Grwr (LUX) Zd GBP,Carlsberg A/S B
+900,Capital Group World Div Grwr (LUX) Zgd,Crown Castle International Corp
+901,Capital Group World Div Grwr (LUX) Zgd,Hong Kong Exchanges and Clearing Ltd
+902,Capital Group World Div Grwr (LUX) Zgd,Broadcom Inc
+903,Capital Group World Div Grwr (LUX) Zgd,Taiwan Semiconductor Manufacturing Co Ltd
+904,Capital Group World Div Grwr (LUX) Zgd,Link Real Estate Investment Trust
+905,Capital Group World Div Grwr (LUX) Zgd,Unilever PLC
+906,Capital Group World Div Grwr (LUX) Zgd,Philip Morris International Inc
+907,Capital Group World Div Grwr (LUX) Zgd,British American Tobacco PLC
+908,Capital Group World Div Grwr (LUX) Zgd,VICI Properties Inc Ordinary Shares
+909,Capital Group World Div Grwr (LUX) Zgd,Carlsberg A/S B
+910,Capital Group World Div Grwr (LUX) Zgd EUR,Crown Castle International Corp
+911,Capital Group World Div Grwr (LUX) Zgd EUR,Hong Kong Exchanges and Clearing Ltd
+912,Capital Group World Div Grwr (LUX) Zgd EUR,Broadcom Inc
+913,Capital Group World Div Grwr (LUX) Zgd EUR,Taiwan Semiconductor Manufacturing Co Ltd
+914,Capital Group World Div Grwr (LUX) Zgd EUR,Link Real Estate Investment Trust
+915,Capital Group World Div Grwr (LUX) Zgd EUR,Unilever PLC
+916,Capital Group World Div Grwr (LUX) Zgd EUR,Philip Morris International Inc
+917,Capital Group World Div Grwr (LUX) Zgd EUR,British American Tobacco PLC
+918,Capital Group World Div Grwr (LUX) Zgd EUR,VICI Properties Inc Ordinary Shares
+919,Capital Group World Div Grwr (LUX) Zgd EUR,Carlsberg A/S B
+920,CCLA CBF CoE Global Equity Income Acc,GlaxoSmithKline PLC
+921,CCLA CBF CoE Global Equity Income Acc,Reckitt Benckiser Group PLC
+922,CCLA CBF CoE Global Equity Income Acc,Microsoft Corp
+923,CCLA CBF CoE Global Equity Income Acc,Unilever NV
+924,CCLA CBF CoE Global Equity Income Acc,Prudential PLC
+925,CCLA CBF CoE Global Equity Income Acc,Blackstone Mortgage Trust Inc A
+926,CCLA CBF CoE Global Equity Income Acc,Procter & Gamble Co
+927,CCLA CBF CoE Global Equity Income Acc,RELX NV
+928,CCLA CBF CoE Global Equity Income Acc,CME Group Inc Class A
+929,CCLA CBF CoE Global Equity Income Inc,GlaxoSmithKline PLC
+930,CCLA CBF CoE Global Equity Income Inc,Reckitt Benckiser Group PLC
+931,CCLA CBF CoE Global Equity Income Inc,Microsoft Corp
+932,CCLA CBF CoE Global Equity Income Inc,Unilever NV
+933,CCLA CBF CoE Global Equity Income Inc,Prudential PLC
+934,CCLA CBF CoE Global Equity Income Inc,Blackstone Mortgage Trust Inc A
+935,CCLA CBF CoE Global Equity Income Inc,Procter & Gamble Co
+936,CCLA CBF CoE Global Equity Income Inc,RELX NV
+937,CCLA CBF CoE Global Equity Income Inc,CME Group Inc Class A
+938,CCLA COIF Charities Global Eq Inc Acc,RELX PLC
+939,CCLA COIF Charities Global Eq Inc Acc,Microsoft Corp
+940,CCLA COIF Charities Global Eq Inc Acc,Alphabet Inc Class C
+941,CCLA COIF Charities Global Eq Inc Acc,Unilever NV
+942,CCLA COIF Charities Global Eq Inc Acc,JPMorgan Chase & Co
+943,CCLA COIF Charities Global Eq Inc Acc,Apple Inc
+944,CCLA COIF Charities Global Eq Inc Acc,Amazon.com Inc
+945,CCLA COIF Charities Global Eq Inc Acc,London Stock Exchange Group PLC
+946,CCLA COIF Charities Global Eq Inc Acc,UnitedHealth Group Inc
+947,CCLA COIF Charities Global Eq Inc Inc,RELX PLC
+948,CCLA COIF Charities Global Eq Inc Inc,Microsoft Corp
+949,CCLA COIF Charities Global Eq Inc Inc,Alphabet Inc Class C
+950,CCLA COIF Charities Global Eq Inc Inc,Unilever NV
+951,CCLA COIF Charities Global Eq Inc Inc,JPMorgan Chase & Co
+952,CCLA COIF Charities Global Eq Inc Inc,Apple Inc
+953,CCLA COIF Charities Global Eq Inc Inc,Amazon.com Inc
+954,CCLA COIF Charities Global Eq Inc Inc,London Stock Exchange Group PLC
+955,CCLA COIF Charities Global Eq Inc Inc,UnitedHealth Group Inc
+956,CS (Lux) Global Div Plus Eq EB USD,Microsoft Corp
+957,CS (Lux) Global Div Plus Eq EB USD,Merck & Co Inc
+958,CS (Lux) Global Div Plus Eq EB USD,Roche Holding AG Dividend Right Cert.
+959,CS (Lux) Global Div Plus Eq EB USD,Procter & Gamble Co
+960,CS (Lux) Global Div Plus Eq EB USD,Nestle SA
+961,CS (Lux) Global Div Plus Eq EB USD,Pfizer Inc
+962,CS (Lux) Global Div Plus Eq EB USD,Garmin Ltd
+963,CS (Lux) Global Div Plus Eq EB USD,McDonald's Corp
+964,CS (Lux) Global Div Plus Eq EB USD,Waste Management Inc
+965,CS (Lux) Global Div Plus Eq EB USD,Novartis AG
+966,CS (Lux) Global Div Plus Eq IB USD,Microsoft Corp
+967,CS (Lux) Global Div Plus Eq IB USD,Merck & Co Inc
+968,CS (Lux) Global Div Plus Eq IB USD,Roche Holding AG Dividend Right Cert.
+969,CS (Lux) Global Div Plus Eq IB USD,Procter & Gamble Co
+970,CS (Lux) Global Div Plus Eq IB USD,Nestle SA
+971,CS (Lux) Global Div Plus Eq IB USD,Pfizer Inc
+972,CS (Lux) Global Div Plus Eq IB USD,Garmin Ltd
+973,CS (Lux) Global Div Plus Eq IB USD,McDonald's Corp
+974,CS (Lux) Global Div Plus Eq IB USD,Waste Management Inc
+975,CS (Lux) Global Div Plus Eq IB USD,Novartis AG
+976,CS (Lux) Global Div Plus Eq UB USD,Microsoft Corp
+977,CS (Lux) Global Div Plus Eq UB USD,Merck & Co Inc
+978,CS (Lux) Global Div Plus Eq UB USD,Roche Holding AG Dividend Right Cert.
+979,CS (Lux) Global Div Plus Eq UB USD,Procter & Gamble Co
+980,CS (Lux) Global Div Plus Eq UB USD,Nestle SA
+981,CS (Lux) Global Div Plus Eq UB USD,Pfizer Inc
+982,CS (Lux) Global Div Plus Eq UB USD,Garmin Ltd
+983,CS (Lux) Global Div Plus Eq UB USD,McDonald's Corp
+984,CS (Lux) Global Div Plus Eq UB USD,Waste Management Inc
+985,CS (Lux) Global Div Plus Eq UB USD,Novartis AG
+986,Davy Defensive Equity Income H GBP Acc,Microsoft Corp
+987,Davy Defensive Equity Income H GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+988,Davy Defensive Equity Income H GBP Acc,Procter & Gamble Co
+989,Davy Defensive Equity Income H GBP Acc,Johnson & Johnson
+990,Davy Defensive Equity Income H GBP Acc,Merck & Co Inc
+991,Davy Defensive Equity Income H GBP Acc,Nestle SA
+992,Davy Defensive Equity Income H GBP Acc,JPMorgan Chase & Co
+993,Davy Defensive Equity Income H GBP Acc,United Parcel Service Inc Class B
+994,Davy Defensive Equity Income H GBP Acc,Roche Holding AG Dividend Right Cert.
+995,Davy Global Equity Income A EUR Acc,Microsoft Corp
+996,Davy Global Equity Income A EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+997,Davy Global Equity Income A EUR Acc,Johnson & Johnson
+998,Davy Global Equity Income A EUR Acc,Procter & Gamble Co
+999,Davy Global Equity Income A EUR Acc,Nestle SA
+1000,Davy Global Equity Income A EUR Acc,Merck & Co Inc
+1001,Davy Global Equity Income A EUR Acc,JPMorgan Chase & Co
+1002,Davy Global Equity Income A EUR Acc,United Parcel Service Inc Class B
+1003,Davy Global Equity Income A EUR Acc,Pfizer Inc
+1004,Davy Global Equity Income A EUR Acc,Sanofi SA
+1005,Davy Global Equity Income A EUR Inc,Microsoft Corp
+1006,Davy Global Equity Income A EUR Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1007,Davy Global Equity Income A EUR Inc,Johnson & Johnson
+1008,Davy Global Equity Income A EUR Inc,Procter & Gamble Co
+1009,Davy Global Equity Income A EUR Inc,Nestle SA
+1010,Davy Global Equity Income A EUR Inc,Merck & Co Inc
+1011,Davy Global Equity Income A EUR Inc,JPMorgan Chase & Co
+1012,Davy Global Equity Income A EUR Inc,United Parcel Service Inc Class B
+1013,Davy Global Equity Income A EUR Inc,Pfizer Inc
+1014,Davy Global Equity Income A EUR Inc,Sanofi SA
+1015,Davy Global Equity Income D EUR Acc,Microsoft Corp
+1016,Davy Global Equity Income D EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1017,Davy Global Equity Income D EUR Acc,Johnson & Johnson
+1018,Davy Global Equity Income D EUR Acc,Procter & Gamble Co
+1019,Davy Global Equity Income D EUR Acc,Nestle SA
+1020,Davy Global Equity Income D EUR Acc,Merck & Co Inc
+1021,Davy Global Equity Income D EUR Acc,JPMorgan Chase & Co
+1022,Davy Global Equity Income D EUR Acc,United Parcel Service Inc Class B
+1023,Davy Global Equity Income D EUR Acc,Pfizer Inc
+1024,Davy Global Equity Income D EUR Acc,Sanofi SA
+1025,Davy Global Equity Income O GBP Acc,Microsoft Corp
+1026,Davy Global Equity Income O GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1027,Davy Global Equity Income O GBP Acc,Johnson & Johnson
+1028,Davy Global Equity Income O GBP Acc,Procter & Gamble Co
+1029,Davy Global Equity Income O GBP Acc,Nestle SA
+1030,Davy Global Equity Income O GBP Acc,Merck & Co Inc
+1031,Davy Global Equity Income O GBP Acc,JPMorgan Chase & Co
+1032,Davy Global Equity Income O GBP Acc,United Parcel Service Inc Class B
+1033,Davy Global Equity Income O GBP Acc,Pfizer Inc
+1034,Davy Global Equity Income O GBP Acc,Sanofi SA
+1035,Davy Global Equity Income U GBP Acc,Microsoft Corp
+1036,Davy Global Equity Income U GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1037,Davy Global Equity Income U GBP Acc,Johnson & Johnson
+1038,Davy Global Equity Income U GBP Acc,Procter & Gamble Co
+1039,Davy Global Equity Income U GBP Acc,Nestle SA
+1040,Davy Global Equity Income U GBP Acc,Merck & Co Inc
+1041,Davy Global Equity Income U GBP Acc,JPMorgan Chase & Co
+1042,Davy Global Equity Income U GBP Acc,United Parcel Service Inc Class B
+1043,Davy Global Equity Income U GBP Acc,Pfizer Inc
+1044,Davy Global Equity Income U GBP Acc,Sanofi SA
+1045,Davy Global Equity Income V GBP Inc,Microsoft Corp
+1046,Davy Global Equity Income V GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1047,Davy Global Equity Income V GBP Inc,Johnson & Johnson
+1048,Davy Global Equity Income V GBP Inc,Procter & Gamble Co
+1049,Davy Global Equity Income V GBP Inc,Nestle SA
+1050,Davy Global Equity Income V GBP Inc,Merck & Co Inc
+1051,Davy Global Equity Income V GBP Inc,JPMorgan Chase & Co
+1052,Davy Global Equity Income V GBP Inc,United Parcel Service Inc Class B
+1053,Davy Global Equity Income V GBP Inc,Pfizer Inc
+1054,Davy Global Equity Income V GBP Inc,Sanofi SA
+1055,DWS Invest ESG Equity Income FC,Unilever NV
+1056,DWS Invest ESG Equity Income FC,Verizon Communications Inc
+1057,DWS Invest ESG Equity Income FC,Newmont Corp
+1058,DWS Invest ESG Equity Income FC,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1059,DWS Invest ESG Equity Income FC,Nippon Telegraph & Telephone Corp
+1060,DWS Invest ESG Equity Income FC,Allianz SE
+1061,DWS Invest ESG Equity Income FC,BCE Inc
+1062,DWS Invest ESG Equity Income FC,Roche Holding AG Dividend Right Cert.
+1063,DWS Invest ESG Equity Income FC,Procter & Gamble Co
+1064,DWS Invest ESG Equity Income FD,Unilever NV
+1065,DWS Invest ESG Equity Income FD,Verizon Communications Inc
+1066,DWS Invest ESG Equity Income FD,Newmont Corp
+1067,DWS Invest ESG Equity Income FD,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1068,DWS Invest ESG Equity Income FD,Nippon Telegraph & Telephone Corp
+1069,DWS Invest ESG Equity Income FD,Allianz SE
+1070,DWS Invest ESG Equity Income FD,BCE Inc
+1071,DWS Invest ESG Equity Income FD,Roche Holding AG Dividend Right Cert.
+1072,DWS Invest ESG Equity Income FD,Procter & Gamble Co
+1073,Fidelity Global Dividend A-Acc-EUR,Taiwan Semiconductor Manufacturing Co Ltd
+1074,Fidelity Global Dividend A-Acc-EUR,Unilever PLC
+1075,Fidelity Global Dividend A-Acc-EUR,Roche Holding AG Dividend Right Cert.
+1076,Fidelity Global Dividend A-Acc-EUR,Schneider Electric SE
+1077,Fidelity Global Dividend A-Acc-EUR,Iberdrola SA
+1078,Fidelity Global Dividend A-Acc-EUR,Procter & Gamble Co
+1079,Fidelity Global Dividend A-Acc-EUR,BlackRock Inc
+1080,Fidelity Global Dividend A-Acc-EUR,Wolters Kluwer NV
+1081,Fidelity Global Dividend A-Acc-USD,Taiwan Semiconductor Manufacturing Co Ltd
+1082,Fidelity Global Dividend A-Acc-USD,Unilever PLC
+1083,Fidelity Global Dividend A-Acc-USD,Roche Holding AG Dividend Right Cert.
+1084,Fidelity Global Dividend A-Acc-USD,Schneider Electric SE
+1085,Fidelity Global Dividend A-Acc-USD,Iberdrola SA
+1086,Fidelity Global Dividend A-Acc-USD,Procter & Gamble Co
+1087,Fidelity Global Dividend A-Acc-USD,BlackRock Inc
+1088,Fidelity Global Dividend A-Acc-USD,Wolters Kluwer NV
+1089,Fidelity Global Dividend A-MInc(G)-EUR,Taiwan Semiconductor Manufacturing Co Ltd
+1090,Fidelity Global Dividend A-MInc(G)-EUR,Unilever PLC
+1091,Fidelity Global Dividend A-MInc(G)-EUR,Roche Holding AG Dividend Right Cert.
+1092,Fidelity Global Dividend A-MInc(G)-EUR,Schneider Electric SE
+1093,Fidelity Global Dividend A-MInc(G)-EUR,Iberdrola SA
+1094,Fidelity Global Dividend A-MInc(G)-EUR,Procter & Gamble Co
+1095,Fidelity Global Dividend A-MInc(G)-EUR,BlackRock Inc
+1096,Fidelity Global Dividend A-MInc(G)-EUR,Wolters Kluwer NV
+1097,Fidelity Global Dividend A-MInc(G)-HKD,Taiwan Semiconductor Manufacturing Co Ltd
+1098,Fidelity Global Dividend A-MInc(G)-HKD,Unilever PLC
+1099,Fidelity Global Dividend A-MInc(G)-HKD,Roche Holding AG Dividend Right Cert.
+1100,Fidelity Global Dividend A-MInc(G)-HKD,Schneider Electric SE
+1101,Fidelity Global Dividend A-MInc(G)-HKD,Iberdrola SA
+1102,Fidelity Global Dividend A-MInc(G)-HKD,Procter & Gamble Co
+1103,Fidelity Global Dividend A-MInc(G)-HKD,BlackRock Inc
+1104,Fidelity Global Dividend A-MInc(G)-HKD,Wolters Kluwer NV
+1105,Fidelity Global Dividend A-MInc(G)-SGD,Taiwan Semiconductor Manufacturing Co Ltd
+1106,Fidelity Global Dividend A-MInc(G)-SGD,Unilever PLC
+1107,Fidelity Global Dividend A-MInc(G)-SGD,Roche Holding AG Dividend Right Cert.
+1108,Fidelity Global Dividend A-MInc(G)-SGD,Schneider Electric SE
+1109,Fidelity Global Dividend A-MInc(G)-SGD,Iberdrola SA
+1110,Fidelity Global Dividend A-MInc(G)-SGD,Procter & Gamble Co
+1111,Fidelity Global Dividend A-MInc(G)-SGD,BlackRock Inc
+1112,Fidelity Global Dividend A-MInc(G)-SGD,Wolters Kluwer NV
+1113,Fidelity Global Dividend A-MInc(G)-USD,Taiwan Semiconductor Manufacturing Co Ltd
+1114,Fidelity Global Dividend A-MInc(G)-USD,Unilever PLC
+1115,Fidelity Global Dividend A-MInc(G)-USD,Roche Holding AG Dividend Right Cert.
+1116,Fidelity Global Dividend A-MInc(G)-USD,Schneider Electric SE
+1117,Fidelity Global Dividend A-MInc(G)-USD,Iberdrola SA
+1118,Fidelity Global Dividend A-MInc(G)-USD,Procter & Gamble Co
+1119,Fidelity Global Dividend A-MInc(G)-USD,BlackRock Inc
+1120,Fidelity Global Dividend A-MInc(G)-USD,Wolters Kluwer NV
+1121,Fidelity Global Dividend A-QInc(G)-EUR,Taiwan Semiconductor Manufacturing Co Ltd
+1122,Fidelity Global Dividend A-QInc(G)-EUR,Unilever PLC
+1123,Fidelity Global Dividend A-QInc(G)-EUR,Roche Holding AG Dividend Right Cert.
+1124,Fidelity Global Dividend A-QInc(G)-EUR,Schneider Electric SE
+1125,Fidelity Global Dividend A-QInc(G)-EUR,Iberdrola SA
+1126,Fidelity Global Dividend A-QInc(G)-EUR,Procter & Gamble Co
+1127,Fidelity Global Dividend A-QInc(G)-EUR,BlackRock Inc
+1128,Fidelity Global Dividend A-QInc(G)-EUR,Wolters Kluwer NV
+1129,Fidelity Global Dividend A-QInc(G)-USD,Taiwan Semiconductor Manufacturing Co Ltd
+1130,Fidelity Global Dividend A-QInc(G)-USD,Unilever PLC
+1131,Fidelity Global Dividend A-QInc(G)-USD,Roche Holding AG Dividend Right Cert.
+1132,Fidelity Global Dividend A-QInc(G)-USD,Schneider Electric SE
+1133,Fidelity Global Dividend A-QInc(G)-USD,Iberdrola SA
+1134,Fidelity Global Dividend A-QInc(G)-USD,Procter & Gamble Co
+1135,Fidelity Global Dividend A-QInc(G)-USD,BlackRock Inc
+1136,Fidelity Global Dividend A-QInc(G)-USD,Wolters Kluwer NV
+1137,Fidelity Global Dividend I-Acc-EUR,Taiwan Semiconductor Manufacturing Co Ltd
+1138,Fidelity Global Dividend I-Acc-EUR,Unilever PLC
+1139,Fidelity Global Dividend I-Acc-EUR,Roche Holding AG Dividend Right Cert.
+1140,Fidelity Global Dividend I-Acc-EUR,Schneider Electric SE
+1141,Fidelity Global Dividend I-Acc-EUR,Iberdrola SA
+1142,Fidelity Global Dividend I-Acc-EUR,Procter & Gamble Co
+1143,Fidelity Global Dividend I-Acc-EUR,BlackRock Inc
+1144,Fidelity Global Dividend I-Acc-EUR,Wolters Kluwer NV
+1145,Fidelity Global Dividend W-Acc-GBP,Taiwan Semiconductor Manufacturing Co Ltd
+1146,Fidelity Global Dividend W-Acc-GBP,Unilever PLC
+1147,Fidelity Global Dividend W-Acc-GBP,Roche Holding AG Dividend Right Cert.
+1148,Fidelity Global Dividend W-Acc-GBP,Schneider Electric SE
+1149,Fidelity Global Dividend W-Acc-GBP,Iberdrola SA
+1150,Fidelity Global Dividend W-Acc-GBP,Procter & Gamble Co
+1151,Fidelity Global Dividend W-Acc-GBP,BlackRock Inc
+1152,Fidelity Global Dividend W-Acc-GBP,Wolters Kluwer NV
+1153,Fidelity Global Dividend W-QInc(G)-GBP,Taiwan Semiconductor Manufacturing Co Ltd
+1154,Fidelity Global Dividend W-QInc(G)-GBP,Unilever PLC
+1155,Fidelity Global Dividend W-QInc(G)-GBP,Roche Holding AG Dividend Right Cert.
+1156,Fidelity Global Dividend W-QInc(G)-GBP,Schneider Electric SE
+1157,Fidelity Global Dividend W-QInc(G)-GBP,Iberdrola SA
+1158,Fidelity Global Dividend W-QInc(G)-GBP,Procter & Gamble Co
+1159,Fidelity Global Dividend W-QInc(G)-GBP,BlackRock Inc
+1160,Fidelity Global Dividend W-QInc(G)-GBP,Wolters Kluwer NV
+1161,Fidelity Global Dividend Y-Acc-USD,Taiwan Semiconductor Manufacturing Co Ltd
+1162,Fidelity Global Dividend Y-Acc-USD,Unilever PLC
+1163,Fidelity Global Dividend Y-Acc-USD,Roche Holding AG Dividend Right Cert.
+1164,Fidelity Global Dividend Y-Acc-USD,Schneider Electric SE
+1165,Fidelity Global Dividend Y-Acc-USD,Iberdrola SA
+1166,Fidelity Global Dividend Y-Acc-USD,Procter & Gamble Co
+1167,Fidelity Global Dividend Y-Acc-USD,BlackRock Inc
+1168,Fidelity Global Dividend Y-Acc-USD,Wolters Kluwer NV
+1169,Fidelity Global Dividend Y-QInc(G)-EUR,Taiwan Semiconductor Manufacturing Co Ltd
+1170,Fidelity Global Dividend Y-QInc(G)-EUR,Unilever PLC
+1171,Fidelity Global Dividend Y-QInc(G)-EUR,Roche Holding AG Dividend Right Cert.
+1172,Fidelity Global Dividend Y-QInc(G)-EUR,Schneider Electric SE
+1173,Fidelity Global Dividend Y-QInc(G)-EUR,Iberdrola SA
+1174,Fidelity Global Dividend Y-QInc(G)-EUR,Procter & Gamble Co
+1175,Fidelity Global Dividend Y-QInc(G)-EUR,BlackRock Inc
+1176,Fidelity Global Dividend Y-QInc(G)-EUR,Wolters Kluwer NV
+1177,Fidelity Global Dividend Y-QInc(G)-USD,Taiwan Semiconductor Manufacturing Co Ltd
+1178,Fidelity Global Dividend Y-QInc(G)-USD,Unilever PLC
+1179,Fidelity Global Dividend Y-QInc(G)-USD,Roche Holding AG Dividend Right Cert.
+1180,Fidelity Global Dividend Y-QInc(G)-USD,Schneider Electric SE
+1181,Fidelity Global Dividend Y-QInc(G)-USD,Iberdrola SA
+1182,Fidelity Global Dividend Y-QInc(G)-USD,Procter & Gamble Co
+1183,Fidelity Global Dividend Y-QInc(G)-USD,BlackRock Inc
+1184,Fidelity Global Dividend Y-QInc(G)-USD,Wolters Kluwer NV
+1185,Fidelity Global Equity Inc A-Acc-USD,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1186,Fidelity Global Equity Inc A-Acc-USD,Wolters Kluwer NV
+1187,Fidelity Global Equity Inc A-Acc-USD,Unilever PLC
+1188,Fidelity Global Equity Inc A-Acc-USD,Deutsche Boerse AG
+1189,Fidelity Global Equity Inc A-Acc-USD,Arthur J. Gallagher & Co
+1190,Fidelity Global Equity Inc A-Acc-USD,Iberdrola SA
+1191,Fidelity Global Equity Inc A-Acc-USD,Procter & Gamble Co
+1192,Fidelity Global Equity Inc A-Acc-USD,Roche Holding AG Dividend Right Cert.
+1193,Fidelity Global Equity Inc A-Acc-USD,Hoya Corp
+1194,Fidelity Global Equity Inc A-Acc-USD,Microsoft Corp
+1195,Fidelity Global Equity Inc A-MInc(G)-EUR,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1196,Fidelity Global Equity Inc A-MInc(G)-EUR,Wolters Kluwer NV
+1197,Fidelity Global Equity Inc A-MInc(G)-EUR,Unilever PLC
+1198,Fidelity Global Equity Inc A-MInc(G)-EUR,Deutsche Boerse AG
+1199,Fidelity Global Equity Inc A-MInc(G)-EUR,Arthur J. Gallagher & Co
+1200,Fidelity Global Equity Inc A-MInc(G)-EUR,Iberdrola SA
+1201,Fidelity Global Equity Inc A-MInc(G)-EUR,Procter & Gamble Co
+1202,Fidelity Global Equity Inc A-MInc(G)-EUR,Roche Holding AG Dividend Right Cert.
+1203,Fidelity Global Equity Inc A-MInc(G)-EUR,Hoya Corp
+1204,Fidelity Global Equity Inc A-MInc(G)-EUR,Microsoft Corp
+1205,Fidelity Global Equity Inc I-Acc-USD,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1206,Fidelity Global Equity Inc I-Acc-USD,Wolters Kluwer NV
+1207,Fidelity Global Equity Inc I-Acc-USD,Unilever PLC
+1208,Fidelity Global Equity Inc I-Acc-USD,Deutsche Boerse AG
+1209,Fidelity Global Equity Inc I-Acc-USD,Arthur J. Gallagher & Co
+1210,Fidelity Global Equity Inc I-Acc-USD,Iberdrola SA
+1211,Fidelity Global Equity Inc I-Acc-USD,Procter & Gamble Co
+1212,Fidelity Global Equity Inc I-Acc-USD,Roche Holding AG Dividend Right Cert.
+1213,Fidelity Global Equity Inc I-Acc-USD,Hoya Corp
+1214,Fidelity Global Equity Inc I-Acc-USD,Microsoft Corp
+1215,Fidelity Global Equity Inc I-Dis-USD,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1216,Fidelity Global Equity Inc I-Dis-USD,Wolters Kluwer NV
+1217,Fidelity Global Equity Inc I-Dis-USD,Unilever PLC
+1218,Fidelity Global Equity Inc I-Dis-USD,Deutsche Boerse AG
+1219,Fidelity Global Equity Inc I-Dis-USD,Arthur J. Gallagher & Co
+1220,Fidelity Global Equity Inc I-Dis-USD,Iberdrola SA
+1221,Fidelity Global Equity Inc I-Dis-USD,Procter & Gamble Co
+1222,Fidelity Global Equity Inc I-Dis-USD,Roche Holding AG Dividend Right Cert.
+1223,Fidelity Global Equity Inc I-Dis-USD,Hoya Corp
+1224,Fidelity Global Equity Inc I-Dis-USD,Microsoft Corp
+1225,Fidelity Global Equity Inc Y-Acc-USD,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1226,Fidelity Global Equity Inc Y-Acc-USD,Wolters Kluwer NV
+1227,Fidelity Global Equity Inc Y-Acc-USD,Unilever PLC
+1228,Fidelity Global Equity Inc Y-Acc-USD,Deutsche Boerse AG
+1229,Fidelity Global Equity Inc Y-Acc-USD,Arthur J. Gallagher & Co
+1230,Fidelity Global Equity Inc Y-Acc-USD,Iberdrola SA
+1231,Fidelity Global Equity Inc Y-Acc-USD,Procter & Gamble Co
+1232,Fidelity Global Equity Inc Y-Acc-USD,Roche Holding AG Dividend Right Cert.
+1233,Fidelity Global Equity Inc Y-Acc-USD,Hoya Corp
+1234,Fidelity Global Equity Inc Y-Acc-USD,Microsoft Corp
+1235,Fidelity Global Dividend A ACC,Taiwan Semiconductor Manufacturing Co Ltd
+1236,Fidelity Global Dividend A ACC,Unilever PLC
+1237,Fidelity Global Dividend A ACC,Roche Holding AG Dividend Right Cert.
+1238,Fidelity Global Dividend A ACC,Schneider Electric SE
+1239,Fidelity Global Dividend A ACC,Iberdrola SA
+1240,Fidelity Global Dividend A ACC,Procter & Gamble Co
+1241,Fidelity Global Dividend A ACC,BlackRock Inc
+1242,Fidelity Global Dividend A ACC,Wolters Kluwer NV
+1243,Fidelity Global Dividend A ACC,Samsung Electronics Co Ltd Participating Preferred
+1244,Fidelity Global Dividend A INC,Taiwan Semiconductor Manufacturing Co Ltd
+1245,Fidelity Global Dividend A INC,Unilever PLC
+1246,Fidelity Global Dividend A INC,Roche Holding AG Dividend Right Cert.
+1247,Fidelity Global Dividend A INC,Schneider Electric SE
+1248,Fidelity Global Dividend A INC,Iberdrola SA
+1249,Fidelity Global Dividend A INC,Procter & Gamble Co
+1250,Fidelity Global Dividend A INC,BlackRock Inc
+1251,Fidelity Global Dividend A INC,Wolters Kluwer NV
+1252,Fidelity Global Dividend A INC,Samsung Electronics Co Ltd Participating Preferred
+1253,Fidelity Global Dividend W Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1254,Fidelity Global Dividend W Acc,Unilever PLC
+1255,Fidelity Global Dividend W Acc,Roche Holding AG Dividend Right Cert.
+1256,Fidelity Global Dividend W Acc,Schneider Electric SE
+1257,Fidelity Global Dividend W Acc,Iberdrola SA
+1258,Fidelity Global Dividend W Acc,Procter & Gamble Co
+1259,Fidelity Global Dividend W Acc,BlackRock Inc
+1260,Fidelity Global Dividend W Acc,Wolters Kluwer NV
+1261,Fidelity Global Dividend W Acc,Samsung Electronics Co Ltd Participating Preferred
+1262,Fidelity Global Dividend W Inc,Taiwan Semiconductor Manufacturing Co Ltd
+1263,Fidelity Global Dividend W Inc,Unilever PLC
+1264,Fidelity Global Dividend W Inc,Roche Holding AG Dividend Right Cert.
+1265,Fidelity Global Dividend W Inc,Schneider Electric SE
+1266,Fidelity Global Dividend W Inc,Iberdrola SA
+1267,Fidelity Global Dividend W Inc,Procter & Gamble Co
+1268,Fidelity Global Dividend W Inc,BlackRock Inc
+1269,Fidelity Global Dividend W Inc,Wolters Kluwer NV
+1270,Fidelity Global Dividend W Inc,Samsung Electronics Co Ltd Participating Preferred
+1271,Fidelity Global Dividend W Inc Mlthly,Taiwan Semiconductor Manufacturing Co Ltd
+1272,Fidelity Global Dividend W Inc Mlthly,Unilever PLC
+1273,Fidelity Global Dividend W Inc Mlthly,Roche Holding AG Dividend Right Cert.
+1274,Fidelity Global Dividend W Inc Mlthly,Schneider Electric SE
+1275,Fidelity Global Dividend W Inc Mlthly,Iberdrola SA
+1276,Fidelity Global Dividend W Inc Mlthly,Procter & Gamble Co
+1277,Fidelity Global Dividend W Inc Mlthly,BlackRock Inc
+1278,Fidelity Global Dividend W Inc Mlthly,Wolters Kluwer NV
+1279,Fidelity Global Dividend W Inc Mlthly,Samsung Electronics Co Ltd Participating Preferred
+1280,Fidelity Global Enhanced Income A Inc,Taiwan Semiconductor Manufacturing Co Ltd
+1281,Fidelity Global Enhanced Income A Inc,Unilever PLC
+1282,Fidelity Global Enhanced Income A Inc,Roche Holding AG Dividend Right Cert.
+1283,Fidelity Global Enhanced Income A Inc,Schneider Electric SE
+1284,Fidelity Global Enhanced Income A Inc,Procter & Gamble Co
+1285,Fidelity Global Enhanced Income A Inc,Iberdrola SA
+1286,Fidelity Global Enhanced Income A Inc,BlackRock Inc
+1287,Fidelity Global Enhanced Income A Inc,Samsung Electronics Co Ltd Participating Preferred
+1288,Fidelity Global Enhanced Income W Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1289,Fidelity Global Enhanced Income W Acc,Unilever PLC
+1290,Fidelity Global Enhanced Income W Acc,Roche Holding AG Dividend Right Cert.
+1291,Fidelity Global Enhanced Income W Acc,Schneider Electric SE
+1292,Fidelity Global Enhanced Income W Acc,Procter & Gamble Co
+1293,Fidelity Global Enhanced Income W Acc,Iberdrola SA
+1294,Fidelity Global Enhanced Income W Acc,BlackRock Inc
+1295,Fidelity Global Enhanced Income W Acc,Samsung Electronics Co Ltd Participating Preferred
+1296,Fidelity Global Enhanced Income W Inc,Taiwan Semiconductor Manufacturing Co Ltd
+1297,Fidelity Global Enhanced Income W Inc,Unilever PLC
+1298,Fidelity Global Enhanced Income W Inc,Roche Holding AG Dividend Right Cert.
+1299,Fidelity Global Enhanced Income W Inc,Schneider Electric SE
+1300,Fidelity Global Enhanced Income W Inc,Procter & Gamble Co
+1301,Fidelity Global Enhanced Income W Inc,Iberdrola SA
+1302,Fidelity Global Enhanced Income W Inc,BlackRock Inc
+1303,Fidelity Global Enhanced Income W Inc,Samsung Electronics Co Ltd Participating Preferred
+1304,Fidelity Global Enhanced Income W Mlthly,Taiwan Semiconductor Manufacturing Co Ltd
+1305,Fidelity Global Enhanced Income W Mlthly,Unilever PLC
+1306,Fidelity Global Enhanced Income W Mlthly,Roche Holding AG Dividend Right Cert.
+1307,Fidelity Global Enhanced Income W Mlthly,Schneider Electric SE
+1308,Fidelity Global Enhanced Income W Mlthly,Procter & Gamble Co
+1309,Fidelity Global Enhanced Income W Mlthly,Iberdrola SA
+1310,Fidelity Global Enhanced Income W Mlthly,BlackRock Inc
+1311,Fidelity Global Enhanced Income W Mlthly,Samsung Electronics Co Ltd Participating Preferred
+1312,GS Global Equity Income I Acc USD,Microsoft Corp
+1313,GS Global Equity Income I Acc USD,Nestle SA
+1314,GS Global Equity Income I Acc USD,Zurich Insurance Group AG
+1315,GS Global Equity Income I Acc USD,Schneider Electric SE
+1316,GS Global Equity Income I Acc USD,AstraZeneca PLC
+1317,GS Global Equity Income I Acc USD,Coca-Cola Co
+1318,GS Global Equity Income I Acc USD,JPMorgan Chase & Co
+1319,GS Global Equity Income I Acc USD,Procter & Gamble Co
+1320,GS Global Equity Income I Acc USD,Texas Instruments Inc
+1321,GS Global Equity Income I Acc USD,Rio Tinto PLC
+1322,Guinness Global Equity Income C EUR Acc,Bae Systems Plc
+1323,Guinness Global Equity Income C EUR Acc,Imperial Brands Plc
+1324,Guinness Global Equity Income C EUR Acc,Abbvie Inc
+1325,Guinness Global Equity Income C EUR Acc,Diageo Plc
+1326,Guinness Global Equity Income C EUR Acc,Aflac Inc
+1327,Guinness Global Equity Income C EUR Acc,Eaton Corp Plc
+1328,Guinness Global Equity Income C EUR Acc,Schneider Electric Se
+1329,Guinness Global Equity Income C EUR Acc,Raytheon Technologies Corp
+1330,Guinness Global Equity Income C EUR Acc,Vf Corp
+1331,Guinness Global Equity Income C EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1332,Guinness Global Equity Income C EUR Dist,Bae Systems Plc
+1333,Guinness Global Equity Income C EUR Dist,Imperial Brands Plc
+1334,Guinness Global Equity Income C EUR Dist,Abbvie Inc
+1335,Guinness Global Equity Income C EUR Dist,Diageo Plc
+1336,Guinness Global Equity Income C EUR Dist,Aflac Inc
+1337,Guinness Global Equity Income C EUR Dist,Eaton Corp Plc
+1338,Guinness Global Equity Income C EUR Dist,Schneider Electric Se
+1339,Guinness Global Equity Income C EUR Dist,Raytheon Technologies Corp
+1340,Guinness Global Equity Income C EUR Dist,Vf Corp
+1341,Guinness Global Equity Income C EUR Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1342,Guinness Global Equity Income C GBP Acc,Bae Systems Plc
+1343,Guinness Global Equity Income C GBP Acc,Imperial Brands Plc
+1344,Guinness Global Equity Income C GBP Acc,Abbvie Inc
+1345,Guinness Global Equity Income C GBP Acc,Diageo Plc
+1346,Guinness Global Equity Income C GBP Acc,Aflac Inc
+1347,Guinness Global Equity Income C GBP Acc,Eaton Corp Plc
+1348,Guinness Global Equity Income C GBP Acc,Schneider Electric Se
+1349,Guinness Global Equity Income C GBP Acc,Raytheon Technologies Corp
+1350,Guinness Global Equity Income C GBP Acc,Vf Corp
+1351,Guinness Global Equity Income C GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1352,Guinness Global Equity Income C GBP Dist,Bae Systems Plc
+1353,Guinness Global Equity Income C GBP Dist,Imperial Brands Plc
+1354,Guinness Global Equity Income C GBP Dist,Abbvie Inc
+1355,Guinness Global Equity Income C GBP Dist,Diageo Plc
+1356,Guinness Global Equity Income C GBP Dist,Aflac Inc
+1357,Guinness Global Equity Income C GBP Dist,Eaton Corp Plc
+1358,Guinness Global Equity Income C GBP Dist,Schneider Electric Se
+1359,Guinness Global Equity Income C GBP Dist,Raytheon Technologies Corp
+1360,Guinness Global Equity Income C GBP Dist,Vf Corp
+1361,Guinness Global Equity Income C GBP Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1362,Guinness Global Equity Income C USD Acc,Bae Systems Plc
+1363,Guinness Global Equity Income C USD Acc,Imperial Brands Plc
+1364,Guinness Global Equity Income C USD Acc,Abbvie Inc
+1365,Guinness Global Equity Income C USD Acc,Diageo Plc
+1366,Guinness Global Equity Income C USD Acc,Aflac Inc
+1367,Guinness Global Equity Income C USD Acc,Eaton Corp Plc
+1368,Guinness Global Equity Income C USD Acc,Schneider Electric Se
+1369,Guinness Global Equity Income C USD Acc,Raytheon Technologies Corp
+1370,Guinness Global Equity Income C USD Acc,Vf Corp
+1371,Guinness Global Equity Income C USD Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1372,Guinness Global Equity Inc C USD Dist,Bae Systems Plc
+1373,Guinness Global Equity Inc C USD Dist,Imperial Brands Plc
+1374,Guinness Global Equity Inc C USD Dist,Abbvie Inc
+1375,Guinness Global Equity Inc C USD Dist,Diageo Plc
+1376,Guinness Global Equity Inc C USD Dist,Aflac Inc
+1377,Guinness Global Equity Inc C USD Dist,Eaton Corp Plc
+1378,Guinness Global Equity Inc C USD Dist,Schneider Electric Se
+1379,Guinness Global Equity Inc C USD Dist,Raytheon Technologies Corp
+1380,Guinness Global Equity Inc C USD Dist,Vf Corp
+1381,Guinness Global Equity Inc C USD Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1382,Guinness Global Equity Income D EUR Acc,Bae Systems Plc
+1383,Guinness Global Equity Income D EUR Acc,Imperial Brands Plc
+1384,Guinness Global Equity Income D EUR Acc,Abbvie Inc
+1385,Guinness Global Equity Income D EUR Acc,Diageo Plc
+1386,Guinness Global Equity Income D EUR Acc,Aflac Inc
+1387,Guinness Global Equity Income D EUR Acc,Eaton Corp Plc
+1388,Guinness Global Equity Income D EUR Acc,Schneider Electric Se
+1389,Guinness Global Equity Income D EUR Acc,Raytheon Technologies Corp
+1390,Guinness Global Equity Income D EUR Acc,Vf Corp
+1391,Guinness Global Equity Income D EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1392,Guinness Global Equity Income D EUR Dist,Bae Systems Plc
+1393,Guinness Global Equity Income D EUR Dist,Imperial Brands Plc
+1394,Guinness Global Equity Income D EUR Dist,Abbvie Inc
+1395,Guinness Global Equity Income D EUR Dist,Diageo Plc
+1396,Guinness Global Equity Income D EUR Dist,Aflac Inc
+1397,Guinness Global Equity Income D EUR Dist,Eaton Corp Plc
+1398,Guinness Global Equity Income D EUR Dist,Schneider Electric Se
+1399,Guinness Global Equity Income D EUR Dist,Raytheon Technologies Corp
+1400,Guinness Global Equity Income D EUR Dist,Vf Corp
+1401,Guinness Global Equity Income D EUR Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1402,Guinness Global Equity Inc D USD Dist,Bae Systems Plc
+1403,Guinness Global Equity Inc D USD Dist,Imperial Brands Plc
+1404,Guinness Global Equity Inc D USD Dist,Abbvie Inc
+1405,Guinness Global Equity Inc D USD Dist,Diageo Plc
+1406,Guinness Global Equity Inc D USD Dist,Aflac Inc
+1407,Guinness Global Equity Inc D USD Dist,Eaton Corp Plc
+1408,Guinness Global Equity Inc D USD Dist,Schneider Electric Se
+1409,Guinness Global Equity Inc D USD Dist,Raytheon Technologies Corp
+1410,Guinness Global Equity Inc D USD Dist,Vf Corp
+1411,Guinness Global Equity Inc D USD Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1412,Guinness Global Equity Income Y EUR Acc,Bae Systems Plc
+1413,Guinness Global Equity Income Y EUR Acc,Imperial Brands Plc
+1414,Guinness Global Equity Income Y EUR Acc,Abbvie Inc
+1415,Guinness Global Equity Income Y EUR Acc,Diageo Plc
+1416,Guinness Global Equity Income Y EUR Acc,Aflac Inc
+1417,Guinness Global Equity Income Y EUR Acc,Eaton Corp Plc
+1418,Guinness Global Equity Income Y EUR Acc,Schneider Electric Se
+1419,Guinness Global Equity Income Y EUR Acc,Raytheon Technologies Corp
+1420,Guinness Global Equity Income Y EUR Acc,Vf Corp
+1421,Guinness Global Equity Income Y EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1422,Guinness Global Equity Income Y EUR Dist,Bae Systems Plc
+1423,Guinness Global Equity Income Y EUR Dist,Imperial Brands Plc
+1424,Guinness Global Equity Income Y EUR Dist,Abbvie Inc
+1425,Guinness Global Equity Income Y EUR Dist,Diageo Plc
+1426,Guinness Global Equity Income Y EUR Dist,Aflac Inc
+1427,Guinness Global Equity Income Y EUR Dist,Eaton Corp Plc
+1428,Guinness Global Equity Income Y EUR Dist,Schneider Electric Se
+1429,Guinness Global Equity Income Y EUR Dist,Raytheon Technologies Corp
+1430,Guinness Global Equity Income Y EUR Dist,Vf Corp
+1431,Guinness Global Equity Income Y EUR Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1432,Guinness Global Equity Income Y GBP Acc,Bae Systems Plc
+1433,Guinness Global Equity Income Y GBP Acc,Imperial Brands Plc
+1434,Guinness Global Equity Income Y GBP Acc,Abbvie Inc
+1435,Guinness Global Equity Income Y GBP Acc,Diageo Plc
+1436,Guinness Global Equity Income Y GBP Acc,Aflac Inc
+1437,Guinness Global Equity Income Y GBP Acc,Eaton Corp Plc
+1438,Guinness Global Equity Income Y GBP Acc,Schneider Electric Se
+1439,Guinness Global Equity Income Y GBP Acc,Raytheon Technologies Corp
+1440,Guinness Global Equity Income Y GBP Acc,Vf Corp
+1441,Guinness Global Equity Income Y GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1442,Guinness Global Equity Income Y GBP Dist,Bae Systems Plc
+1443,Guinness Global Equity Income Y GBP Dist,Imperial Brands Plc
+1444,Guinness Global Equity Income Y GBP Dist,Abbvie Inc
+1445,Guinness Global Equity Income Y GBP Dist,Diageo Plc
+1446,Guinness Global Equity Income Y GBP Dist,Aflac Inc
+1447,Guinness Global Equity Income Y GBP Dist,Eaton Corp Plc
+1448,Guinness Global Equity Income Y GBP Dist,Schneider Electric Se
+1449,Guinness Global Equity Income Y GBP Dist,Raytheon Technologies Corp
+1450,Guinness Global Equity Income Y GBP Dist,Vf Corp
+1451,Guinness Global Equity Income Y GBP Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1452,Guinness Global Equity Income Y USD Acc,Bae Systems Plc
+1453,Guinness Global Equity Income Y USD Acc,Imperial Brands Plc
+1454,Guinness Global Equity Income Y USD Acc,Abbvie Inc
+1455,Guinness Global Equity Income Y USD Acc,Diageo Plc
+1456,Guinness Global Equity Income Y USD Acc,Aflac Inc
+1457,Guinness Global Equity Income Y USD Acc,Eaton Corp Plc
+1458,Guinness Global Equity Income Y USD Acc,Schneider Electric Se
+1459,Guinness Global Equity Income Y USD Acc,Raytheon Technologies Corp
+1460,Guinness Global Equity Income Y USD Acc,Vf Corp
+1461,Guinness Global Equity Income Y USD Acc,Taiwan Semiconductor Manufacturing Co Ltd
+1462,Guinness Global Equity Income Y USD Dist,Bae Systems Plc
+1463,Guinness Global Equity Income Y USD Dist,Imperial Brands Plc
+1464,Guinness Global Equity Income Y USD Dist,Abbvie Inc
+1465,Guinness Global Equity Income Y USD Dist,Diageo Plc
+1466,Guinness Global Equity Income Y USD Dist,Aflac Inc
+1467,Guinness Global Equity Income Y USD Dist,Eaton Corp Plc
+1468,Guinness Global Equity Income Y USD Dist,Schneider Electric Se
+1469,Guinness Global Equity Income Y USD Dist,Raytheon Technologies Corp
+1470,Guinness Global Equity Income Y USD Dist,Vf Corp
+1471,Guinness Global Equity Income Y USD Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1472,Guinness Global Equity Income Z GBP Dist,Bae Systems Plc
+1473,Guinness Global Equity Income Z GBP Dist,Imperial Brands Plc
+1474,Guinness Global Equity Income Z GBP Dist,Abbvie Inc
+1475,Guinness Global Equity Income Z GBP Dist,Diageo Plc
+1476,Guinness Global Equity Income Z GBP Dist,Aflac Inc
+1477,Guinness Global Equity Income Z GBP Dist,Eaton Corp Plc
+1478,Guinness Global Equity Income Z GBP Dist,Schneider Electric Se
+1479,Guinness Global Equity Income Z GBP Dist,Raytheon Technologies Corp
+1480,Guinness Global Equity Income Z GBP Dist,Vf Corp
+1481,Guinness Global Equity Income Z GBP Dist,Taiwan Semiconductor Manufacturing Co Ltd
+1482,HSBC Global Equity Income C Acc,Microsoft Corp
+1483,HSBC Global Equity Income C Acc,The Home Depot Inc
+1484,HSBC Global Equity Income C Acc,The Walt Disney Co
+1485,HSBC Global Equity Income C Acc,EDP - Energias de Portugal SA
+1486,HSBC Global Equity Income C Acc,Capgemini SE
+1487,HSBC Global Equity Income C Acc,PepsiCo Inc
+1488,HSBC Global Equity Income C Acc,Ball Corp
+1489,HSBC Global Equity Income C Acc,BHP Group Ltd ADR
+1490,HSBC Global Equity Income C Acc,Visa Inc Class A
+1491,HSBC Global Equity Income C Acc,IQVIA Holdings Inc
+1492,HSBC Global Equity Income C Inc,Microsoft Corp
+1493,HSBC Global Equity Income C Inc,The Home Depot Inc
+1494,HSBC Global Equity Income C Inc,The Walt Disney Co
+1495,HSBC Global Equity Income C Inc,EDP - Energias de Portugal SA
+1496,HSBC Global Equity Income C Inc,Capgemini SE
+1497,HSBC Global Equity Income C Inc,PepsiCo Inc
+1498,HSBC Global Equity Income C Inc,Ball Corp
+1499,HSBC Global Equity Income C Inc,BHP Group Ltd ADR
+1500,HSBC Global Equity Income C Inc,Visa Inc Class A
+1501,HSBC Global Equity Income C Inc,IQVIA Holdings Inc
+1502,HSBC Global Equity Income Instl Acc,Microsoft Corp
+1503,HSBC Global Equity Income Instl Acc,The Home Depot Inc
+1504,HSBC Global Equity Income Instl Acc,The Walt Disney Co
+1505,HSBC Global Equity Income Instl Acc,EDP - Energias de Portugal SA
+1506,HSBC Global Equity Income Instl Acc,Capgemini SE
+1507,HSBC Global Equity Income Instl Acc,PepsiCo Inc
+1508,HSBC Global Equity Income Instl Acc,Ball Corp
+1509,HSBC Global Equity Income Instl Acc,BHP Group Ltd ADR
+1510,HSBC Global Equity Income Instl Acc,Visa Inc Class A
+1511,HSBC Global Equity Income Instl Acc,IQVIA Holdings Inc
+1512,HSBC Global Equity Income Instl Inc,Microsoft Corp
+1513,HSBC Global Equity Income Instl Inc,The Home Depot Inc
+1514,HSBC Global Equity Income Instl Inc,The Walt Disney Co
+1515,HSBC Global Equity Income Instl Inc,EDP - Energias de Portugal SA
+1516,HSBC Global Equity Income Instl Inc,Capgemini SE
+1517,HSBC Global Equity Income Instl Inc,PepsiCo Inc
+1518,HSBC Global Equity Income Instl Inc,Ball Corp
+1519,HSBC Global Equity Income Instl Inc,BHP Group Ltd ADR
+1520,HSBC Global Equity Income Instl Inc,Visa Inc Class A
+1521,HSBC Global Equity Income Instl Inc,IQVIA Holdings Inc
+1522,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Apple Inc
+1523,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Microsoft Corp
+1524,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Amazon.com Inc
+1525,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Procter & Gamble Co
+1526,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Alphabet Inc Class C
+1527,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Facebook Inc A
+1528,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,The Home Depot Inc
+1529,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Berkshire Hathaway Inc Class B
+1530,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,Adobe Inc
+1531,HSBC UCITS Cn Cntl Dev Wld Eq Inc FacA1$,PayPal Holdings Inc
+1532,JPM Global Equity Income A Net Acc,Microsoft Corp
+1533,JPM Global Equity Income A Net Acc,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1534,JPM Global Equity Income A Net Acc,Analog Devices Inc
+1535,JPM Global Equity Income A Net Acc,Coca-Cola Co
+1536,JPM Global Equity Income A Net Acc,Samsung Electronics Co Ltd
+1537,JPM Global Equity Income A Net Acc,Texas Instruments Inc
+1538,JPM Global Equity Income A Net Acc,Mastercard Inc A
+1539,JPM Global Equity Income A Net Acc,Abbvie Inc
+1540,JPM Global Equity Income A Net Acc,Comcast Corp Class A
+1541,JPM Global Equity Income A Net Acc,Iberdrola Sa
+1542,JPM Global Equity Income A Net Inc,Microsoft Corp
+1543,JPM Global Equity Income A Net Inc,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1544,JPM Global Equity Income A Net Inc,Analog Devices Inc
+1545,JPM Global Equity Income A Net Inc,Coca-Cola Co
+1546,JPM Global Equity Income A Net Inc,Samsung Electronics Co Ltd
+1547,JPM Global Equity Income A Net Inc,Texas Instruments Inc
+1548,JPM Global Equity Income A Net Inc,Mastercard Inc A
+1549,JPM Global Equity Income A Net Inc,Abbvie Inc
+1550,JPM Global Equity Income A Net Inc,Comcast Corp Class A
+1551,JPM Global Equity Income A Net Inc,Iberdrola Sa
+1552,JPM Global Equity Income B Net Acc,Microsoft Corp
+1553,JPM Global Equity Income B Net Acc,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1554,JPM Global Equity Income B Net Acc,Analog Devices Inc
+1555,JPM Global Equity Income B Net Acc,Coca-Cola Co
+1556,JPM Global Equity Income B Net Acc,Samsung Electronics Co Ltd
+1557,JPM Global Equity Income B Net Acc,Texas Instruments Inc
+1558,JPM Global Equity Income B Net Acc,Mastercard Inc A
+1559,JPM Global Equity Income B Net Acc,Abbvie Inc
+1560,JPM Global Equity Income B Net Acc,Comcast Corp Class A
+1561,JPM Global Equity Income B Net Acc,Iberdrola Sa
+1562,JPM Global Equity Income B Net Inc,Microsoft Corp
+1563,JPM Global Equity Income B Net Inc,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1564,JPM Global Equity Income B Net Inc,Analog Devices Inc
+1565,JPM Global Equity Income B Net Inc,Coca-Cola Co
+1566,JPM Global Equity Income B Net Inc,Samsung Electronics Co Ltd
+1567,JPM Global Equity Income B Net Inc,Texas Instruments Inc
+1568,JPM Global Equity Income B Net Inc,Mastercard Inc A
+1569,JPM Global Equity Income B Net Inc,Abbvie Inc
+1570,JPM Global Equity Income B Net Inc,Comcast Corp Class A
+1571,JPM Global Equity Income B Net Inc,Iberdrola Sa
+1572,JPM Global Equity Income C Net Acc,Microsoft Corp
+1573,JPM Global Equity Income C Net Acc,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1574,JPM Global Equity Income C Net Acc,Analog Devices Inc
+1575,JPM Global Equity Income C Net Acc,Coca-Cola Co
+1576,JPM Global Equity Income C Net Acc,Samsung Electronics Co Ltd
+1577,JPM Global Equity Income C Net Acc,Texas Instruments Inc
+1578,JPM Global Equity Income C Net Acc,Mastercard Inc A
+1579,JPM Global Equity Income C Net Acc,Abbvie Inc
+1580,JPM Global Equity Income C Net Acc,Comcast Corp Class A
+1581,JPM Global Equity Income C Net Acc,Iberdrola Sa
+1582,JPM Global Equity Income C Net Inc,Microsoft Corp
+1583,JPM Global Equity Income C Net Inc,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1584,JPM Global Equity Income C Net Inc,Analog Devices Inc
+1585,JPM Global Equity Income C Net Inc,Coca-Cola Co
+1586,JPM Global Equity Income C Net Inc,Samsung Electronics Co Ltd
+1587,JPM Global Equity Income C Net Inc,Texas Instruments Inc
+1588,JPM Global Equity Income C Net Inc,Mastercard Inc A
+1589,JPM Global Equity Income C Net Inc,Abbvie Inc
+1590,JPM Global Equity Income C Net Inc,Comcast Corp Class A
+1591,JPM Global Equity Income C Net Inc,Iberdrola Sa
+1592,JPM Global Dividend A (acc) EUR,Microsoft Corp
+1593,JPM Global Dividend A (acc) EUR,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1594,JPM Global Dividend A (acc) EUR,Analog Devices Inc
+1595,JPM Global Dividend A (acc) EUR,Coca-Cola Co
+1596,JPM Global Dividend A (acc) EUR,Samsung Electronics Co Ltd
+1597,JPM Global Dividend A (acc) EUR,Texas Instruments Inc
+1598,JPM Global Dividend A (acc) EUR,Mastercard Inc A
+1599,JPM Global Dividend A (acc) EUR,Abbvie Inc
+1600,JPM Global Dividend A (acc) EUR,Comcast Corp Class A
+1601,JPM Global Dividend A (acc) EUR,Iberdrola Sa
+1602,JPM Global Dividend A (acc) USD,Microsoft Corp
+1603,JPM Global Dividend A (acc) USD,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1604,JPM Global Dividend A (acc) USD,Analog Devices Inc
+1605,JPM Global Dividend A (acc) USD,Coca-Cola Co
+1606,JPM Global Dividend A (acc) USD,Samsung Electronics Co Ltd
+1607,JPM Global Dividend A (acc) USD,Texas Instruments Inc
+1608,JPM Global Dividend A (acc) USD,Mastercard Inc A
+1609,JPM Global Dividend A (acc) USD,Abbvie Inc
+1610,JPM Global Dividend A (acc) USD,Comcast Corp Class A
+1611,JPM Global Dividend A (acc) USD,Iberdrola Sa
+1612,JPM Global Dividend A (dist) USD,Microsoft Corp
+1613,JPM Global Dividend A (dist) USD,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1614,JPM Global Dividend A (dist) USD,Analog Devices Inc
+1615,JPM Global Dividend A (dist) USD,Coca-Cola Co
+1616,JPM Global Dividend A (dist) USD,Samsung Electronics Co Ltd
+1617,JPM Global Dividend A (dist) USD,Texas Instruments Inc
+1618,JPM Global Dividend A (dist) USD,Mastercard Inc A
+1619,JPM Global Dividend A (dist) USD,Abbvie Inc
+1620,JPM Global Dividend A (dist) USD,Comcast Corp Class A
+1621,JPM Global Dividend A (dist) USD,Iberdrola Sa
+1622,JPM Global Dividend C (acc) EUR,Microsoft Corp
+1623,JPM Global Dividend C (acc) EUR,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1624,JPM Global Dividend C (acc) EUR,Analog Devices Inc
+1625,JPM Global Dividend C (acc) EUR,Coca-Cola Co
+1626,JPM Global Dividend C (acc) EUR,Samsung Electronics Co Ltd
+1627,JPM Global Dividend C (acc) EUR,Texas Instruments Inc
+1628,JPM Global Dividend C (acc) EUR,Mastercard Inc A
+1629,JPM Global Dividend C (acc) EUR,Abbvie Inc
+1630,JPM Global Dividend C (acc) EUR,Comcast Corp Class A
+1631,JPM Global Dividend C (acc) EUR,Iberdrola Sa
+1632,JPM Global Dividend C (acc) USD,Microsoft Corp
+1633,JPM Global Dividend C (acc) USD,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1634,JPM Global Dividend C (acc) USD,Analog Devices Inc
+1635,JPM Global Dividend C (acc) USD,Coca-Cola Co
+1636,JPM Global Dividend C (acc) USD,Samsung Electronics Co Ltd
+1637,JPM Global Dividend C (acc) USD,Texas Instruments Inc
+1638,JPM Global Dividend C (acc) USD,Mastercard Inc A
+1639,JPM Global Dividend C (acc) USD,Abbvie Inc
+1640,JPM Global Dividend C (acc) USD,Comcast Corp Class A
+1641,JPM Global Dividend C (acc) USD,Iberdrola Sa
+1642,JPM Global Dividend C (dist) EUR,Microsoft Corp
+1643,JPM Global Dividend C (dist) EUR,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1644,JPM Global Dividend C (dist) EUR,Analog Devices Inc
+1645,JPM Global Dividend C (dist) EUR,Coca-Cola Co
+1646,JPM Global Dividend C (dist) EUR,Samsung Electronics Co Ltd
+1647,JPM Global Dividend C (dist) EUR,Texas Instruments Inc
+1648,JPM Global Dividend C (dist) EUR,Mastercard Inc A
+1649,JPM Global Dividend C (dist) EUR,Abbvie Inc
+1650,JPM Global Dividend C (dist) EUR,Comcast Corp Class A
+1651,JPM Global Dividend C (dist) EUR,Iberdrola Sa
+1652,JPM Global Dividend D (acc) USD,Microsoft Corp
+1653,JPM Global Dividend D (acc) USD,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1654,JPM Global Dividend D (acc) USD,Analog Devices Inc
+1655,JPM Global Dividend D (acc) USD,Coca-Cola Co
+1656,JPM Global Dividend D (acc) USD,Samsung Electronics Co Ltd
+1657,JPM Global Dividend D (acc) USD,Texas Instruments Inc
+1658,JPM Global Dividend D (acc) USD,Mastercard Inc A
+1659,JPM Global Dividend D (acc) USD,Abbvie Inc
+1660,JPM Global Dividend D (acc) USD,Comcast Corp Class A
+1661,JPM Global Dividend D (acc) USD,Iberdrola Sa
+1662,JPM Global Dividend X (acc) USD,Microsoft Corp
+1663,JPM Global Dividend X (acc) USD,Taiwan Semiconductor Manufacturing Co Ltd Adr
+1664,JPM Global Dividend X (acc) USD,Analog Devices Inc
+1665,JPM Global Dividend X (acc) USD,Coca-Cola Co
+1666,JPM Global Dividend X (acc) USD,Samsung Electronics Co Ltd
+1667,JPM Global Dividend X (acc) USD,Texas Instruments Inc
+1668,JPM Global Dividend X (acc) USD,Mastercard Inc A
+1669,JPM Global Dividend X (acc) USD,Abbvie Inc
+1670,JPM Global Dividend X (acc) USD,Comcast Corp Class A
+1671,JPM Global Dividend X (acc) USD,Iberdrola Sa
+1672,JSS Sustainable Eq Glb Div P EUR acc,The Home Depot Inc
+1673,JSS Sustainable Eq Glb Div P EUR acc,Texas Instruments Inc
+1674,JSS Sustainable Eq Glb Div P EUR acc,Caterpillar Inc
+1675,JSS Sustainable Eq Glb Div P EUR acc,Procter & Gamble Co
+1676,JSS Sustainable Eq Glb Div P EUR acc,Amgen Inc
+1677,JSS Sustainable Eq Glb Div P EUR acc,United Parcel Service Inc Class B
+1678,JSS Sustainable Eq Glb Div P EUR acc,Rockwell Automation Inc
+1679,JSS Sustainable Eq Glb Div P EUR acc,TE Connectivity Ltd
+1680,JSS Sustainable Eq Glb Div P EUR acc,Royal Bank of Canada
+1681,JSS Sustainable Eq Glb Div P EUR acc,Emerson Electric Co
+1682,JSS Sustainable Eq Glb Div P EUR dist,The Home Depot Inc
+1683,JSS Sustainable Eq Glb Div P EUR dist,Texas Instruments Inc
+1684,JSS Sustainable Eq Glb Div P EUR dist,Caterpillar Inc
+1685,JSS Sustainable Eq Glb Div P EUR dist,Procter & Gamble Co
+1686,JSS Sustainable Eq Glb Div P EUR dist,Amgen Inc
+1687,JSS Sustainable Eq Glb Div P EUR dist,United Parcel Service Inc Class B
+1688,JSS Sustainable Eq Glb Div P EUR dist,Rockwell Automation Inc
+1689,JSS Sustainable Eq Glb Div P EUR dist,TE Connectivity Ltd
+1690,JSS Sustainable Eq Glb Div P EUR dist,Royal Bank of Canada
+1691,JSS Sustainable Eq Glb Div P EUR dist,Emerson Electric Co
+1692,JSS Sustainable Eq Glb Div P USD acc,The Home Depot Inc
+1693,JSS Sustainable Eq Glb Div P USD acc,Texas Instruments Inc
+1694,JSS Sustainable Eq Glb Div P USD acc,Caterpillar Inc
+1695,JSS Sustainable Eq Glb Div P USD acc,Procter & Gamble Co
+1696,JSS Sustainable Eq Glb Div P USD acc,Amgen Inc
+1697,JSS Sustainable Eq Glb Div P USD acc,United Parcel Service Inc Class B
+1698,JSS Sustainable Eq Glb Div P USD acc,Rockwell Automation Inc
+1699,JSS Sustainable Eq Glb Div P USD acc,TE Connectivity Ltd
+1700,JSS Sustainable Eq Glb Div P USD acc,Royal Bank of Canada
+1701,JSS Sustainable Eq Glb Div P USD acc,Emerson Electric Co
+1702,KBI Developed Equity A EUR,Microsoft Corp
+1703,KBI Developed Equity A EUR,The Home Depot Inc
+1704,KBI Developed Equity A EUR,Texas Instruments Inc
+1705,KBI Developed Equity A EUR,Best Buy Co Inc
+1706,KBI Developed Equity A EUR,Cummins Inc
+1707,KBI Developed Equity A EUR,Gilead Sciences Inc
+1708,KBI Developed Equity A EUR,AbbVie Inc
+1709,KBI Developed Equity A EUR,Canadian Imperial Bank of Commerce
+1710,KBI Developed Equity A EUR,AmerisourceBergen Corp
+1711,KBI Developed Equity A EUR,HP Inc
+1712,KBI Developed Equity D GBP,Microsoft Corp
+1713,KBI Developed Equity D GBP,The Home Depot Inc
+1714,KBI Developed Equity D GBP,Texas Instruments Inc
+1715,KBI Developed Equity D GBP,Best Buy Co Inc
+1716,KBI Developed Equity D GBP,Cummins Inc
+1717,KBI Developed Equity D GBP,Gilead Sciences Inc
+1718,KBI Developed Equity D GBP,AbbVie Inc
+1719,KBI Developed Equity D GBP,Canadian Imperial Bank of Commerce
+1720,KBI Developed Equity D GBP,AmerisourceBergen Corp
+1721,KBI Developed Equity D GBP,HP Inc
+1722,Legg Mason IF MC Glb Uncons A Acc £,Masimo Corp
+1723,Legg Mason IF MC Glb Uncons A Acc £,Microsoft Corp
+1724,Legg Mason IF MC Glb Uncons A Acc £,Atlas Copco AB A
+1725,Legg Mason IF MC Glb Uncons A Acc £,ResMed Inc
+1726,Legg Mason IF MC Glb Uncons A Acc £,Linde PLC
+1727,Legg Mason IF MC Glb Uncons A Acc £,L'Oreal SA
+1728,Legg Mason IF MC Glb Uncons A Acc £,Mastercard Inc A
+1729,Legg Mason IF MC Glb Uncons A Acc £,Alibaba Group Holding Ltd ADR
+1730,Legg Mason IF MC Glb Uncons A Inc £,Masimo Corp
+1731,Legg Mason IF MC Glb Uncons A Inc £,Microsoft Corp
+1732,Legg Mason IF MC Glb Uncons A Inc £,Atlas Copco AB A
+1733,Legg Mason IF MC Glb Uncons A Inc £,ResMed Inc
+1734,Legg Mason IF MC Glb Uncons A Inc £,Linde PLC
+1735,Legg Mason IF MC Glb Uncons A Inc £,L'Oreal SA
+1736,Legg Mason IF MC Glb Uncons A Inc £,Mastercard Inc A
+1737,Legg Mason IF MC Glb Uncons A Inc £,Alibaba Group Holding Ltd ADR
+1738,Legg Mason IF MC Glb Uncons I Inc,Masimo Corp
+1739,Legg Mason IF MC Glb Uncons I Inc,Microsoft Corp
+1740,Legg Mason IF MC Glb Uncons I Inc,Atlas Copco AB A
+1741,Legg Mason IF MC Glb Uncons I Inc,ResMed Inc
+1742,Legg Mason IF MC Glb Uncons I Inc,Linde PLC
+1743,Legg Mason IF MC Glb Uncons I Inc,L'Oreal SA
+1744,Legg Mason IF MC Glb Uncons I Inc,Mastercard Inc A
+1745,Legg Mason IF MC Glb Uncons I Inc,Alibaba Group Holding Ltd ADR
+1746,Legg Mason IF MC Glb Uncons X Acc £,Masimo Corp
+1747,Legg Mason IF MC Glb Uncons X Acc £,Microsoft Corp
+1748,Legg Mason IF MC Glb Uncons X Acc £,Atlas Copco AB A
+1749,Legg Mason IF MC Glb Uncons X Acc £,ResMed Inc
+1750,Legg Mason IF MC Glb Uncons X Acc £,Linde PLC
+1751,Legg Mason IF MC Glb Uncons X Acc £,L'Oreal SA
+1752,Legg Mason IF MC Glb Uncons X Acc £,Mastercard Inc A
+1753,Legg Mason IF MC Glb Uncons X Acc £,Alibaba Group Holding Ltd ADR
+1754,Legg Mason IF MC Glb Uncons X Inc £,Masimo Corp
+1755,Legg Mason IF MC Glb Uncons X Inc £,Microsoft Corp
+1756,Legg Mason IF MC Glb Uncons X Inc £,Atlas Copco AB A
+1757,Legg Mason IF MC Glb Uncons X Inc £,ResMed Inc
+1758,Legg Mason IF MC Glb Uncons X Inc £,Linde PLC
+1759,Legg Mason IF MC Glb Uncons X Inc £,L'Oreal SA
+1760,Legg Mason IF MC Glb Uncons X Inc £,Mastercard Inc A
+1761,Legg Mason IF MC Glb Uncons X Inc £,Alibaba Group Holding Ltd ADR
+1762,LF Canlife Global Equity Income G Acc,Sampo Oyj Class A
+1763,LF Canlife Global Equity Income G Acc,Smiths Group PLC
+1764,LF Canlife Global Equity Income G Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+1765,LF Canlife Global Equity Income G Acc,Procter & Gamble Co
+1766,LF Canlife Global Equity Income G Acc,Lancashire Holdings Ltd
+1767,LF Canlife Global Equity Income G Acc,Cisco Systems Inc
+1768,LF Canlife Global Equity Income G Acc,GlaxoSmithKline PLC
+1769,LF Canlife Global Equity Income G Acc,Coca-Cola Amatil Ltd
+1770,LF Canlife Global Equity Income G Acc,Viscofan SA
+1771,LF Canlife Global Equity Income G Acc,Novartis AG
+1772,Liontrust Global Dividend C Acc GBP,Visa Inc Class A
+1773,Liontrust Global Dividend C Acc GBP,Roper Technologies Inc
+1774,Liontrust Global Dividend C Acc GBP,Stryker Corp
+1775,Liontrust Global Dividend C Acc GBP,The Estee Lauder Companies Inc Class A
+1776,Liontrust Global Dividend C Acc GBP,Constellation Software Inc
+1777,Liontrust Global Dividend C Acc GBP,American Tower Corp
+1778,Liontrust Global Dividend C Acc GBP,Intuit Inc
+1779,Liontrust Global Dividend C Acc GBP,Automatic Data Processing Inc
+1780,Liontrust Global Dividend C Acc GBP,Microsoft Corp
+1781,Liontrust Global Dividend C Acc GBP,Verisk Analytics Inc
+1782,Liontrust Global Dividend C Inc GBP,Visa Inc Class A
+1783,Liontrust Global Dividend C Inc GBP,Roper Technologies Inc
+1784,Liontrust Global Dividend C Inc GBP,Stryker Corp
+1785,Liontrust Global Dividend C Inc GBP,The Estee Lauder Companies Inc Class A
+1786,Liontrust Global Dividend C Inc GBP,Constellation Software Inc
+1787,Liontrust Global Dividend C Inc GBP,American Tower Corp
+1788,Liontrust Global Dividend C Inc GBP,Intuit Inc
+1789,Liontrust Global Dividend C Inc GBP,Automatic Data Processing Inc
+1790,Liontrust Global Dividend C Inc GBP,Microsoft Corp
+1791,Liontrust Global Dividend C Inc GBP,Verisk Analytics Inc
+1792,M&G (Lux) Glb Dividend A EUR Inc,Methanex Corp
+1793,M&G (Lux) Glb Dividend A EUR Inc,Imperial Brands PLC
+1794,M&G (Lux) Glb Dividend A EUR Inc,Gibson Energy Inc
+1795,M&G (Lux) Glb Dividend A EUR Inc,Trinseo SA
+1796,M&G (Lux) Glb Dividend A EUR Inc,Keyera Corp
+1797,M&G (Lux) Glb Dividend A EUR Inc,Standard Life Aberdeen PLC
+1798,M&G (Lux) Glb Dividend A EUR Inc,Roche Holding AG Dividend Right Cert.
+1799,M&G (Lux) Glb Dividend A EUR Inc,Microsoft Corp
+1800,M&G (Lux) Glb Dividend A EUR Inc,Amcor PLC
+1801,M&G (Lux) Glb Dividend A EUR Inc,Bristol-Myers Squibb Company
+1802,M&G (Lux) Glb Dividend A SGD Acc,Methanex Corp
+1803,M&G (Lux) Glb Dividend A SGD Acc,Imperial Brands PLC
+1804,M&G (Lux) Glb Dividend A SGD Acc,Gibson Energy Inc
+1805,M&G (Lux) Glb Dividend A SGD Acc,Trinseo SA
+1806,M&G (Lux) Glb Dividend A SGD Acc,Keyera Corp
+1807,M&G (Lux) Glb Dividend A SGD Acc,Standard Life Aberdeen PLC
+1808,M&G (Lux) Glb Dividend A SGD Acc,Roche Holding AG Dividend Right Cert.
+1809,M&G (Lux) Glb Dividend A SGD Acc,Microsoft Corp
+1810,M&G (Lux) Glb Dividend A SGD Acc,Amcor PLC
+1811,M&G (Lux) Glb Dividend A SGD Acc,Bristol-Myers Squibb Company
+1812,M&G (Lux) Glb Dividend A SGD Inc,Methanex Corp
+1813,M&G (Lux) Glb Dividend A SGD Inc,Imperial Brands PLC
+1814,M&G (Lux) Glb Dividend A SGD Inc,Gibson Energy Inc
+1815,M&G (Lux) Glb Dividend A SGD Inc,Trinseo SA
+1816,M&G (Lux) Glb Dividend A SGD Inc,Keyera Corp
+1817,M&G (Lux) Glb Dividend A SGD Inc,Standard Life Aberdeen PLC
+1818,M&G (Lux) Glb Dividend A SGD Inc,Roche Holding AG Dividend Right Cert.
+1819,M&G (Lux) Glb Dividend A SGD Inc,Microsoft Corp
+1820,M&G (Lux) Glb Dividend A SGD Inc,Amcor PLC
+1821,M&G (Lux) Glb Dividend A SGD Inc,Bristol-Myers Squibb Company
+1822,M&G (Lux) Glb Dividend C EUR Acc,Methanex Corp
+1823,M&G (Lux) Glb Dividend C EUR Acc,Imperial Brands PLC
+1824,M&G (Lux) Glb Dividend C EUR Acc,Gibson Energy Inc
+1825,M&G (Lux) Glb Dividend C EUR Acc,Trinseo SA
+1826,M&G (Lux) Glb Dividend C EUR Acc,Keyera Corp
+1827,M&G (Lux) Glb Dividend C EUR Acc,Standard Life Aberdeen PLC
+1828,M&G (Lux) Glb Dividend C EUR Acc,Roche Holding AG Dividend Right Cert.
+1829,M&G (Lux) Glb Dividend C EUR Acc,Microsoft Corp
+1830,M&G (Lux) Glb Dividend C EUR Acc,Amcor PLC
+1831,M&G (Lux) Glb Dividend C EUR Acc,Bristol-Myers Squibb Company
+1832,M&G (Lux) Glb Dividend C EUR Inc,Methanex Corp
+1833,M&G (Lux) Glb Dividend C EUR Inc,Imperial Brands PLC
+1834,M&G (Lux) Glb Dividend C EUR Inc,Gibson Energy Inc
+1835,M&G (Lux) Glb Dividend C EUR Inc,Trinseo SA
+1836,M&G (Lux) Glb Dividend C EUR Inc,Keyera Corp
+1837,M&G (Lux) Glb Dividend C EUR Inc,Standard Life Aberdeen PLC
+1838,M&G (Lux) Glb Dividend C EUR Inc,Roche Holding AG Dividend Right Cert.
+1839,M&G (Lux) Glb Dividend C EUR Inc,Microsoft Corp
+1840,M&G (Lux) Glb Dividend C EUR Inc,Amcor PLC
+1841,M&G (Lux) Glb Dividend C EUR Inc,Bristol-Myers Squibb Company
+1842,M&G (Lux) Glb Dividend C SGD Acc,Methanex Corp
+1843,M&G (Lux) Glb Dividend C SGD Acc,Imperial Brands PLC
+1844,M&G (Lux) Glb Dividend C SGD Acc,Gibson Energy Inc
+1845,M&G (Lux) Glb Dividend C SGD Acc,Trinseo SA
+1846,M&G (Lux) Glb Dividend C SGD Acc,Keyera Corp
+1847,M&G (Lux) Glb Dividend C SGD Acc,Standard Life Aberdeen PLC
+1848,M&G (Lux) Glb Dividend C SGD Acc,Roche Holding AG Dividend Right Cert.
+1849,M&G (Lux) Glb Dividend C SGD Acc,Microsoft Corp
+1850,M&G (Lux) Glb Dividend C SGD Acc,Amcor PLC
+1851,M&G (Lux) Glb Dividend C SGD Acc,Bristol-Myers Squibb Company
+1852,M&G (Lux) Glb Dividend C SGD Inc,Methanex Corp
+1853,M&G (Lux) Glb Dividend C SGD Inc,Imperial Brands PLC
+1854,M&G (Lux) Glb Dividend C SGD Inc,Gibson Energy Inc
+1855,M&G (Lux) Glb Dividend C SGD Inc,Trinseo SA
+1856,M&G (Lux) Glb Dividend C SGD Inc,Keyera Corp
+1857,M&G (Lux) Glb Dividend C SGD Inc,Standard Life Aberdeen PLC
+1858,M&G (Lux) Glb Dividend C SGD Inc,Roche Holding AG Dividend Right Cert.
+1859,M&G (Lux) Glb Dividend C SGD Inc,Microsoft Corp
+1860,M&G (Lux) Glb Dividend C SGD Inc,Amcor PLC
+1861,M&G (Lux) Glb Dividend C SGD Inc,Bristol-Myers Squibb Company
+1862,M&G (Lux) Glb Dividend C USD Acc,Methanex Corp
+1863,M&G (Lux) Glb Dividend C USD Acc,Imperial Brands PLC
+1864,M&G (Lux) Glb Dividend C USD Acc,Gibson Energy Inc
+1865,M&G (Lux) Glb Dividend C USD Acc,Trinseo SA
+1866,M&G (Lux) Glb Dividend C USD Acc,Keyera Corp
+1867,M&G (Lux) Glb Dividend C USD Acc,Standard Life Aberdeen PLC
+1868,M&G (Lux) Glb Dividend C USD Acc,Roche Holding AG Dividend Right Cert.
+1869,M&G (Lux) Glb Dividend C USD Acc,Microsoft Corp
+1870,M&G (Lux) Glb Dividend C USD Acc,Amcor PLC
+1871,M&G (Lux) Glb Dividend C USD Acc,Bristol-Myers Squibb Company
+1872,M&G (Lux) Glb Dividend C USD Inc,Methanex Corp
+1873,M&G (Lux) Glb Dividend C USD Inc,Imperial Brands PLC
+1874,M&G (Lux) Glb Dividend C USD Inc,Gibson Energy Inc
+1875,M&G (Lux) Glb Dividend C USD Inc,Trinseo SA
+1876,M&G (Lux) Glb Dividend C USD Inc,Keyera Corp
+1877,M&G (Lux) Glb Dividend C USD Inc,Standard Life Aberdeen PLC
+1878,M&G (Lux) Glb Dividend C USD Inc,Roche Holding AG Dividend Right Cert.
+1879,M&G (Lux) Glb Dividend C USD Inc,Microsoft Corp
+1880,M&G (Lux) Glb Dividend C USD Inc,Amcor PLC
+1881,M&G (Lux) Glb Dividend C USD Inc,Bristol-Myers Squibb Company
+1882,M&G (Lux) Glb Dividend CI EUR Acc,Methanex Corp
+1883,M&G (Lux) Glb Dividend CI EUR Acc,Imperial Brands PLC
+1884,M&G (Lux) Glb Dividend CI EUR Acc,Gibson Energy Inc
+1885,M&G (Lux) Glb Dividend CI EUR Acc,Trinseo SA
+1886,M&G (Lux) Glb Dividend CI EUR Acc,Keyera Corp
+1887,M&G (Lux) Glb Dividend CI EUR Acc,Standard Life Aberdeen PLC
+1888,M&G (Lux) Glb Dividend CI EUR Acc,Roche Holding AG Dividend Right Cert.
+1889,M&G (Lux) Glb Dividend CI EUR Acc,Microsoft Corp
+1890,M&G (Lux) Glb Dividend CI EUR Acc,Amcor PLC
+1891,M&G (Lux) Glb Dividend CI EUR Acc,Bristol-Myers Squibb Company
+1892,M&G (Lux) Glb Dividend CI EUR Inc,Methanex Corp
+1893,M&G (Lux) Glb Dividend CI EUR Inc,Imperial Brands PLC
+1894,M&G (Lux) Glb Dividend CI EUR Inc,Gibson Energy Inc
+1895,M&G (Lux) Glb Dividend CI EUR Inc,Trinseo SA
+1896,M&G (Lux) Glb Dividend CI EUR Inc,Keyera Corp
+1897,M&G (Lux) Glb Dividend CI EUR Inc,Standard Life Aberdeen PLC
+1898,M&G (Lux) Glb Dividend CI EUR Inc,Roche Holding AG Dividend Right Cert.
+1899,M&G (Lux) Glb Dividend CI EUR Inc,Microsoft Corp
+1900,M&G (Lux) Glb Dividend CI EUR Inc,Amcor PLC
+1901,M&G (Lux) Glb Dividend CI EUR Inc,Bristol-Myers Squibb Company
+1902,M&G (Lux) Glb Dividend CI USD Acc,Methanex Corp
+1903,M&G (Lux) Glb Dividend CI USD Acc,Imperial Brands PLC
+1904,M&G (Lux) Glb Dividend CI USD Acc,Gibson Energy Inc
+1905,M&G (Lux) Glb Dividend CI USD Acc,Trinseo SA
+1906,M&G (Lux) Glb Dividend CI USD Acc,Keyera Corp
+1907,M&G (Lux) Glb Dividend CI USD Acc,Standard Life Aberdeen PLC
+1908,M&G (Lux) Glb Dividend CI USD Acc,Roche Holding AG Dividend Right Cert.
+1909,M&G (Lux) Glb Dividend CI USD Acc,Microsoft Corp
+1910,M&G (Lux) Glb Dividend CI USD Acc,Amcor PLC
+1911,M&G (Lux) Glb Dividend CI USD Acc,Bristol-Myers Squibb Company
+1912,M&G (Lux) Glb Dividend A USD Inc,Methanex Corp
+1913,M&G (Lux) Glb Dividend A USD Inc,Imperial Brands PLC
+1914,M&G (Lux) Glb Dividend A USD Inc,Gibson Energy Inc
+1915,M&G (Lux) Glb Dividend A USD Inc,Trinseo SA
+1916,M&G (Lux) Glb Dividend A USD Inc,Keyera Corp
+1917,M&G (Lux) Glb Dividend A USD Inc,Standard Life Aberdeen PLC
+1918,M&G (Lux) Glb Dividend A USD Inc,Roche Holding AG Dividend Right Cert.
+1919,M&G (Lux) Glb Dividend A USD Inc,Microsoft Corp
+1920,M&G (Lux) Glb Dividend A USD Inc,Amcor PLC
+1921,M&G (Lux) Glb Dividend A USD Inc,Bristol-Myers Squibb Company
+1922,M&G Global Dividend GBP I Acc,Methanex Corp
+1923,M&G Global Dividend GBP I Acc,Imperial Brands PLC
+1924,M&G Global Dividend GBP I Acc,Gibson Energy Inc
+1925,M&G Global Dividend GBP I Acc,Keyera Corp
+1926,M&G Global Dividend GBP I Acc,Trinseo SA
+1927,M&G Global Dividend GBP I Acc,Standard Life Aberdeen PLC
+1928,M&G Global Dividend GBP I Acc,Roche Holding AG Dividend Right Cert.
+1929,M&G Global Dividend GBP I Acc,Microsoft Corp
+1930,M&G Global Dividend GBP I Acc,Amcor PLC
+1931,M&G Global Dividend GBP I Acc,Bristol-Myers Squibb Company
+1932,M&G Global Dividend GBP I Inc,Methanex Corp
+1933,M&G Global Dividend GBP I Inc,Imperial Brands PLC
+1934,M&G Global Dividend GBP I Inc,Gibson Energy Inc
+1935,M&G Global Dividend GBP I Inc,Keyera Corp
+1936,M&G Global Dividend GBP I Inc,Trinseo SA
+1937,M&G Global Dividend GBP I Inc,Standard Life Aberdeen PLC
+1938,M&G Global Dividend GBP I Inc,Roche Holding AG Dividend Right Cert.
+1939,M&G Global Dividend GBP I Inc,Microsoft Corp
+1940,M&G Global Dividend GBP I Inc,Amcor PLC
+1941,M&G Global Dividend GBP I Inc,Bristol-Myers Squibb Company
+1942,M&G Global Dividend GBP PP Acc,Methanex Corp
+1943,M&G Global Dividend GBP PP Acc,Imperial Brands PLC
+1944,M&G Global Dividend GBP PP Acc,Gibson Energy Inc
+1945,M&G Global Dividend GBP PP Acc,Keyera Corp
+1946,M&G Global Dividend GBP PP Acc,Trinseo SA
+1947,M&G Global Dividend GBP PP Acc,Standard Life Aberdeen PLC
+1948,M&G Global Dividend GBP PP Acc,Roche Holding AG Dividend Right Cert.
+1949,M&G Global Dividend GBP PP Acc,Microsoft Corp
+1950,M&G Global Dividend GBP PP Acc,Amcor PLC
+1951,M&G Global Dividend GBP PP Acc,Bristol-Myers Squibb Company
+1952,Merian Global Eq Inc (IRL) A GBP Inc,Microsoft Corp
+1953,Merian Global Eq Inc (IRL) A GBP Inc,Apple Inc
+1954,Merian Global Eq Inc (IRL) A GBP Inc,Amazon.com Inc
+1955,Merian Global Eq Inc (IRL) A GBP Inc,Procter & Gamble Co
+1956,Merian Global Eq Inc (IRL) A GBP Inc,Roche Holding AG Dividend Right Cert.
+1957,Merian Global Eq Inc (IRL) A GBP Inc,Merck & Co Inc
+1958,Merian Global Eq Inc (IRL) A GBP Inc,Johnson & Johnson
+1959,Merian Global Eq Inc (IRL) A GBP Inc,Verizon Communications Inc
+1960,Merian Global Eq Inc (IRL) A GBP Inc,Pfizer Inc
+1961,Merian Global Eq Inc (IRL) A USD Inc,Microsoft Corp
+1962,Merian Global Eq Inc (IRL) A USD Inc,Apple Inc
+1963,Merian Global Eq Inc (IRL) A USD Inc,Amazon.com Inc
+1964,Merian Global Eq Inc (IRL) A USD Inc,Procter & Gamble Co
+1965,Merian Global Eq Inc (IRL) A USD Inc,Roche Holding AG Dividend Right Cert.
+1966,Merian Global Eq Inc (IRL) A USD Inc,Merck & Co Inc
+1967,Merian Global Eq Inc (IRL) A USD Inc,Johnson & Johnson
+1968,Merian Global Eq Inc (IRL) A USD Inc,Verizon Communications Inc
+1969,Merian Global Eq Inc (IRL) A USD Inc,Pfizer Inc
+1970,Merian Global Eq Inc (IRL) R GBP Acc,Microsoft Corp
+1971,Merian Global Eq Inc (IRL) R GBP Acc,Apple Inc
+1972,Merian Global Eq Inc (IRL) R GBP Acc,Amazon.com Inc
+1973,Merian Global Eq Inc (IRL) R GBP Acc,Procter & Gamble Co
+1974,Merian Global Eq Inc (IRL) R GBP Acc,Roche Holding AG Dividend Right Cert.
+1975,Merian Global Eq Inc (IRL) R GBP Acc,Merck & Co Inc
+1976,Merian Global Eq Inc (IRL) R GBP Acc,Johnson & Johnson
+1977,Merian Global Eq Inc (IRL) R GBP Acc,Verizon Communications Inc
+1978,Merian Global Eq Inc (IRL) R GBP Acc,Pfizer Inc
+1979,Merian Global Eq Inc (IRL) R GBP Inc,Microsoft Corp
+1980,Merian Global Eq Inc (IRL) R GBP Inc,Apple Inc
+1981,Merian Global Eq Inc (IRL) R GBP Inc,Amazon.com Inc
+1982,Merian Global Eq Inc (IRL) R GBP Inc,Procter & Gamble Co
+1983,Merian Global Eq Inc (IRL) R GBP Inc,Roche Holding AG Dividend Right Cert.
+1984,Merian Global Eq Inc (IRL) R GBP Inc,Merck & Co Inc
+1985,Merian Global Eq Inc (IRL) R GBP Inc,Johnson & Johnson
+1986,Merian Global Eq Inc (IRL) R GBP Inc,Verizon Communications Inc
+1987,Merian Global Eq Inc (IRL) R GBP Inc,Pfizer Inc
+1988,Merian Global Eq Inc (IRL) S GBP Acc,Microsoft Corp
+1989,Merian Global Eq Inc (IRL) S GBP Acc,Apple Inc
+1990,Merian Global Eq Inc (IRL) S GBP Acc,Amazon.com Inc
+1991,Merian Global Eq Inc (IRL) S GBP Acc,Procter & Gamble Co
+1992,Merian Global Eq Inc (IRL) S GBP Acc,Roche Holding AG Dividend Right Cert.
+1993,Merian Global Eq Inc (IRL) S GBP Acc,Merck & Co Inc
+1994,Merian Global Eq Inc (IRL) S GBP Acc,Johnson & Johnson
+1995,Merian Global Eq Inc (IRL) S GBP Acc,Verizon Communications Inc
+1996,Merian Global Eq Inc (IRL) S GBP Acc,Pfizer Inc
+1997,Merian Global Eq Inc (IRL) U1 GBP Acc,Microsoft Corp
+1998,Merian Global Eq Inc (IRL) U1 GBP Acc,Apple Inc
+1999,Merian Global Eq Inc (IRL) U1 GBP Acc,Amazon.com Inc
+2000,Merian Global Eq Inc (IRL) U1 GBP Acc,Procter & Gamble Co
+2001,Merian Global Eq Inc (IRL) U1 GBP Acc,Roche Holding AG Dividend Right Cert.
+2002,Merian Global Eq Inc (IRL) U1 GBP Acc,Merck & Co Inc
+2003,Merian Global Eq Inc (IRL) U1 GBP Acc,Johnson & Johnson
+2004,Merian Global Eq Inc (IRL) U1 GBP Acc,Verizon Communications Inc
+2005,Merian Global Eq Inc (IRL) U1 GBP Acc,Pfizer Inc
+2006,Merian Global Eq Inc (IRL) U1 GBP Inc,Microsoft Corp
+2007,Merian Global Eq Inc (IRL) U1 GBP Inc,Apple Inc
+2008,Merian Global Eq Inc (IRL) U1 GBP Inc,Amazon.com Inc
+2009,Merian Global Eq Inc (IRL) U1 GBP Inc,Procter & Gamble Co
+2010,Merian Global Eq Inc (IRL) U1 GBP Inc,Roche Holding AG Dividend Right Cert.
+2011,Merian Global Eq Inc (IRL) U1 GBP Inc,Merck & Co Inc
+2012,Merian Global Eq Inc (IRL) U1 GBP Inc,Johnson & Johnson
+2013,Merian Global Eq Inc (IRL) U1 GBP Inc,Verizon Communications Inc
+2014,Merian Global Eq Inc (IRL) U1 GBP Inc,Pfizer Inc
+2015,Mirabaud Sust Glbl Hi Div A EUR Acc,Microsoft Corp
+2016,Mirabaud Sust Glbl Hi Div A EUR Acc,Procter & Gamble Co
+2017,Mirabaud Sust Glbl Hi Div A EUR Acc,Colgate-Palmolive Co
+2018,Mirabaud Sust Glbl Hi Div A EUR Acc,Koninklijke DSM NV
+2019,Mirabaud Sust Glbl Hi Div A EUR Acc,Union Pacific Corp
+2020,Mirabaud Sust Glbl Hi Div A EUR Acc,Deutsche Boerse AG
+2021,Mirabaud Sust Glbl Hi Div A EUR Acc,Cogent Communications Holdings Inc
+2022,Mirabaud Sust Glbl Hi Div A EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2023,Mirabaud Sust Glbl Hi Div A EUR Acc,Digital Realty Trust Inc
+2024,Mirabaud Sust Glbl Hi Div A EUR Acc,Amgen Inc
+2025,Mirabaud Sust Glbl Hi Div A EUR Inc,Microsoft Corp
+2026,Mirabaud Sust Glbl Hi Div A EUR Inc,Procter & Gamble Co
+2027,Mirabaud Sust Glbl Hi Div A EUR Inc,Colgate-Palmolive Co
+2028,Mirabaud Sust Glbl Hi Div A EUR Inc,Koninklijke DSM NV
+2029,Mirabaud Sust Glbl Hi Div A EUR Inc,Union Pacific Corp
+2030,Mirabaud Sust Glbl Hi Div A EUR Inc,Deutsche Boerse AG
+2031,Mirabaud Sust Glbl Hi Div A EUR Inc,Cogent Communications Holdings Inc
+2032,Mirabaud Sust Glbl Hi Div A EUR Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2033,Mirabaud Sust Glbl Hi Div A EUR Inc,Digital Realty Trust Inc
+2034,Mirabaud Sust Glbl Hi Div A EUR Inc,Amgen Inc
+2035,Mirabaud Sust Glbl Hi Div A GBP Inc,Microsoft Corp
+2036,Mirabaud Sust Glbl Hi Div A GBP Inc,Procter & Gamble Co
+2037,Mirabaud Sust Glbl Hi Div A GBP Inc,Colgate-Palmolive Co
+2038,Mirabaud Sust Glbl Hi Div A GBP Inc,Koninklijke DSM NV
+2039,Mirabaud Sust Glbl Hi Div A GBP Inc,Union Pacific Corp
+2040,Mirabaud Sust Glbl Hi Div A GBP Inc,Deutsche Boerse AG
+2041,Mirabaud Sust Glbl Hi Div A GBP Inc,Cogent Communications Holdings Inc
+2042,Mirabaud Sust Glbl Hi Div A GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2043,Mirabaud Sust Glbl Hi Div A GBP Inc,Digital Realty Trust Inc
+2044,Mirabaud Sust Glbl Hi Div A GBP Inc,Amgen Inc
+2045,Mirabaud Sust Glbl Hi Div A USD Acc,Microsoft Corp
+2046,Mirabaud Sust Glbl Hi Div A USD Acc,Procter & Gamble Co
+2047,Mirabaud Sust Glbl Hi Div A USD Acc,Colgate-Palmolive Co
+2048,Mirabaud Sust Glbl Hi Div A USD Acc,Koninklijke DSM NV
+2049,Mirabaud Sust Glbl Hi Div A USD Acc,Union Pacific Corp
+2050,Mirabaud Sust Glbl Hi Div A USD Acc,Deutsche Boerse AG
+2051,Mirabaud Sust Glbl Hi Div A USD Acc,Cogent Communications Holdings Inc
+2052,Mirabaud Sust Glbl Hi Div A USD Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2053,Mirabaud Sust Glbl Hi Div A USD Acc,Digital Realty Trust Inc
+2054,Mirabaud Sust Glbl Hi Div A USD Acc,Amgen Inc
+2055,Mirabaud Sust Glbl Hi Div A USD Inc,Microsoft Corp
+2056,Mirabaud Sust Glbl Hi Div A USD Inc,Procter & Gamble Co
+2057,Mirabaud Sust Glbl Hi Div A USD Inc,Colgate-Palmolive Co
+2058,Mirabaud Sust Glbl Hi Div A USD Inc,Koninklijke DSM NV
+2059,Mirabaud Sust Glbl Hi Div A USD Inc,Union Pacific Corp
+2060,Mirabaud Sust Glbl Hi Div A USD Inc,Deutsche Boerse AG
+2061,Mirabaud Sust Glbl Hi Div A USD Inc,Cogent Communications Holdings Inc
+2062,Mirabaud Sust Glbl Hi Div A USD Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2063,Mirabaud Sust Glbl Hi Div A USD Inc,Digital Realty Trust Inc
+2064,Mirabaud Sust Glbl Hi Div A USD Inc,Amgen Inc
+2065,Mirabaud Sust Glbl Hi Div D GBP Acc,Microsoft Corp
+2066,Mirabaud Sust Glbl Hi Div D GBP Acc,Procter & Gamble Co
+2067,Mirabaud Sust Glbl Hi Div D GBP Acc,Colgate-Palmolive Co
+2068,Mirabaud Sust Glbl Hi Div D GBP Acc,Koninklijke DSM NV
+2069,Mirabaud Sust Glbl Hi Div D GBP Acc,Union Pacific Corp
+2070,Mirabaud Sust Glbl Hi Div D GBP Acc,Deutsche Boerse AG
+2071,Mirabaud Sust Glbl Hi Div D GBP Acc,Cogent Communications Holdings Inc
+2072,Mirabaud Sust Glbl Hi Div D GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2073,Mirabaud Sust Glbl Hi Div D GBP Acc,Digital Realty Trust Inc
+2074,Mirabaud Sust Glbl Hi Div D GBP Acc,Amgen Inc
+2075,Mirabaud Sust Glbl Hi Div D GBP Inc,Microsoft Corp
+2076,Mirabaud Sust Glbl Hi Div D GBP Inc,Procter & Gamble Co
+2077,Mirabaud Sust Glbl Hi Div D GBP Inc,Colgate-Palmolive Co
+2078,Mirabaud Sust Glbl Hi Div D GBP Inc,Koninklijke DSM NV
+2079,Mirabaud Sust Glbl Hi Div D GBP Inc,Union Pacific Corp
+2080,Mirabaud Sust Glbl Hi Div D GBP Inc,Deutsche Boerse AG
+2081,Mirabaud Sust Glbl Hi Div D GBP Inc,Cogent Communications Holdings Inc
+2082,Mirabaud Sust Glbl Hi Div D GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2083,Mirabaud Sust Glbl Hi Div D GBP Inc,Digital Realty Trust Inc
+2084,Mirabaud Sust Glbl Hi Div D GBP Inc,Amgen Inc
+2085,Mirabaud Sust Glbl Hi Div I GBP Inc,Microsoft Corp
+2086,Mirabaud Sust Glbl Hi Div I GBP Inc,Procter & Gamble Co
+2087,Mirabaud Sust Glbl Hi Div I GBP Inc,Colgate-Palmolive Co
+2088,Mirabaud Sust Glbl Hi Div I GBP Inc,Koninklijke DSM NV
+2089,Mirabaud Sust Glbl Hi Div I GBP Inc,Union Pacific Corp
+2090,Mirabaud Sust Glbl Hi Div I GBP Inc,Deutsche Boerse AG
+2091,Mirabaud Sust Glbl Hi Div I GBP Inc,Cogent Communications Holdings Inc
+2092,Mirabaud Sust Glbl Hi Div I GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2093,Mirabaud Sust Glbl Hi Div I GBP Inc,Digital Realty Trust Inc
+2094,Mirabaud Sust Glbl Hi Div I GBP Inc,Amgen Inc
+2095,Mirabaud Sust Glbl Hi Div I USD Acc,Microsoft Corp
+2096,Mirabaud Sust Glbl Hi Div I USD Acc,Procter & Gamble Co
+2097,Mirabaud Sust Glbl Hi Div I USD Acc,Colgate-Palmolive Co
+2098,Mirabaud Sust Glbl Hi Div I USD Acc,Koninklijke DSM NV
+2099,Mirabaud Sust Glbl Hi Div I USD Acc,Union Pacific Corp
+2100,Mirabaud Sust Glbl Hi Div I USD Acc,Deutsche Boerse AG
+2101,Mirabaud Sust Glbl Hi Div I USD Acc,Cogent Communications Holdings Inc
+2102,Mirabaud Sust Glbl Hi Div I USD Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2103,Mirabaud Sust Glbl Hi Div I USD Acc,Digital Realty Trust Inc
+2104,Mirabaud Sust Glbl Hi Div I USD Acc,Amgen Inc
+2105,Ninety One Global Quality Eq Inc A Acc,Microsoft Corp
+2106,Ninety One Global Quality Eq Inc A Acc,Visa Inc Class A
+2107,Ninety One Global Quality Eq Inc A Acc,Philip Morris International Inc
+2108,Ninety One Global Quality Eq Inc A Acc,Reckitt Benckiser Group PLC
+2109,Ninety One Global Quality Eq Inc A Acc,Broadridge Financial Solutions Inc
+2110,Ninety One Global Quality Eq Inc A Acc,KONE Oyj Class B
+2111,Ninety One Global Quality Eq Inc A Acc,Swedish Match AB
+2112,Ninety One Global Quality Eq Inc A Acc,Roche Holding AG Dividend Right Cert.
+2113,Ninety One Global Quality Eq Inc I Acc,Microsoft Corp
+2114,Ninety One Global Quality Eq Inc I Acc,Visa Inc Class A
+2115,Ninety One Global Quality Eq Inc I Acc,Philip Morris International Inc
+2116,Ninety One Global Quality Eq Inc I Acc,Reckitt Benckiser Group PLC
+2117,Ninety One Global Quality Eq Inc I Acc,Broadridge Financial Solutions Inc
+2118,Ninety One Global Quality Eq Inc I Acc,KONE Oyj Class B
+2119,Ninety One Global Quality Eq Inc I Acc,Swedish Match AB
+2120,Ninety One Global Quality Eq Inc I Acc,Roche Holding AG Dividend Right Cert.
+2121,Ninety One Global Quality Eq Inc I Inc-2,Microsoft Corp
+2122,Ninety One Global Quality Eq Inc I Inc-2,Visa Inc Class A
+2123,Ninety One Global Quality Eq Inc I Inc-2,Philip Morris International Inc
+2124,Ninety One Global Quality Eq Inc I Inc-2,Reckitt Benckiser Group PLC
+2125,Ninety One Global Quality Eq Inc I Inc-2,Broadridge Financial Solutions Inc
+2126,Ninety One Global Quality Eq Inc I Inc-2,KONE Oyj Class B
+2127,Ninety One Global Quality Eq Inc I Inc-2,Swedish Match AB
+2128,Ninety One Global Quality Eq Inc I Inc-2,Roche Holding AG Dividend Right Cert.
+2129,Ninety One Global Quality Eq Inc J Acc,Microsoft Corp
+2130,Ninety One Global Quality Eq Inc J Acc,Visa Inc Class A
+2131,Ninety One Global Quality Eq Inc J Acc,Philip Morris International Inc
+2132,Ninety One Global Quality Eq Inc J Acc,Reckitt Benckiser Group PLC
+2133,Ninety One Global Quality Eq Inc J Acc,Broadridge Financial Solutions Inc
+2134,Ninety One Global Quality Eq Inc J Acc,KONE Oyj Class B
+2135,Ninety One Global Quality Eq Inc J Acc,Swedish Match AB
+2136,Ninety One Global Quality Eq Inc J Acc,Roche Holding AG Dividend Right Cert.
+2137,Ninety One Global Quality Eq Inc J Inc-2,Microsoft Corp
+2138,Ninety One Global Quality Eq Inc J Inc-2,Visa Inc Class A
+2139,Ninety One Global Quality Eq Inc J Inc-2,Philip Morris International Inc
+2140,Ninety One Global Quality Eq Inc J Inc-2,Reckitt Benckiser Group PLC
+2141,Ninety One Global Quality Eq Inc J Inc-2,Broadridge Financial Solutions Inc
+2142,Ninety One Global Quality Eq Inc J Inc-2,KONE Oyj Class B
+2143,Ninety One Global Quality Eq Inc J Inc-2,Swedish Match AB
+2144,Ninety One Global Quality Eq Inc J Inc-2,Roche Holding AG Dividend Right Cert.
+2145,Ninety One Global Quality Eq Inc K Acc,Microsoft Corp
+2146,Ninety One Global Quality Eq Inc K Acc,Visa Inc Class A
+2147,Ninety One Global Quality Eq Inc K Acc,Philip Morris International Inc
+2148,Ninety One Global Quality Eq Inc K Acc,Reckitt Benckiser Group PLC
+2149,Ninety One Global Quality Eq Inc K Acc,Broadridge Financial Solutions Inc
+2150,Ninety One Global Quality Eq Inc K Acc,KONE Oyj Class B
+2151,Ninety One Global Quality Eq Inc K Acc,Swedish Match AB
+2152,Ninety One Global Quality Eq Inc K Acc,Roche Holding AG Dividend Right Cert.
+2153,Ninety One Global Quality Eq Inc K Inc-2,Microsoft Corp
+2154,Ninety One Global Quality Eq Inc K Inc-2,Visa Inc Class A
+2155,Ninety One Global Quality Eq Inc K Inc-2,Philip Morris International Inc
+2156,Ninety One Global Quality Eq Inc K Inc-2,Reckitt Benckiser Group PLC
+2157,Ninety One Global Quality Eq Inc K Inc-2,Broadridge Financial Solutions Inc
+2158,Ninety One Global Quality Eq Inc K Inc-2,KONE Oyj Class B
+2159,Ninety One Global Quality Eq Inc K Inc-2,Swedish Match AB
+2160,Ninety One Global Quality Eq Inc K Inc-2,Roche Holding AG Dividend Right Cert.
+2161,Ninety One Global Quality Eq Inc L Acc,Microsoft Corp
+2162,Ninety One Global Quality Eq Inc L Acc,Visa Inc Class A
+2163,Ninety One Global Quality Eq Inc L Acc,Philip Morris International Inc
+2164,Ninety One Global Quality Eq Inc L Acc,Reckitt Benckiser Group PLC
+2165,Ninety One Global Quality Eq Inc L Acc,Broadridge Financial Solutions Inc
+2166,Ninety One Global Quality Eq Inc L Acc,KONE Oyj Class B
+2167,Ninety One Global Quality Eq Inc L Acc,Swedish Match AB
+2168,Ninety One Global Quality Eq Inc L Acc,Roche Holding AG Dividend Right Cert.
+2169,Ninety One Global Quality Eq Inc L Inc-2,Microsoft Corp
+2170,Ninety One Global Quality Eq Inc L Inc-2,Visa Inc Class A
+2171,Ninety One Global Quality Eq Inc L Inc-2,Philip Morris International Inc
+2172,Ninety One Global Quality Eq Inc L Inc-2,Reckitt Benckiser Group PLC
+2173,Ninety One Global Quality Eq Inc L Inc-2,Broadridge Financial Solutions Inc
+2174,Ninety One Global Quality Eq Inc L Inc-2,KONE Oyj Class B
+2175,Ninety One Global Quality Eq Inc L Inc-2,Swedish Match AB
+2176,Ninety One Global Quality Eq Inc L Inc-2,Roche Holding AG Dividend Right Cert.
+2177,Ninety One GSF Glb Qul Eq Inc A Acc USD,Microsoft Corp
+2178,Ninety One GSF Glb Qul Eq Inc A Acc USD,Visa Inc Class A
+2179,Ninety One GSF Glb Qul Eq Inc A Acc USD,Philip Morris International Inc
+2180,Ninety One GSF Glb Qul Eq Inc A Acc USD,Broadridge Financial Solutions Inc
+2181,Ninety One GSF Glb Qul Eq Inc A Acc USD,Automatic Data Processing Inc
+2182,Ninety One GSF Glb Qul Eq Inc A Acc USD,Reckitt Benckiser Group PLC
+2183,Ninety One GSF Glb Qul Eq Inc A Acc USD,Swedish Match AB
+2184,Ninety One GSF Glb Qul Eq Inc A Acc USD,Nike Inc B
+2185,Ninety One GSF Glb Qul Eq Inc A Acc USD,KONE Oyj Class B
+2186,Ninety One GSF Glb Qul Eq Inc A Acc USD,ASML Holding NV
+2187,Ninety One GSF Glb Qul Eq Inc A Inc USD,Microsoft Corp
+2188,Ninety One GSF Glb Qul Eq Inc A Inc USD,Visa Inc Class A
+2189,Ninety One GSF Glb Qul Eq Inc A Inc USD,Philip Morris International Inc
+2190,Ninety One GSF Glb Qul Eq Inc A Inc USD,Broadridge Financial Solutions Inc
+2191,Ninety One GSF Glb Qul Eq Inc A Inc USD,Automatic Data Processing Inc
+2192,Ninety One GSF Glb Qul Eq Inc A Inc USD,Reckitt Benckiser Group PLC
+2193,Ninety One GSF Glb Qul Eq Inc A Inc USD,Swedish Match AB
+2194,Ninety One GSF Glb Qul Eq Inc A Inc USD,Nike Inc B
+2195,Ninety One GSF Glb Qul Eq Inc A Inc USD,KONE Oyj Class B
+2196,Ninety One GSF Glb Qul Eq Inc A Inc USD,ASML Holding NV
+2197,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Microsoft Corp
+2198,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Visa Inc Class A
+2199,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Philip Morris International Inc
+2200,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Broadridge Financial Solutions Inc
+2201,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Automatic Data Processing Inc
+2202,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Reckitt Benckiser Group PLC
+2203,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Swedish Match AB
+2204,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,Nike Inc B
+2205,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,KONE Oyj Class B
+2206,Ninety One GSF Glb Qul Eq Inc A Inc2 USD,ASML Holding NV
+2207,Ninety One GSF Glb Qul Eq Inc C Acc USD,Microsoft Corp
+2208,Ninety One GSF Glb Qul Eq Inc C Acc USD,Visa Inc Class A
+2209,Ninety One GSF Glb Qul Eq Inc C Acc USD,Philip Morris International Inc
+2210,Ninety One GSF Glb Qul Eq Inc C Acc USD,Broadridge Financial Solutions Inc
+2211,Ninety One GSF Glb Qul Eq Inc C Acc USD,Automatic Data Processing Inc
+2212,Ninety One GSF Glb Qul Eq Inc C Acc USD,Reckitt Benckiser Group PLC
+2213,Ninety One GSF Glb Qul Eq Inc C Acc USD,Swedish Match AB
+2214,Ninety One GSF Glb Qul Eq Inc C Acc USD,Nike Inc B
+2215,Ninety One GSF Glb Qul Eq Inc C Acc USD,KONE Oyj Class B
+2216,Ninety One GSF Glb Qul Eq Inc C Acc USD,ASML Holding NV
+2217,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Microsoft Corp
+2218,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Visa Inc Class A
+2219,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Philip Morris International Inc
+2220,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Broadridge Financial Solutions Inc
+2221,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Automatic Data Processing Inc
+2222,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Reckitt Benckiser Group PLC
+2223,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Swedish Match AB
+2224,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,Nike Inc B
+2225,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,KONE Oyj Class B
+2226,Ninety One GSF Glb Qul Eq Inc C Inc2 USD,ASML Holding NV
+2227,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Microsoft Corp
+2228,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Visa Inc Class A
+2229,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Philip Morris International Inc
+2230,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Broadridge Financial Solutions Inc
+2231,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Automatic Data Processing Inc
+2232,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Reckitt Benckiser Group PLC
+2233,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Swedish Match AB
+2234,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,Nike Inc B
+2235,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,KONE Oyj Class B
+2236,Ninety One GSF Glb Qul Eq Inc C Inc3 USD,ASML Holding NV
+2237,Ninety One GSF Glb Qul Eq Inc I Acc USD,Microsoft Corp
+2238,Ninety One GSF Glb Qul Eq Inc I Acc USD,Visa Inc Class A
+2239,Ninety One GSF Glb Qul Eq Inc I Acc USD,Philip Morris International Inc
+2240,Ninety One GSF Glb Qul Eq Inc I Acc USD,Broadridge Financial Solutions Inc
+2241,Ninety One GSF Glb Qul Eq Inc I Acc USD,Automatic Data Processing Inc
+2242,Ninety One GSF Glb Qul Eq Inc I Acc USD,Reckitt Benckiser Group PLC
+2243,Ninety One GSF Glb Qul Eq Inc I Acc USD,Swedish Match AB
+2244,Ninety One GSF Glb Qul Eq Inc I Acc USD,Nike Inc B
+2245,Ninety One GSF Glb Qul Eq Inc I Acc USD,KONE Oyj Class B
+2246,Ninety One GSF Glb Qul Eq Inc I Acc USD,ASML Holding NV
+2247,Ninety One GSF Glb Qul Eq Inc I Inc USD,Microsoft Corp
+2248,Ninety One GSF Glb Qul Eq Inc I Inc USD,Visa Inc Class A
+2249,Ninety One GSF Glb Qul Eq Inc I Inc USD,Philip Morris International Inc
+2250,Ninety One GSF Glb Qul Eq Inc I Inc USD,Broadridge Financial Solutions Inc
+2251,Ninety One GSF Glb Qul Eq Inc I Inc USD,Automatic Data Processing Inc
+2252,Ninety One GSF Glb Qul Eq Inc I Inc USD,Reckitt Benckiser Group PLC
+2253,Ninety One GSF Glb Qul Eq Inc I Inc USD,Swedish Match AB
+2254,Ninety One GSF Glb Qul Eq Inc I Inc USD,Nike Inc B
+2255,Ninety One GSF Glb Qul Eq Inc I Inc USD,KONE Oyj Class B
+2256,Ninety One GSF Glb Qul Eq Inc I Inc USD,ASML Holding NV
+2257,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Microsoft Corp
+2258,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Visa Inc Class A
+2259,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Philip Morris International Inc
+2260,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Broadridge Financial Solutions Inc
+2261,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Automatic Data Processing Inc
+2262,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Reckitt Benckiser Group PLC
+2263,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Swedish Match AB
+2264,Ninety One GSF Glb Qual Eq Inc I Inc2 $,Nike Inc B
+2265,Ninety One GSF Glb Qual Eq Inc I Inc2 $,KONE Oyj Class B
+2266,Ninety One GSF Glb Qual Eq Inc I Inc2 $,ASML Holding NV
+2267,Ninety One GSF Glb Qual Eq Inc IX Inc $,Microsoft Corp
+2268,Ninety One GSF Glb Qual Eq Inc IX Inc $,Visa Inc Class A
+2269,Ninety One GSF Glb Qual Eq Inc IX Inc $,Philip Morris International Inc
+2270,Ninety One GSF Glb Qual Eq Inc IX Inc $,Broadridge Financial Solutions Inc
+2271,Ninety One GSF Glb Qual Eq Inc IX Inc $,Automatic Data Processing Inc
+2272,Ninety One GSF Glb Qual Eq Inc IX Inc $,Reckitt Benckiser Group PLC
+2273,Ninety One GSF Glb Qual Eq Inc IX Inc $,Swedish Match AB
+2274,Ninety One GSF Glb Qual Eq Inc IX Inc $,Nike Inc B
+2275,Ninety One GSF Glb Qual Eq Inc IX Inc $,KONE Oyj Class B
+2276,Ninety One GSF Glb Qual Eq Inc IX Inc $,ASML Holding NV
+2277,Ninety One GSF Glb Qual Eq Inc S Acc USD,Microsoft Corp
+2278,Ninety One GSF Glb Qual Eq Inc S Acc USD,Visa Inc Class A
+2279,Ninety One GSF Glb Qual Eq Inc S Acc USD,Philip Morris International Inc
+2280,Ninety One GSF Glb Qual Eq Inc S Acc USD,Broadridge Financial Solutions Inc
+2281,Ninety One GSF Glb Qual Eq Inc S Acc USD,Automatic Data Processing Inc
+2282,Ninety One GSF Glb Qual Eq Inc S Acc USD,Reckitt Benckiser Group PLC
+2283,Ninety One GSF Glb Qual Eq Inc S Acc USD,Swedish Match AB
+2284,Ninety One GSF Glb Qual Eq Inc S Acc USD,Nike Inc B
+2285,Ninety One GSF Glb Qual Eq Inc S Acc USD,KONE Oyj Class B
+2286,Ninety One GSF Glb Qual Eq Inc S Acc USD,ASML Holding NV
+2287,Ninety One GSF Glb Qual Eq Inc S Inc USD,Microsoft Corp
+2288,Ninety One GSF Glb Qual Eq Inc S Inc USD,Visa Inc Class A
+2289,Ninety One GSF Glb Qual Eq Inc S Inc USD,Philip Morris International Inc
+2290,Ninety One GSF Glb Qual Eq Inc S Inc USD,Broadridge Financial Solutions Inc
+2291,Ninety One GSF Glb Qual Eq Inc S Inc USD,Automatic Data Processing Inc
+2292,Ninety One GSF Glb Qual Eq Inc S Inc USD,Reckitt Benckiser Group PLC
+2293,Ninety One GSF Glb Qual Eq Inc S Inc USD,Swedish Match AB
+2294,Ninety One GSF Glb Qual Eq Inc S Inc USD,Nike Inc B
+2295,Ninety One GSF Glb Qual Eq Inc S Inc USD,KONE Oyj Class B
+2296,Ninety One GSF Glb Qual Eq Inc S Inc USD,ASML Holding NV
+2297,Nuveen Santa Barbara Glbl Div Gr I $ Inc,Microsoft Corp
+2298,Nuveen Santa Barbara Glbl Div Gr I $ Inc,Apple Inc
+2299,Nuveen Santa Barbara Glbl Div Gr I $ Inc,UnitedHealth Group Inc
+2300,Nuveen Santa Barbara Glbl Div Gr I $ Inc,Comcast Corp Class A
+2301,Nuveen Santa Barbara Glbl Div Gr I $ Inc,Lowe's Companies Inc
+2302,Nuveen Santa Barbara Glbl Div Gr I $ Inc,JPMorgan Chase & Co
+2303,Nuveen Santa Barbara Glbl Div Gr I $ Inc,Johnson & Johnson
+2304,Nuveen Santa Barbara Glbl Div Gr I $ Inc,Amcor PLC
+2305,Nuveen Santa Barbara Glbl Div Gr I $ Inc,Texas Instruments Inc
+2306,Nuveen Santa Barbara Glbl Div Gr I $ Acc,Microsoft Corp
+2307,Nuveen Santa Barbara Glbl Div Gr I $ Acc,Apple Inc
+2308,Nuveen Santa Barbara Glbl Div Gr I $ Acc,UnitedHealth Group Inc
+2309,Nuveen Santa Barbara Glbl Div Gr I $ Acc,Comcast Corp Class A
+2310,Nuveen Santa Barbara Glbl Div Gr I $ Acc,Lowe's Companies Inc
+2311,Nuveen Santa Barbara Glbl Div Gr I $ Acc,JPMorgan Chase & Co
+2312,Nuveen Santa Barbara Glbl Div Gr I $ Acc,Johnson & Johnson
+2313,Nuveen Santa Barbara Glbl Div Gr I $ Acc,Amcor PLC
+2314,Nuveen Santa Barbara Glbl Div Gr I $ Acc,Texas Instruments Inc
+2315,Sarasin Global Dividend A Acc,Broadcom Inc
+2316,Sarasin Global Dividend A Acc,JPMorgan Chase & Co
+2317,Sarasin Global Dividend A Acc,Enel SpA
+2318,Sarasin Global Dividend A Acc,Legal & General Group PLC
+2319,Sarasin Global Dividend A Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2320,Sarasin Global Dividend A Acc,Smith (DS) PLC
+2321,Sarasin Global Dividend A Acc,Orsted A/S
+2322,Sarasin Global Dividend A Acc,Bridgestone Corp
+2323,Sarasin Global Dividend A Acc,Colgate-Palmolive Co
+2324,Sarasin Global Dividend A Acc,Crown Castle International Corp
+2325,Sarasin Global Dividend A Inc,Broadcom Inc
+2326,Sarasin Global Dividend A Inc,JPMorgan Chase & Co
+2327,Sarasin Global Dividend A Inc,Enel SpA
+2328,Sarasin Global Dividend A Inc,Legal & General Group PLC
+2329,Sarasin Global Dividend A Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2330,Sarasin Global Dividend A Inc,Smith (DS) PLC
+2331,Sarasin Global Dividend A Inc,Orsted A/S
+2332,Sarasin Global Dividend A Inc,Bridgestone Corp
+2333,Sarasin Global Dividend A Inc,Colgate-Palmolive Co
+2334,Sarasin Global Dividend A Inc,Crown Castle International Corp
+2335,Sarasin Global Dividend D Acc,Broadcom Inc
+2336,Sarasin Global Dividend D Acc,JPMorgan Chase & Co
+2337,Sarasin Global Dividend D Acc,Enel SpA
+2338,Sarasin Global Dividend D Acc,Legal & General Group PLC
+2339,Sarasin Global Dividend D Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2340,Sarasin Global Dividend D Acc,Smith (DS) PLC
+2341,Sarasin Global Dividend D Acc,Orsted A/S
+2342,Sarasin Global Dividend D Acc,Bridgestone Corp
+2343,Sarasin Global Dividend D Acc,Colgate-Palmolive Co
+2344,Sarasin Global Dividend D Acc,Crown Castle International Corp
+2345,Sarasin Global Dividend F Acc,Broadcom Inc
+2346,Sarasin Global Dividend F Acc,JPMorgan Chase & Co
+2347,Sarasin Global Dividend F Acc,Enel SpA
+2348,Sarasin Global Dividend F Acc,Legal & General Group PLC
+2349,Sarasin Global Dividend F Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2350,Sarasin Global Dividend F Acc,Smith (DS) PLC
+2351,Sarasin Global Dividend F Acc,Orsted A/S
+2352,Sarasin Global Dividend F Acc,Bridgestone Corp
+2353,Sarasin Global Dividend F Acc,Colgate-Palmolive Co
+2354,Sarasin Global Dividend F Acc,Crown Castle International Corp
+2355,Sarasin Global Dividend I Acc,Broadcom Inc
+2356,Sarasin Global Dividend I Acc,JPMorgan Chase & Co
+2357,Sarasin Global Dividend I Acc,Enel SpA
+2358,Sarasin Global Dividend I Acc,Legal & General Group PLC
+2359,Sarasin Global Dividend I Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2360,Sarasin Global Dividend I Acc,Smith (DS) PLC
+2361,Sarasin Global Dividend I Acc,Orsted A/S
+2362,Sarasin Global Dividend I Acc,Bridgestone Corp
+2363,Sarasin Global Dividend I Acc,Colgate-Palmolive Co
+2364,Sarasin Global Dividend I Acc,Crown Castle International Corp
+2365,Sarasin Global Dividend I Inc,Broadcom Inc
+2366,Sarasin Global Dividend I Inc,JPMorgan Chase & Co
+2367,Sarasin Global Dividend I Inc,Enel SpA
+2368,Sarasin Global Dividend I Inc,Legal & General Group PLC
+2369,Sarasin Global Dividend I Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2370,Sarasin Global Dividend I Inc,Smith (DS) PLC
+2371,Sarasin Global Dividend I Inc,Orsted A/S
+2372,Sarasin Global Dividend I Inc,Bridgestone Corp
+2373,Sarasin Global Dividend I Inc,Colgate-Palmolive Co
+2374,Sarasin Global Dividend I Inc,Crown Castle International Corp
+2375,Sarasin Global Dividend P Acc,Broadcom Inc
+2376,Sarasin Global Dividend P Acc,JPMorgan Chase & Co
+2377,Sarasin Global Dividend P Acc,Enel SpA
+2378,Sarasin Global Dividend P Acc,Legal & General Group PLC
+2379,Sarasin Global Dividend P Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2380,Sarasin Global Dividend P Acc,Smith (DS) PLC
+2381,Sarasin Global Dividend P Acc,Orsted A/S
+2382,Sarasin Global Dividend P Acc,Bridgestone Corp
+2383,Sarasin Global Dividend P Acc,Colgate-Palmolive Co
+2384,Sarasin Global Dividend P Acc,Crown Castle International Corp
+2385,Sarasin Global Dividend P Inc,Broadcom Inc
+2386,Sarasin Global Dividend P Inc,JPMorgan Chase & Co
+2387,Sarasin Global Dividend P Inc,Enel SpA
+2388,Sarasin Global Dividend P Inc,Legal & General Group PLC
+2389,Sarasin Global Dividend P Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2390,Sarasin Global Dividend P Inc,Smith (DS) PLC
+2391,Sarasin Global Dividend P Inc,Orsted A/S
+2392,Sarasin Global Dividend P Inc,Bridgestone Corp
+2393,Sarasin Global Dividend P Inc,Colgate-Palmolive Co
+2394,Sarasin Global Dividend P Inc,Crown Castle International Corp
+2395,Sarasin Global Dividend X Acc,Broadcom Inc
+2396,Sarasin Global Dividend X Acc,JPMorgan Chase & Co
+2397,Sarasin Global Dividend X Acc,Enel SpA
+2398,Sarasin Global Dividend X Acc,Legal & General Group PLC
+2399,Sarasin Global Dividend X Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2400,Sarasin Global Dividend X Acc,Smith (DS) PLC
+2401,Sarasin Global Dividend X Acc,Orsted A/S
+2402,Sarasin Global Dividend X Acc,Bridgestone Corp
+2403,Sarasin Global Dividend X Acc,Colgate-Palmolive Co
+2404,Sarasin Global Dividend X Acc,Crown Castle International Corp
+2405,Sarasin Global Dividend X Inc,Broadcom Inc
+2406,Sarasin Global Dividend X Inc,JPMorgan Chase & Co
+2407,Sarasin Global Dividend X Inc,Enel SpA
+2408,Sarasin Global Dividend X Inc,Legal & General Group PLC
+2409,Sarasin Global Dividend X Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2410,Sarasin Global Dividend X Inc,Smith (DS) PLC
+2411,Sarasin Global Dividend X Inc,Orsted A/S
+2412,Sarasin Global Dividend X Inc,Bridgestone Corp
+2413,Sarasin Global Dividend X Inc,Colgate-Palmolive Co
+2414,Sarasin Global Dividend X Inc,Crown Castle International Corp
+2415,Sarasin Global Higher Div A Acc,Broadcom Inc
+2416,Sarasin Global Higher Div A Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2417,Sarasin Global Higher Div A Acc,United Parcel Service Inc Class B
+2418,Sarasin Global Higher Div A Acc,Schneider Electric SE
+2419,Sarasin Global Higher Div A Acc,Texas Instruments Inc
+2420,Sarasin Global Higher Div A Acc,Medtronic PLC
+2421,Sarasin Global Higher Div A Acc,Colgate-Palmolive Co
+2422,Sarasin Global Higher Div A Acc,Enel SpA
+2423,Sarasin Global Higher Div A Acc,Unilever PLC
+2424,Sarasin Global Higher Div A Acc,JPMorgan Chase & Co
+2425,Sarasin Global Higher Div A EUR Acc,Broadcom Inc
+2426,Sarasin Global Higher Div A EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2427,Sarasin Global Higher Div A EUR Acc,United Parcel Service Inc Class B
+2428,Sarasin Global Higher Div A EUR Acc,Schneider Electric SE
+2429,Sarasin Global Higher Div A EUR Acc,Texas Instruments Inc
+2430,Sarasin Global Higher Div A EUR Acc,Medtronic PLC
+2431,Sarasin Global Higher Div A EUR Acc,Colgate-Palmolive Co
+2432,Sarasin Global Higher Div A EUR Acc,Enel SpA
+2433,Sarasin Global Higher Div A EUR Acc,Unilever PLC
+2434,Sarasin Global Higher Div A EUR Acc,JPMorgan Chase & Co
+2435,Sarasin Global Higher Div A EUR Inc,Broadcom Inc
+2436,Sarasin Global Higher Div A EUR Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2437,Sarasin Global Higher Div A EUR Inc,United Parcel Service Inc Class B
+2438,Sarasin Global Higher Div A EUR Inc,Schneider Electric SE
+2439,Sarasin Global Higher Div A EUR Inc,Texas Instruments Inc
+2440,Sarasin Global Higher Div A EUR Inc,Medtronic PLC
+2441,Sarasin Global Higher Div A EUR Inc,Colgate-Palmolive Co
+2442,Sarasin Global Higher Div A EUR Inc,Enel SpA
+2443,Sarasin Global Higher Div A EUR Inc,Unilever PLC
+2444,Sarasin Global Higher Div A EUR Inc,JPMorgan Chase & Co
+2445,Sarasin Global Higher Div A Inc,Broadcom Inc
+2446,Sarasin Global Higher Div A Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2447,Sarasin Global Higher Div A Inc,United Parcel Service Inc Class B
+2448,Sarasin Global Higher Div A Inc,Schneider Electric SE
+2449,Sarasin Global Higher Div A Inc,Texas Instruments Inc
+2450,Sarasin Global Higher Div A Inc,Medtronic PLC
+2451,Sarasin Global Higher Div A Inc,Colgate-Palmolive Co
+2452,Sarasin Global Higher Div A Inc,Enel SpA
+2453,Sarasin Global Higher Div A Inc,Unilever PLC
+2454,Sarasin Global Higher Div A Inc,JPMorgan Chase & Co
+2455,Sarasin Global Higher Div A USD Acc,Broadcom Inc
+2456,Sarasin Global Higher Div A USD Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2457,Sarasin Global Higher Div A USD Acc,United Parcel Service Inc Class B
+2458,Sarasin Global Higher Div A USD Acc,Schneider Electric SE
+2459,Sarasin Global Higher Div A USD Acc,Texas Instruments Inc
+2460,Sarasin Global Higher Div A USD Acc,Medtronic PLC
+2461,Sarasin Global Higher Div A USD Acc,Colgate-Palmolive Co
+2462,Sarasin Global Higher Div A USD Acc,Enel SpA
+2463,Sarasin Global Higher Div A USD Acc,Unilever PLC
+2464,Sarasin Global Higher Div A USD Acc,JPMorgan Chase & Co
+2465,Sarasin Global Higher Div A USD Inc,Broadcom Inc
+2466,Sarasin Global Higher Div A USD Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2467,Sarasin Global Higher Div A USD Inc,United Parcel Service Inc Class B
+2468,Sarasin Global Higher Div A USD Inc,Schneider Electric SE
+2469,Sarasin Global Higher Div A USD Inc,Texas Instruments Inc
+2470,Sarasin Global Higher Div A USD Inc,Medtronic PLC
+2471,Sarasin Global Higher Div A USD Inc,Colgate-Palmolive Co
+2472,Sarasin Global Higher Div A USD Inc,Enel SpA
+2473,Sarasin Global Higher Div A USD Inc,Unilever PLC
+2474,Sarasin Global Higher Div A USD Inc,JPMorgan Chase & Co
+2475,Sarasin Global Higher Div D Acc,Broadcom Inc
+2476,Sarasin Global Higher Div D Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2477,Sarasin Global Higher Div D Acc,United Parcel Service Inc Class B
+2478,Sarasin Global Higher Div D Acc,Schneider Electric SE
+2479,Sarasin Global Higher Div D Acc,Texas Instruments Inc
+2480,Sarasin Global Higher Div D Acc,Medtronic PLC
+2481,Sarasin Global Higher Div D Acc,Colgate-Palmolive Co
+2482,Sarasin Global Higher Div D Acc,Enel SpA
+2483,Sarasin Global Higher Div D Acc,Unilever PLC
+2484,Sarasin Global Higher Div D Acc,JPMorgan Chase & Co
+2485,Sarasin Global Higher Div D Inc,Broadcom Inc
+2486,Sarasin Global Higher Div D Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2487,Sarasin Global Higher Div D Inc,United Parcel Service Inc Class B
+2488,Sarasin Global Higher Div D Inc,Schneider Electric SE
+2489,Sarasin Global Higher Div D Inc,Texas Instruments Inc
+2490,Sarasin Global Higher Div D Inc,Medtronic PLC
+2491,Sarasin Global Higher Div D Inc,Colgate-Palmolive Co
+2492,Sarasin Global Higher Div D Inc,Enel SpA
+2493,Sarasin Global Higher Div D Inc,Unilever PLC
+2494,Sarasin Global Higher Div D Inc,JPMorgan Chase & Co
+2495,Sarasin Global Higher Div F EUR Acc,Broadcom Inc
+2496,Sarasin Global Higher Div F EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2497,Sarasin Global Higher Div F EUR Acc,United Parcel Service Inc Class B
+2498,Sarasin Global Higher Div F EUR Acc,Schneider Electric SE
+2499,Sarasin Global Higher Div F EUR Acc,Texas Instruments Inc
+2500,Sarasin Global Higher Div F EUR Acc,Medtronic PLC
+2501,Sarasin Global Higher Div F EUR Acc,Colgate-Palmolive Co
+2502,Sarasin Global Higher Div F EUR Acc,Enel SpA
+2503,Sarasin Global Higher Div F EUR Acc,Unilever PLC
+2504,Sarasin Global Higher Div F EUR Acc,JPMorgan Chase & Co
+2505,Sarasin Global Higher Div F EUR Inc,Broadcom Inc
+2506,Sarasin Global Higher Div F EUR Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2507,Sarasin Global Higher Div F EUR Inc,United Parcel Service Inc Class B
+2508,Sarasin Global Higher Div F EUR Inc,Schneider Electric SE
+2509,Sarasin Global Higher Div F EUR Inc,Texas Instruments Inc
+2510,Sarasin Global Higher Div F EUR Inc,Medtronic PLC
+2511,Sarasin Global Higher Div F EUR Inc,Colgate-Palmolive Co
+2512,Sarasin Global Higher Div F EUR Inc,Enel SpA
+2513,Sarasin Global Higher Div F EUR Inc,Unilever PLC
+2514,Sarasin Global Higher Div F EUR Inc,JPMorgan Chase & Co
+2515,Sarasin Global Higher Div F Inc,Broadcom Inc
+2516,Sarasin Global Higher Div F Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2517,Sarasin Global Higher Div F Inc,United Parcel Service Inc Class B
+2518,Sarasin Global Higher Div F Inc,Schneider Electric SE
+2519,Sarasin Global Higher Div F Inc,Texas Instruments Inc
+2520,Sarasin Global Higher Div F Inc,Medtronic PLC
+2521,Sarasin Global Higher Div F Inc,Colgate-Palmolive Co
+2522,Sarasin Global Higher Div F Inc,Enel SpA
+2523,Sarasin Global Higher Div F Inc,Unilever PLC
+2524,Sarasin Global Higher Div F Inc,JPMorgan Chase & Co
+2525,Sarasin Global Higher Div I Acc,Broadcom Inc
+2526,Sarasin Global Higher Div I Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2527,Sarasin Global Higher Div I Acc,United Parcel Service Inc Class B
+2528,Sarasin Global Higher Div I Acc,Schneider Electric SE
+2529,Sarasin Global Higher Div I Acc,Texas Instruments Inc
+2530,Sarasin Global Higher Div I Acc,Medtronic PLC
+2531,Sarasin Global Higher Div I Acc,Colgate-Palmolive Co
+2532,Sarasin Global Higher Div I Acc,Enel SpA
+2533,Sarasin Global Higher Div I Acc,Unilever PLC
+2534,Sarasin Global Higher Div I Acc,JPMorgan Chase & Co
+2535,Sarasin Global Higher Div I EUR Acc,Broadcom Inc
+2536,Sarasin Global Higher Div I EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2537,Sarasin Global Higher Div I EUR Acc,United Parcel Service Inc Class B
+2538,Sarasin Global Higher Div I EUR Acc,Schneider Electric SE
+2539,Sarasin Global Higher Div I EUR Acc,Texas Instruments Inc
+2540,Sarasin Global Higher Div I EUR Acc,Medtronic PLC
+2541,Sarasin Global Higher Div I EUR Acc,Colgate-Palmolive Co
+2542,Sarasin Global Higher Div I EUR Acc,Enel SpA
+2543,Sarasin Global Higher Div I EUR Acc,Unilever PLC
+2544,Sarasin Global Higher Div I EUR Acc,JPMorgan Chase & Co
+2545,Sarasin Global Higher Div I EUR Inc,Broadcom Inc
+2546,Sarasin Global Higher Div I EUR Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2547,Sarasin Global Higher Div I EUR Inc,United Parcel Service Inc Class B
+2548,Sarasin Global Higher Div I EUR Inc,Schneider Electric SE
+2549,Sarasin Global Higher Div I EUR Inc,Texas Instruments Inc
+2550,Sarasin Global Higher Div I EUR Inc,Medtronic PLC
+2551,Sarasin Global Higher Div I EUR Inc,Colgate-Palmolive Co
+2552,Sarasin Global Higher Div I EUR Inc,Enel SpA
+2553,Sarasin Global Higher Div I EUR Inc,Unilever PLC
+2554,Sarasin Global Higher Div I EUR Inc,JPMorgan Chase & Co
+2555,Sarasin Global Higher Div I Inc,Broadcom Inc
+2556,Sarasin Global Higher Div I Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2557,Sarasin Global Higher Div I Inc,United Parcel Service Inc Class B
+2558,Sarasin Global Higher Div I Inc,Schneider Electric SE
+2559,Sarasin Global Higher Div I Inc,Texas Instruments Inc
+2560,Sarasin Global Higher Div I Inc,Medtronic PLC
+2561,Sarasin Global Higher Div I Inc,Colgate-Palmolive Co
+2562,Sarasin Global Higher Div I Inc,Enel SpA
+2563,Sarasin Global Higher Div I Inc,Unilever PLC
+2564,Sarasin Global Higher Div I Inc,JPMorgan Chase & Co
+2565,Sarasin Global Higher Div I USD Acc,Broadcom Inc
+2566,Sarasin Global Higher Div I USD Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2567,Sarasin Global Higher Div I USD Acc,United Parcel Service Inc Class B
+2568,Sarasin Global Higher Div I USD Acc,Schneider Electric SE
+2569,Sarasin Global Higher Div I USD Acc,Texas Instruments Inc
+2570,Sarasin Global Higher Div I USD Acc,Medtronic PLC
+2571,Sarasin Global Higher Div I USD Acc,Colgate-Palmolive Co
+2572,Sarasin Global Higher Div I USD Acc,Enel SpA
+2573,Sarasin Global Higher Div I USD Acc,Unilever PLC
+2574,Sarasin Global Higher Div I USD Acc,JPMorgan Chase & Co
+2575,Sarasin Global Higher Div P Acc,Broadcom Inc
+2576,Sarasin Global Higher Div P Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2577,Sarasin Global Higher Div P Acc,United Parcel Service Inc Class B
+2578,Sarasin Global Higher Div P Acc,Schneider Electric SE
+2579,Sarasin Global Higher Div P Acc,Texas Instruments Inc
+2580,Sarasin Global Higher Div P Acc,Medtronic PLC
+2581,Sarasin Global Higher Div P Acc,Colgate-Palmolive Co
+2582,Sarasin Global Higher Div P Acc,Enel SpA
+2583,Sarasin Global Higher Div P Acc,Unilever PLC
+2584,Sarasin Global Higher Div P Acc,JPMorgan Chase & Co
+2585,Sarasin Global Higher Div P Inc,Broadcom Inc
+2586,Sarasin Global Higher Div P Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2587,Sarasin Global Higher Div P Inc,United Parcel Service Inc Class B
+2588,Sarasin Global Higher Div P Inc,Schneider Electric SE
+2589,Sarasin Global Higher Div P Inc,Texas Instruments Inc
+2590,Sarasin Global Higher Div P Inc,Medtronic PLC
+2591,Sarasin Global Higher Div P Inc,Colgate-Palmolive Co
+2592,Sarasin Global Higher Div P Inc,Enel SpA
+2593,Sarasin Global Higher Div P Inc,Unilever PLC
+2594,Sarasin Global Higher Div P Inc,JPMorgan Chase & Co
+2595,Sarasin Global Higher Div X Acc,Broadcom Inc
+2596,Sarasin Global Higher Div X Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2597,Sarasin Global Higher Div X Acc,United Parcel Service Inc Class B
+2598,Sarasin Global Higher Div X Acc,Schneider Electric SE
+2599,Sarasin Global Higher Div X Acc,Texas Instruments Inc
+2600,Sarasin Global Higher Div X Acc,Medtronic PLC
+2601,Sarasin Global Higher Div X Acc,Colgate-Palmolive Co
+2602,Sarasin Global Higher Div X Acc,Enel SpA
+2603,Sarasin Global Higher Div X Acc,Unilever PLC
+2604,Sarasin Global Higher Div X Acc,JPMorgan Chase & Co
+2605,Sarasin Global Higher Div X EUR Acc,Broadcom Inc
+2606,Sarasin Global Higher Div X EUR Acc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2607,Sarasin Global Higher Div X EUR Acc,United Parcel Service Inc Class B
+2608,Sarasin Global Higher Div X EUR Acc,Schneider Electric SE
+2609,Sarasin Global Higher Div X EUR Acc,Texas Instruments Inc
+2610,Sarasin Global Higher Div X EUR Acc,Medtronic PLC
+2611,Sarasin Global Higher Div X EUR Acc,Colgate-Palmolive Co
+2612,Sarasin Global Higher Div X EUR Acc,Enel SpA
+2613,Sarasin Global Higher Div X EUR Acc,Unilever PLC
+2614,Sarasin Global Higher Div X EUR Acc,JPMorgan Chase & Co
+2615,Sarasin Global Higher Div X EUR Inc,Broadcom Inc
+2616,Sarasin Global Higher Div X EUR Inc,Taiwan Semiconductor Manufacturing Co Ltd ADR
+2617,Sarasin Global Higher Div X EUR Inc,United Parcel Service Inc Class B
+2618,Sarasin Global Higher Div X EUR Inc,Schneider Electric SE
+2619,Sarasin Global Higher Div X EUR Inc,Texas Instruments Inc
+2620,Sarasin Global Higher Div X EUR Inc,Medtronic PLC
+2621,Sarasin Global Higher Div X EUR Inc,Colgate-Palmolive Co
+2622,Sarasin Global Higher Div X EUR Inc,Enel SpA
+2623,Sarasin Global Higher Div X EUR Inc,Unilever PLC
+2624,Sarasin Global Higher Div X EUR Inc,JPMorgan Chase & Co
+2625,TB Evenlode Global Income B EUR Acc,Henkel AG & Co KGaA
+2626,TB Evenlode Global Income B EUR Acc,Unilever PLC
+2627,TB Evenlode Global Income B EUR Acc,Essilorluxottica
+2628,TB Evenlode Global Income B EUR Acc,Intel Corp
+2629,TB Evenlode Global Income B EUR Acc,Reckitt Benckiser Group PLC
+2630,TB Evenlode Global Income B EUR Acc,Bureau Veritas SA
+2631,TB Evenlode Global Income B EUR Acc,RELX PLC
+2632,TB Evenlode Global Income B EUR Acc,Sanofi SA
+2633,TB Evenlode Global Income B EUR Acc,Wolters Kluwer NV
+2634,TB Evenlode Global Income B EUR Acc,Paychex Inc
+2635,TB Evenlode Global Income B GBP Acc,Henkel AG & Co KGaA
+2636,TB Evenlode Global Income B GBP Acc,Unilever PLC
+2637,TB Evenlode Global Income B GBP Acc,Essilorluxottica
+2638,TB Evenlode Global Income B GBP Acc,Intel Corp
+2639,TB Evenlode Global Income B GBP Acc,Reckitt Benckiser Group PLC
+2640,TB Evenlode Global Income B GBP Acc,Bureau Veritas SA
+2641,TB Evenlode Global Income B GBP Acc,RELX PLC
+2642,TB Evenlode Global Income B GBP Acc,Sanofi SA
+2643,TB Evenlode Global Income B GBP Acc,Wolters Kluwer NV
+2644,TB Evenlode Global Income B GBP Acc,Paychex Inc
+2645,TB Evenlode Global Income B USD Acc,Henkel AG & Co KGaA
+2646,TB Evenlode Global Income B USD Acc,Unilever PLC
+2647,TB Evenlode Global Income B USD Acc,Essilorluxottica
+2648,TB Evenlode Global Income B USD Acc,Intel Corp
+2649,TB Evenlode Global Income B USD Acc,Reckitt Benckiser Group PLC
+2650,TB Evenlode Global Income B USD Acc,Bureau Veritas SA
+2651,TB Evenlode Global Income B USD Acc,RELX PLC
+2652,TB Evenlode Global Income B USD Acc,Sanofi SA
+2653,TB Evenlode Global Income B USD Acc,Wolters Kluwer NV
+2654,TB Evenlode Global Income B USD Acc,Paychex Inc
+2655,TB Evenlode Global Income B EUR Inc,Henkel AG & Co KGaA
+2656,TB Evenlode Global Income B EUR Inc,Unilever PLC
+2657,TB Evenlode Global Income B EUR Inc,Essilorluxottica
+2658,TB Evenlode Global Income B EUR Inc,Intel Corp
+2659,TB Evenlode Global Income B EUR Inc,Reckitt Benckiser Group PLC
+2660,TB Evenlode Global Income B EUR Inc,Bureau Veritas SA
+2661,TB Evenlode Global Income B EUR Inc,RELX PLC
+2662,TB Evenlode Global Income B EUR Inc,Sanofi SA
+2663,TB Evenlode Global Income B EUR Inc,Wolters Kluwer NV
+2664,TB Evenlode Global Income B EUR Inc,Paychex Inc
+2665,TB Evenlode Global Income B GBP Inc,Henkel AG & Co KGaA
+2666,TB Evenlode Global Income B GBP Inc,Unilever PLC
+2667,TB Evenlode Global Income B GBP Inc,Essilorluxottica
+2668,TB Evenlode Global Income B GBP Inc,Intel Corp
+2669,TB Evenlode Global Income B GBP Inc,Reckitt Benckiser Group PLC
+2670,TB Evenlode Global Income B GBP Inc,Bureau Veritas SA
+2671,TB Evenlode Global Income B GBP Inc,RELX PLC
+2672,TB Evenlode Global Income B GBP Inc,Sanofi SA
+2673,TB Evenlode Global Income B GBP Inc,Wolters Kluwer NV
+2674,TB Evenlode Global Income B GBP Inc,Paychex Inc
+2675,TB Evenlode Global Income B USD Inc,Henkel AG & Co KGaA
+2676,TB Evenlode Global Income B USD Inc,Unilever PLC
+2677,TB Evenlode Global Income B USD Inc,Essilorluxottica
+2678,TB Evenlode Global Income B USD Inc,Intel Corp
+2679,TB Evenlode Global Income B USD Inc,Reckitt Benckiser Group PLC
+2680,TB Evenlode Global Income B USD Inc,Bureau Veritas SA
+2681,TB Evenlode Global Income B USD Inc,RELX PLC
+2682,TB Evenlode Global Income B USD Inc,Sanofi SA
+2683,TB Evenlode Global Income B USD Inc,Wolters Kluwer NV
+2684,TB Evenlode Global Income B USD Inc,Paychex Inc
+2685,TB Evenlode Global Income C EUR Acc,Henkel AG & Co KGaA
+2686,TB Evenlode Global Income C EUR Acc,Unilever PLC
+2687,TB Evenlode Global Income C EUR Acc,Essilorluxottica
+2688,TB Evenlode Global Income C EUR Acc,Intel Corp
+2689,TB Evenlode Global Income C EUR Acc,Reckitt Benckiser Group PLC
+2690,TB Evenlode Global Income C EUR Acc,Bureau Veritas SA
+2691,TB Evenlode Global Income C EUR Acc,RELX PLC
+2692,TB Evenlode Global Income C EUR Acc,Sanofi SA
+2693,TB Evenlode Global Income C EUR Acc,Wolters Kluwer NV
+2694,TB Evenlode Global Income C EUR Acc,Paychex Inc
+2695,TB Evenlode Global Income C GBP Acc,Henkel AG & Co KGaA
+2696,TB Evenlode Global Income C GBP Acc,Unilever PLC
+2697,TB Evenlode Global Income C GBP Acc,Essilorluxottica
+2698,TB Evenlode Global Income C GBP Acc,Intel Corp
+2699,TB Evenlode Global Income C GBP Acc,Reckitt Benckiser Group PLC
+2700,TB Evenlode Global Income C GBP Acc,Bureau Veritas SA
+2701,TB Evenlode Global Income C GBP Acc,RELX PLC
+2702,TB Evenlode Global Income C GBP Acc,Sanofi SA
+2703,TB Evenlode Global Income C GBP Acc,Wolters Kluwer NV
+2704,TB Evenlode Global Income C GBP Acc,Paychex Inc
+2705,TB Evenlode Global Income C USD Acc,Henkel AG & Co KGaA
+2706,TB Evenlode Global Income C USD Acc,Unilever PLC
+2707,TB Evenlode Global Income C USD Acc,Essilorluxottica
+2708,TB Evenlode Global Income C USD Acc,Intel Corp
+2709,TB Evenlode Global Income C USD Acc,Reckitt Benckiser Group PLC
+2710,TB Evenlode Global Income C USD Acc,Bureau Veritas SA
+2711,TB Evenlode Global Income C USD Acc,RELX PLC
+2712,TB Evenlode Global Income C USD Acc,Sanofi SA
+2713,TB Evenlode Global Income C USD Acc,Wolters Kluwer NV
+2714,TB Evenlode Global Income C USD Acc,Paychex Inc
+2715,TB Evenlode Global Income C EUR Inc,Henkel AG & Co KGaA
+2716,TB Evenlode Global Income C EUR Inc,Unilever PLC
+2717,TB Evenlode Global Income C EUR Inc,Essilorluxottica
+2718,TB Evenlode Global Income C EUR Inc,Intel Corp
+2719,TB Evenlode Global Income C EUR Inc,Reckitt Benckiser Group PLC
+2720,TB Evenlode Global Income C EUR Inc,Bureau Veritas SA
+2721,TB Evenlode Global Income C EUR Inc,RELX PLC
+2722,TB Evenlode Global Income C EUR Inc,Sanofi SA
+2723,TB Evenlode Global Income C EUR Inc,Wolters Kluwer NV
+2724,TB Evenlode Global Income C EUR Inc,Paychex Inc
+2725,TB Evenlode Global Income C GBP Inc,Henkel AG & Co KGaA
+2726,TB Evenlode Global Income C GBP Inc,Unilever PLC
+2727,TB Evenlode Global Income C GBP Inc,Essilorluxottica
+2728,TB Evenlode Global Income C GBP Inc,Intel Corp
+2729,TB Evenlode Global Income C GBP Inc,Reckitt Benckiser Group PLC
+2730,TB Evenlode Global Income C GBP Inc,Bureau Veritas SA
+2731,TB Evenlode Global Income C GBP Inc,RELX PLC
+2732,TB Evenlode Global Income C GBP Inc,Sanofi SA
+2733,TB Evenlode Global Income C GBP Inc,Wolters Kluwer NV
+2734,TB Evenlode Global Income C GBP Inc,Paychex Inc
+2735,TB Evenlode Global Income C USD Inc,Henkel AG & Co KGaA
+2736,TB Evenlode Global Income C USD Inc,Unilever PLC
+2737,TB Evenlode Global Income C USD Inc,Essilorluxottica
+2738,TB Evenlode Global Income C USD Inc,Intel Corp
+2739,TB Evenlode Global Income C USD Inc,Reckitt Benckiser Group PLC
+2740,TB Evenlode Global Income C USD Inc,Bureau Veritas SA
+2741,TB Evenlode Global Income C USD Inc,RELX PLC
+2742,TB Evenlode Global Income C USD Inc,Sanofi SA
+2743,TB Evenlode Global Income C USD Inc,Wolters Kluwer NV
+2744,TB Evenlode Global Income C USD Inc,Paychex Inc
+2745,TB Evenlode Global Income F EUR Acc,Henkel AG & Co KGaA
+2746,TB Evenlode Global Income F EUR Acc,Unilever PLC
+2747,TB Evenlode Global Income F EUR Acc,Essilorluxottica
+2748,TB Evenlode Global Income F EUR Acc,Intel Corp
+2749,TB Evenlode Global Income F EUR Acc,Reckitt Benckiser Group PLC
+2750,TB Evenlode Global Income F EUR Acc,Bureau Veritas SA
+2751,TB Evenlode Global Income F EUR Acc,RELX PLC
+2752,TB Evenlode Global Income F EUR Acc,Sanofi SA
+2753,TB Evenlode Global Income F EUR Acc,Wolters Kluwer NV
+2754,TB Evenlode Global Income F EUR Acc,Paychex Inc
+2755,TB Evenlode Global Income F GBP Acc,Henkel AG & Co KGaA
+2756,TB Evenlode Global Income F GBP Acc,Unilever PLC
+2757,TB Evenlode Global Income F GBP Acc,Essilorluxottica
+2758,TB Evenlode Global Income F GBP Acc,Intel Corp
+2759,TB Evenlode Global Income F GBP Acc,Reckitt Benckiser Group PLC
+2760,TB Evenlode Global Income F GBP Acc,Bureau Veritas SA
+2761,TB Evenlode Global Income F GBP Acc,RELX PLC
+2762,TB Evenlode Global Income F GBP Acc,Sanofi SA
+2763,TB Evenlode Global Income F GBP Acc,Wolters Kluwer NV
+2764,TB Evenlode Global Income F GBP Acc,Paychex Inc
+2765,TB Evenlode Global Income F USD Acc,Henkel AG & Co KGaA
+2766,TB Evenlode Global Income F USD Acc,Unilever PLC
+2767,TB Evenlode Global Income F USD Acc,Essilorluxottica
+2768,TB Evenlode Global Income F USD Acc,Intel Corp
+2769,TB Evenlode Global Income F USD Acc,Reckitt Benckiser Group PLC
+2770,TB Evenlode Global Income F USD Acc,Bureau Veritas SA
+2771,TB Evenlode Global Income F USD Acc,RELX PLC
+2772,TB Evenlode Global Income F USD Acc,Sanofi SA
+2773,TB Evenlode Global Income F USD Acc,Wolters Kluwer NV
+2774,TB Evenlode Global Income F USD Acc,Paychex Inc
+2775,TB Evenlode Global Income F EUR Inc,Henkel AG & Co KGaA
+2776,TB Evenlode Global Income F EUR Inc,Unilever PLC
+2777,TB Evenlode Global Income F EUR Inc,Essilorluxottica
+2778,TB Evenlode Global Income F EUR Inc,Intel Corp
+2779,TB Evenlode Global Income F EUR Inc,Reckitt Benckiser Group PLC
+2780,TB Evenlode Global Income F EUR Inc,Bureau Veritas SA
+2781,TB Evenlode Global Income F EUR Inc,RELX PLC
+2782,TB Evenlode Global Income F EUR Inc,Sanofi SA
+2783,TB Evenlode Global Income F EUR Inc,Wolters Kluwer NV
+2784,TB Evenlode Global Income F EUR Inc,Paychex Inc
+2785,TB Evenlode Global Income F GBP Inc,Henkel AG & Co KGaA
+2786,TB Evenlode Global Income F GBP Inc,Unilever PLC
+2787,TB Evenlode Global Income F GBP Inc,Essilorluxottica
+2788,TB Evenlode Global Income F GBP Inc,Intel Corp
+2789,TB Evenlode Global Income F GBP Inc,Reckitt Benckiser Group PLC
+2790,TB Evenlode Global Income F GBP Inc,Bureau Veritas SA
+2791,TB Evenlode Global Income F GBP Inc,RELX PLC
+2792,TB Evenlode Global Income F GBP Inc,Sanofi SA
+2793,TB Evenlode Global Income F GBP Inc,Wolters Kluwer NV
+2794,TB Evenlode Global Income F GBP Inc,Paychex Inc
+2795,TB Evenlode Global Income F USD Inc,Henkel AG & Co KGaA
+2796,TB Evenlode Global Income F USD Inc,Unilever PLC
+2797,TB Evenlode Global Income F USD Inc,Essilorluxottica
+2798,TB Evenlode Global Income F USD Inc,Intel Corp
+2799,TB Evenlode Global Income F USD Inc,Reckitt Benckiser Group PLC
+2800,TB Evenlode Global Income F USD Inc,Bureau Veritas SA
+2801,TB Evenlode Global Income F USD Inc,RELX PLC
+2802,TB Evenlode Global Income F USD Inc,Sanofi SA
+2803,TB Evenlode Global Income F USD Inc,Wolters Kluwer NV
+2804,TB Evenlode Global Income F USD Inc,Paychex Inc
+2805,Trojan Global Income F Acc,British American Tobacco PLC
+2806,Trojan Global Income F Acc,Unilever NV
+2807,Trojan Global Income F Acc,Roche Holding AG Dividend Right Cert.
+2808,Trojan Global Income F Acc,PepsiCo Inc
+2809,Trojan Global Income F Acc,Reckitt Benckiser Group PLC
+2810,Trojan Global Income F Acc,Philip Morris International Inc
+2811,Trojan Global Income F Acc,Paychex Inc
+2812,Trojan Global Income F Acc,Novartis AG
+2813,Trojan Global Income F Acc,Medtronic PLC
+2814,Trojan Global Income F Acc,Automatic Data Processing Inc
+2815,Trojan Global Income F Income,British American Tobacco PLC
+2816,Trojan Global Income F Income,Unilever NV
+2817,Trojan Global Income F Income,Roche Holding AG Dividend Right Cert.
+2818,Trojan Global Income F Income,PepsiCo Inc
+2819,Trojan Global Income F Income,Reckitt Benckiser Group PLC
+2820,Trojan Global Income F Income,Philip Morris International Inc
+2821,Trojan Global Income F Income,Paychex Inc
+2822,Trojan Global Income F Income,Novartis AG
+2823,Trojan Global Income F Income,Medtronic PLC
+2824,Trojan Global Income F Income,Automatic Data Processing Inc
+2825,Trojan Global Income I Acc,British American Tobacco PLC
+2826,Trojan Global Income I Acc,Unilever NV
+2827,Trojan Global Income I Acc,Roche Holding AG Dividend Right Cert.
+2828,Trojan Global Income I Acc,PepsiCo Inc
+2829,Trojan Global Income I Acc,Reckitt Benckiser Group PLC
+2830,Trojan Global Income I Acc,Philip Morris International Inc
+2831,Trojan Global Income I Acc,Paychex Inc
+2832,Trojan Global Income I Acc,Novartis AG
+2833,Trojan Global Income I Acc,Medtronic PLC
+2834,Trojan Global Income I Acc,Automatic Data Processing Inc
+2835,Trojan Global Income I Income,British American Tobacco PLC
+2836,Trojan Global Income I Income,Unilever NV
+2837,Trojan Global Income I Income,Roche Holding AG Dividend Right Cert.
+2838,Trojan Global Income I Income,PepsiCo Inc
+2839,Trojan Global Income I Income,Reckitt Benckiser Group PLC
+2840,Trojan Global Income I Income,Philip Morris International Inc
+2841,Trojan Global Income I Income,Paychex Inc
+2842,Trojan Global Income I Income,Novartis AG
+2843,Trojan Global Income I Income,Medtronic PLC
+2844,Trojan Global Income I Income,Automatic Data Processing Inc
+2845,Trojan Global Income O Acc,British American Tobacco PLC
+2846,Trojan Global Income O Acc,Unilever NV
+2847,Trojan Global Income O Acc,Roche Holding AG Dividend Right Cert.
+2848,Trojan Global Income O Acc,PepsiCo Inc
+2849,Trojan Global Income O Acc,Reckitt Benckiser Group PLC
+2850,Trojan Global Income O Acc,Philip Morris International Inc
+2851,Trojan Global Income O Acc,Paychex Inc
+2852,Trojan Global Income O Acc,Novartis AG
+2853,Trojan Global Income O Acc,Medtronic PLC
+2854,Trojan Global Income O Acc,Automatic Data Processing Inc
+2855,Trojan Global Income O Income,British American Tobacco PLC
+2856,Trojan Global Income O Income,Unilever NV
+2857,Trojan Global Income O Income,Roche Holding AG Dividend Right Cert.
+2858,Trojan Global Income O Income,PepsiCo Inc
+2859,Trojan Global Income O Income,Reckitt Benckiser Group PLC
+2860,Trojan Global Income O Income,Philip Morris International Inc
+2861,Trojan Global Income O Income,Paychex Inc
+2862,Trojan Global Income O Income,Novartis AG
+2863,Trojan Global Income O Income,Medtronic PLC
+2864,Trojan Global Income O Income,Automatic Data Processing Inc
+2865,Trojan Global Income S Acc,British American Tobacco PLC
+2866,Trojan Global Income S Acc,Unilever NV
+2867,Trojan Global Income S Acc,Roche Holding AG Dividend Right Cert.
+2868,Trojan Global Income S Acc,PepsiCo Inc
+2869,Trojan Global Income S Acc,Reckitt Benckiser Group PLC
+2870,Trojan Global Income S Acc,Philip Morris International Inc
+2871,Trojan Global Income S Acc,Paychex Inc
+2872,Trojan Global Income S Acc,Novartis AG
+2873,Trojan Global Income S Acc,Medtronic PLC
+2874,Trojan Global Income S Acc,Automatic Data Processing Inc
+2875,Trojan Global Income S Income,British American Tobacco PLC
+2876,Trojan Global Income S Income,Unilever NV
+2877,Trojan Global Income S Income,Roche Holding AG Dividend Right Cert.
+2878,Trojan Global Income S Income,PepsiCo Inc
+2879,Trojan Global Income S Income,Reckitt Benckiser Group PLC
+2880,Trojan Global Income S Income,Philip Morris International Inc
+2881,Trojan Global Income S Income,Paychex Inc
+2882,Trojan Global Income S Income,Novartis AG
+2883,Trojan Global Income S Income,Medtronic PLC
+2884,Trojan Global Income S Income,Automatic Data Processing Inc
+2885,UBS(LUX) ES Glb Hi Div USD I-A1-acc,Hangzhou Hik-Vision Digital Technology Co Ltd
+2886,UBS(LUX) ES Glb Hi Div USD I-A1-acc,Garmin Ltd
+2887,UBS(LUX) ES Glb Hi Div USD I-A1-acc,Tokyo Electron Ltd
+2888,UBS(LUX) ES Glb Hi Div USD I-A1-acc,SoftBank Corp
+2889,UBS(LUX) ES Glb Hi Div USD I-A1-acc,Maxim Integrated Products Inc
+2890,UBS(LUX) ES Glb Hi Div USD I-A1-acc,KDDI Corp
+2891,UBS(LUX) ES Glb Hi Div USD I-A1-acc,AbbVie Inc
+2892,UBS(LUX) ES Glb Hi Div USD I-A1-acc,Prologis Inc
+2893,UBS(LUX) ES Glb Hi Div USD I-A1-acc,NTT DOCOMO Inc
+2894,UBS(LUX) ES Glb Hi Div USD I-A1-acc,MediaTek Inc
+2895,UBS(LUX) ES Glb Hi Div USD I-X-acc,Hangzhou Hik-Vision Digital Technology Co Ltd
+2896,UBS(LUX) ES Glb Hi Div USD I-X-acc,Garmin Ltd
+2897,UBS(LUX) ES Glb Hi Div USD I-X-acc,Tokyo Electron Ltd
+2898,UBS(LUX) ES Glb Hi Div USD I-X-acc,SoftBank Corp
+2899,UBS(LUX) ES Glb Hi Div USD I-X-acc,Maxim Integrated Products Inc
+2900,UBS(LUX) ES Glb Hi Div USD I-X-acc,KDDI Corp
+2901,UBS(LUX) ES Glb Hi Div USD I-X-acc,AbbVie Inc
+2902,UBS(LUX) ES Glb Hi Div USD I-X-acc,Prologis Inc
+2903,UBS(LUX) ES Glb Hi Div USD I-X-acc,NTT DOCOMO Inc
+2904,UBS(LUX) ES Glb Hi Div USD I-X-acc,MediaTek Inc
+2905,UniInstitutional Global High Dividend Eq,Procter & Gamble Co
+2906,UniInstitutional Global High Dividend Eq,NextEra Energy Inc
+2907,UniInstitutional Global High Dividend Eq,Nestle SA
+2908,UniInstitutional Global High Dividend Eq,Johnson & Johnson
+2909,UniInstitutional Global High Dividend Eq,Vonovia SE
+2910,UniInstitutional Global High Dividend Eq,Roche Holding AG Dividend Right Cert.
+2911,UniInstitutional Global High Dividend Eq,Philip Morris International Inc
+2912,UniInstitutional Global High Dividend Eq,Volkswagen AG Participating Preferred
+2913,UniInstitutional Global High Dividend Eq,American Water Works Co Inc
+2914,UniInstitutional Global High Dividend Eq,TC Energy Corp
+2915,Veritas Global Equity Income C USD Acc,BAE Systems PLC
+2916,Veritas Global Equity Income C USD Acc,Vivendi SA
+2917,Veritas Global Equity Income C USD Acc,Unilever PLC
+2918,Veritas Global Equity Income C USD Acc,MSC Industrial Direct Co Inc Class A
+2919,Veritas Global Equity Income C USD Acc,Philip Morris International Inc
+2920,Veritas Global Equity Income C USD Acc,Cisco Systems Inc
+2921,Veritas Global Equity Income C USD Acc,Svenska Handelsbanken A
+2922,Veritas Global Equity Income C USD Acc,Aena SME SA
+2923,Veritas Global Equity Income C USD Acc,British American Tobacco PLC
+2924,Veritas Global Equity Income C USD Acc,Diageo PLC

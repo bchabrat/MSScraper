@@ -1,0 +1,1090 @@
+[
+					{
+						"id": "EUCA000698",
+						"name": "Africa & Middle East Equity"
+					},
+					{
+						"id": "EUCA000697",
+						"name": "Africa Equity"
+					},
+					{
+						"id": "EUCA000797",
+						"name": "Alt - Currency"
+					},
+					{
+						"id": "EUCA000800",
+						"name": "Alt - Event Driven"
+					},
+					{
+						"id": "EUCA000804",
+						"name": "Alt - Global Macro"
+					},
+					{
+						"id": "EUCA000805",
+						"name": "Alt - Long/Short Credit"
+					},
+					{
+						"id": "EUCA000807",
+						"name": "Alt - Long/Short Equity - Europe"
+					},
+					{
+						"id": "EUCA000808",
+						"name": "Alt - Long/Short Equity - Global"
+					},
+					{
+						"id": "EUCA000880",
+						"name": "Alt - Long/Short Equity - Other"
+					},
+					{
+						"id": "EUCA000809",
+						"name": "Alt - Long/Short Equity - UK"
+					},
+					{
+						"id": "EUCA000810",
+						"name": "Alt - Long/Short Equity - US"
+					},
+					{
+						"id": "EUCA000811",
+						"name": "Alt - Market Neutral - Equity"
+					},
+					{
+						"id": "EUCA000812",
+						"name": "Alt - Multistrategy"
+					},
+					{
+						"id": "EUCA000881",
+						"name": "Alt - Other"
+					},
+					{
+						"id": "EUCA000798",
+						"name": "Alt - Relative Value Arbitrage"
+					},
+					{
+						"id": "EUCA000813",
+						"name": "Alt - Systematic Futures"
+					},
+					{
+						"id": "EUCA000814",
+						"name": "Alt - Volatility"
+					},
+					{
+						"id": "EUCA000669",
+						"name": "ASEAN Equity"
+					},
+					{
+						"id": "EUCA000559",
+						"name": "Asia Allocation"
+					},
+					{
+						"id": "EUCA000570",
+						"name": "Asia Bond"
+					},
+					{
+						"id": "EUCA000897",
+						"name": "Asia Bond - Local Currency"
+					},
+					{
+						"id": "EUCA000539",
+						"name": "Asia ex-Japan Equity"
+					},
+					{
+						"id": "EUCA000779",
+						"name": "Asia ex-Japan Equity"
+					},
+					{
+						"id": "EUCA000907",
+						"name": "Asia ex-Japan Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000877",
+						"name": "Asia High Yield Bond"
+					},
+					{
+						"id": "EUCA000502",
+						"name": "Asia-Pacific Equity"
+					},
+					{
+						"id": "EUCA000501",
+						"name": "Asia-Pacific ex-Japan Equity"
+					},
+					{
+						"id": "EUCA000918",
+						"name": "Asia-Pacific ex-Japan Equity Income"
+					},
+					{
+						"id": "EUCA000503",
+						"name": "Australia & New Zealand Equity"
+					},
+					{
+						"id": "EUCA000699",
+						"name": "Brazil Equity"
+					},
+					{
+						"id": "EUCA000700",
+						"name": "BRIC Equity"
+					},
+					{
+						"id": "EUCA000632",
+						"name": "Canada Equity"
+					},
+					{
+						"id": "EUCA000615",
+						"name": "Capital Protected"
+					},
+					{
+						"id": "EUCA000618",
+						"name": "CHF Aggressive Allocation"
+					},
+					{
+						"id": "EUCA000573",
+						"name": "CHF Bond"
+					},
+					{
+						"id": "EUCA000747",
+						"name": "CHF Bond - Short Term"
+					},
+					{
+						"id": "EUCA000619",
+						"name": "CHF Cautious Allocation"
+					},
+					{
+						"id": "EUCA000738",
+						"name": "CHF Moderate Allocation"
+					},
+					{
+						"id": "EUCA000575",
+						"name": "CHF Money Market"
+					},
+					{
+						"id": "EUCA000856",
+						"name": "China Bond"
+					},
+					{
+						"id": "EUCA000504",
+						"name": "China Equity"
+					},
+					{
+						"id": "EUCA000896",
+						"name": "China Equity - A Shares"
+					},
+					{
+						"id": "EUCA000785",
+						"name": "Commodities - Broad Basket"
+					},
+					{
+						"id": "EUCA000748",
+						"name": "Convertible Bond - Europe"
+					},
+					{
+						"id": "EUCA000749",
+						"name": "Convertible Bond - Global"
+					},
+					{
+						"id": "EUCA000821",
+						"name": "Convertible Bond - Global, CHF Hedged"
+					},
+					{
+						"id": "EUCA000750",
+						"name": "Convertible Bond - Global, EUR Hedged"
+					},
+					{
+						"id": "EUCA000822",
+						"name": "Convertible Bond - Global, GBP Hedged"
+					},
+					{
+						"id": "EUCA000823",
+						"name": "Convertible Bond - Global, USD Hedged"
+					},
+					{
+						"id": "EUCA000751",
+						"name": "Convertible Bond - Other"
+					},
+					{
+						"id": "EUCA000505",
+						"name": "Denmark Equity"
+					},
+					{
+						"id": "EUCA000576",
+						"name": "DKK Bond"
+					},
+					{
+						"id": "EUCA000911",
+						"name": "DKK Domestic Bond"
+					},
+					{
+						"id": "EUCA000623",
+						"name": "Emerging Europe Bond"
+					},
+					{
+						"id": "EUCA000508",
+						"name": "Emerging Europe Equity"
+					},
+					{
+						"id": "EUCA000633",
+						"name": "Emerging Europe ex-Russia Equity"
+					},
+					{
+						"id": "EUCA000862",
+						"name": "EUR Aggressive Allocation"
+					},
+					{
+						"id": "EUCA000563",
+						"name": "EUR Aggressive Allocation - Global"
+					},
+					{
+						"id": "EUCA000622",
+						"name": "EUR Bond - Long Term"
+					},
+					{
+						"id": "EUCA000863",
+						"name": "EUR Cautious Allocation"
+					},
+					{
+						"id": "EUCA000564",
+						"name": "EUR Cautious Allocation - Global"
+					},
+					{
+						"id": "EUCA000690",
+						"name": "EUR Corporate Bond"
+					},
+					{
+						"id": "EUCA000819",
+						"name": "EUR Corporate Bond - Short Term"
+					},
+					{
+						"id": "EUCA000587",
+						"name": "EUR Diversified Bond"
+					},
+					{
+						"id": "EUCA000593",
+						"name": "EUR Diversified Bond - Short Term"
+					},
+					{
+						"id": "EUCA000864",
+						"name": "EUR Flexible Allocation"
+					},
+					{
+						"id": "EUCA000739",
+						"name": "EUR Flexible Allocation - Global"
+					},
+					{
+						"id": "EUCA000754",
+						"name": "EUR Flexible Bond"
+					},
+					{
+						"id": "EUCA000589",
+						"name": "EUR Government Bond"
+					},
+					{
+						"id": "EUCA000837",
+						"name": "EUR Government Bond - Short Term"
+					},
+					{
+						"id": "EUCA000590",
+						"name": "EUR High Yield Bond"
+					},
+					{
+						"id": "EUCA000625",
+						"name": "EUR Inflation-Linked Bond"
+					},
+					{
+						"id": "EUCA000865",
+						"name": "EUR Moderate Allocation"
+					},
+					{
+						"id": "EUCA000565",
+						"name": "EUR Moderate Allocation - Global"
+					},
+					{
+						"id": "EUCA000591",
+						"name": "EUR Money Market"
+					},
+					{
+						"id": "EUCA000830",
+						"name": "EUR Money Market - Short Term"
+					},
+					{
+						"id": "EUCA000922",
+						"name": "EUR Subordinated Bond"
+					},
+					{
+						"id": "EUCA000592",
+						"name": "EUR Ultra Short-Term Bond"
+					},
+					{
+						"id": "EUCA000594",
+						"name": "Europe Bond"
+					},
+					{
+						"id": "EUCA000875",
+						"name": "Europe Equity Income"
+					},
+					{
+						"id": "EUCA000509",
+						"name": "Europe ex-UK Equity"
+					},
+					{
+						"id": "EUCA000510",
+						"name": "Europe ex-UK Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000514",
+						"name": "Europe Flex-Cap Equity"
+					},
+					{
+						"id": "EUCA000511",
+						"name": "Europe Large-Cap Blend Equity"
+					},
+					{
+						"id": "EUCA000512",
+						"name": "Europe Large-Cap Growth Equity"
+					},
+					{
+						"id": "EUCA000513",
+						"name": "Europe Large-Cap Value Equity"
+					},
+					{
+						"id": "EUCA000850",
+						"name": "Europe Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000515",
+						"name": "Europe Small-Cap Equity"
+					},
+					{
+						"id": "EUCA000517",
+						"name": "Eurozone Flex-Cap Equity"
+					},
+					{
+						"id": "EUCA000516",
+						"name": "Eurozone Large-Cap Equity"
+					},
+					{
+						"id": "EUCA000851",
+						"name": "Eurozone Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000518",
+						"name": "Eurozone Small-Cap Equity"
+					},
+					{
+						"id": "EUCA000888",
+						"name": "Fixed Term Bond"
+					},
+					{
+						"id": "$FOCA$FB$$",
+						"name": "Foreign Large Blend"
+					},
+					{
+						"id": "EUCA000636",
+						"name": "France Equity"
+					},
+					{
+						"id": "EUCA000637",
+						"name": "France Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000620",
+						"name": "GBP Adventurous Allocation"
+					},
+					{
+						"id": "EUCA000621",
+						"name": "GBP Cautious Allocation"
+					},
+					{
+						"id": "EUCA000692",
+						"name": "GBP Corporate Bond"
+					},
+					{
+						"id": "EUCA001001",
+						"name": "GBP Corporate Bond - Short Term"
+					},
+					{
+						"id": "EUCA000604",
+						"name": "GBP Diversified Bond"
+					},
+					{
+						"id": "EUCA000756",
+						"name": "GBP Diversified Bond - Short Term"
+					},
+					{
+						"id": "EUCA000740",
+						"name": "GBP Flexible Allocation"
+					},
+					{
+						"id": "EUCA000757",
+						"name": "GBP Flexible Bond"
+					},
+					{
+						"id": "EUCA000606",
+						"name": "GBP Government Bond"
+					},
+					{
+						"id": "EUCA000607",
+						"name": "GBP High Yield Bond"
+					},
+					{
+						"id": "EUCA000758",
+						"name": "GBP Inflation-Linked Bond"
+					},
+					{
+						"id": "EUCA000796",
+						"name": "GBP Moderate Allocation"
+					},
+					{
+						"id": "EUCA000916",
+						"name": "GBP Moderately Adventurous Allocation"
+					},
+					{
+						"id": "EUCA000917",
+						"name": "GBP Moderately Cautious Allocation"
+					},
+					{
+						"id": "EUCA000608",
+						"name": "GBP Money Market"
+					},
+					{
+						"id": "EUCA000831",
+						"name": "GBP Money Market - Short Term"
+					},
+					{
+						"id": "EUCA000638",
+						"name": "Germany Equity"
+					},
+					{
+						"id": "EUCA000639",
+						"name": "Germany Small/Mid-Cap Equity"
+					},
+					{
+						"id": "MECA000001",
+						"name": "Global Allocation"
+					},
+					{
+						"id": "EUCA000759",
+						"name": "Global Bond"
+					},
+					{
+						"id": "EUCA000574",
+						"name": "Global Bond - CHF Biased"
+					},
+					{
+						"id": "EUCA000760",
+						"name": "Global Bond - CHF Hedged"
+					},
+					{
+						"id": "EUCA000588",
+						"name": "Global Bond - EUR Biased"
+					},
+					{
+						"id": "EUCA000624",
+						"name": "Global Bond - EUR Hedged"
+					},
+					{
+						"id": "EUCA000605",
+						"name": "Global Bond - GBP Biased"
+					},
+					{
+						"id": "EUCA000761",
+						"name": "Global Bond - GBP Hedged"
+					},
+					{
+						"id": "EUCA000731",
+						"name": "Global Bond - ILS"
+					},
+					{
+						"id": "EUCA000882",
+						"name": "Global Bond - NOK Hedged"
+					},
+					{
+						"id": "EUCA000763",
+						"name": "Global Bond - USD Hedged"
+					},
+					{
+						"id": "EUCA000889",
+						"name": "Global Corporate Bond"
+					},
+					{
+						"id": "EUCA000890",
+						"name": "Global Corporate Bond - CHF Hedged"
+					},
+					{
+						"id": "EUCA000891",
+						"name": "Global Corporate Bond - EUR Hedged"
+					},
+					{
+						"id": "EUCA000892",
+						"name": "Global Corporate Bond - GBP Hedged"
+					},
+					{
+						"id": "EUCA000893",
+						"name": "Global Corporate Bond - USD Hedged"
+					},
+					{
+						"id": "EUCA000741",
+						"name": "Global Emerging Markets Allocation"
+					},
+					{
+						"id": "EUCA000586",
+						"name": "Global Emerging Markets Bond"
+					},
+					{
+						"id": "EUCA000764",
+						"name": "Global Emerging Markets Bond - EUR Biased"
+					},
+					{
+						"id": "EUCA000765",
+						"name": "Global Emerging Markets Bond - Local Currency"
+					},
+					{
+						"id": "EUCA000878",
+						"name": "Global Emerging Markets Corporate Bond"
+					},
+					{
+						"id": "EUCA000879",
+						"name": "Global Emerging Markets Corporate Bond - EUR Biased"
+					},
+					{
+						"id": "EUCA000507",
+						"name": "Global Emerging Markets Equity"
+					},
+					{
+						"id": "EUCA000910",
+						"name": "Global Emerging Markets Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000876",
+						"name": "Global Equity Income"
+					},
+					{
+						"id": "EUCA000558",
+						"name": "Global Flex-Cap Equity"
+					},
+					{
+						"id": "EUCA000902",
+						"name": "Global Flexible Bond"
+					},
+					{
+						"id": "EUCA000899",
+						"name": "Global Flexible Bond"
+					},
+					{
+						"id": "EUCA000900",
+						"name": "Global Flexible Bond - CHF Hedged"
+					},
+					{
+						"id": "EUCA000901",
+						"name": "Global Flexible Bond - EUR Hedged"
+					},
+					{
+						"id": "EUCA000903",
+						"name": "Global Flexible Bond - GBP Hedged"
+					},
+					{
+						"id": "EUCA000902",
+						"name": "Global Flexible Bond - USD Hedged"
+					},
+					{
+						"id": "EUCA000845",
+						"name": "Global Frontier Markets Equity"
+					},
+					{
+						"id": "EUCA000766",
+						"name": "Global High Yield Bond"
+					},
+					{
+						"id": "EUCA000894",
+						"name": "Global High Yield Bond - CHF Hedged"
+					},
+					{
+						"id": "EUCA000854",
+						"name": "Global High Yield Bond - EUR Hedged"
+					},
+					{
+						"id": "EUCA000855",
+						"name": "Global High Yield Bond - GBP Hedged"
+					},
+					{
+						"id": "EUCA000858",
+						"name": "Global Inflation-Linked Bond"
+					},
+					{
+						"id": "EUCA000859",
+						"name": "Global Inflation-Linked Bond - EUR Hedged"
+					},
+					{
+						"id": "EUCA000860",
+						"name": "Global Inflation-Linked Bond - GBP Hedged"
+					},
+					{
+						"id": "EUCA000861",
+						"name": "Global Inflation-Linked Bond - USD Hedged"
+					},
+					{
+						"id": "EUCA000555",
+						"name": "Global Large-Cap Blend Equity"
+					},
+					{
+						"id": "EUCA000556",
+						"name": "Global Large-Cap Growth Equity"
+					},
+					{
+						"id": "EUCA000557",
+						"name": "Global Large-Cap Value Equity"
+					},
+					{
+						"id": "EUCA000836",
+						"name": "Global Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000919",
+						"name": "Greater China Allocation"
+					},
+					{
+						"id": "EUCA000500",
+						"name": "Greater China Equity"
+					},
+					{
+						"id": "EUCA001002",
+						"name": "Greater China High Yield Bond"
+					},
+					{
+						"id": "EUCA000611",
+						"name": "Guaranteed Funds"
+					},
+					{
+						"id": "EUCA000768",
+						"name": "HKD Bond"
+					},
+					{
+						"id": "EUCA000519",
+						"name": "Hong Kong Equity"
+					},
+					{
+						"id": "EUCA000520",
+						"name": "India Equity"
+					},
+					{
+						"id": "EUCA000780",
+						"name": "Indonesia Equity"
+					},
+					{
+						"id": "EUCA000681",
+						"name": "Islamic Allocation - Other"
+					},
+					{
+						"id": "EUCA000673",
+						"name": "Islamic Equity - Other"
+					},
+					{
+						"id": "EUCA000680",
+						"name": "Islamic Global Bond"
+					},
+					{
+						"id": "EUCA000840",
+						"name": "Islamic Global Equity"
+					},
+					{
+						"id": "EUCA000640",
+						"name": "Italy Equity"
+					},
+					{
+						"id": "EUCA000915",
+						"name": "Japan Flex-Cap Equity"
+					},
+					{
+						"id": "EUCA000521",
+						"name": "Japan Large-Cap Equity"
+					},
+					{
+						"id": "EUCA000522",
+						"name": "Japan Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000595",
+						"name": "JPY Bond"
+					},
+					{
+						"id": "EUCA000523",
+						"name": "Korea Equity"
+					},
+					{
+						"id": "EUCA000524",
+						"name": "Latin America Equity"
+					},
+					{
+						"id": "EUCA000833",
+						"name": "Money Market - Other"
+					},
+					{
+						"id": "$FOCA$GY$$",
+						"name": "Multialternative"
+					},
+					{
+						"id": "EUCA000596",
+						"name": "NOK Bond"
+					},
+					{
+						"id": "EUCA000599",
+						"name": "NOK Bond - Short Term"
+					},
+					{
+						"id": "EUCA000909",
+						"name": "NOK Cautious Allocation"
+					},
+					{
+						"id": "EUCA000913",
+						"name": "NOK High Yield Bond"
+					},
+					{
+						"id": "EUCA000566",
+						"name": "NOK Moderate Allocation"
+					},
+					{
+						"id": "$FOCA$NT$$",
+						"name": "Nontraditional Bond"
+					},
+					{
+						"id": "EUCA000525",
+						"name": "Nordic Equity"
+					},
+					{
+						"id": "EUCA000920",
+						"name": "Nordic Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000531",
+						"name": "Norway Equity"
+					},
+					{
+						"id": "EUCA000999",
+						"name": "Other"
+					},
+					{
+						"id": "EUCA000743",
+						"name": "Other Allocation"
+					},
+					{
+						"id": "EUCA000771",
+						"name": "Other Bond"
+					},
+					{
+						"id": "EUCA000539",
+						"name": "Other Equity"
+					},
+					{
+						"id": "EUCA000921",
+						"name": "Pacific ex-Japan Equity"
+					},
+					{
+						"id": "EUCA000793",
+						"name": "Property - Direct Europe"
+					},
+					{
+						"id": "EUCA000794",
+						"name": "Property - Direct Global"
+					},
+					{
+						"id": "EUCA000540",
+						"name": "Property - Direct Other"
+					},
+					{
+						"id": "EUCA000795",
+						"name": "Property - Direct UK"
+					},
+					{
+						"id": "EUCA000687",
+						"name": "Property - Indirect Asia"
+					},
+					{
+						"id": "EUCA000688",
+						"name": "Property - Indirect Europe"
+					},
+					{
+						"id": "EUCA000541",
+						"name": "Property - Indirect Global"
+					},
+					{
+						"id": "EUCA000781",
+						"name": "Property - Indirect North America"
+					},
+					{
+						"id": "EUCA000825",
+						"name": "Property - Indirect Other"
+					},
+					{
+						"id": "EUCA000906",
+						"name": "RMB Bond - Onshore"
+					},
+					{
+						"id": "EUCA000642",
+						"name": "Russia Equity"
+					},
+					{
+						"id": "EUCA000827",
+						"name": "Sector Equity Agriculture"
+					},
+					{
+						"id": "EUCA000705",
+						"name": "Sector Equity Alternative Energy"
+					},
+					{
+						"id": "EUCA000532",
+						"name": "Sector Equity Biotechnology"
+					},
+					{
+						"id": "EUCA000533",
+						"name": "Sector Equity Communications"
+					},
+					{
+						"id": "EUCA000534",
+						"name": "Sector Equity Consumer Goods & Services"
+					},
+					{
+						"id": "EUCA000706",
+						"name": "Sector Equity Ecology"
+					},
+					{
+						"id": "EUCA000535",
+						"name": "Sector Equity Energy"
+					},
+					{
+						"id": "EUCA000536",
+						"name": "Sector Equity Financial Services"
+					},
+					{
+						"id": "EUCA000537",
+						"name": "Sector Equity Healthcare"
+					},
+					{
+						"id": "EUCA000538",
+						"name": "Sector Equity Industrial Materials"
+					},
+					{
+						"id": "EUCA000707",
+						"name": "Sector Equity Infrastructure"
+					},
+					{
+						"id": "EUCA000704",
+						"name": "Sector Equity Natural Resources"
+					},
+					{
+						"id": "EUCA000646",
+						"name": "Sector Equity Precious Metals"
+					},
+					{
+						"id": "EUCA000708",
+						"name": "Sector Equity Private Equity"
+					},
+					{
+						"id": "EUCA000542",
+						"name": "Sector Equity Technology"
+					},
+					{
+						"id": "EUCA000828",
+						"name": "Sector Equity Water"
+					},
+					{
+						"id": "EUCA000603",
+						"name": "SEK Bond - Short Term"
+					},
+					{
+						"id": "EUCA000617",
+						"name": "SEK Cautious Allocation"
+					},
+					{
+						"id": "EUCA000905",
+						"name": "SEK Corporate Bond"
+					},
+					{
+						"id": "EUCA000600",
+						"name": "SEK Diversified Bond"
+					},
+					{
+						"id": "EUCA000745",
+						"name": "SEK Flexible Allocation"
+					},
+					{
+						"id": "EUCA001003",
+						"name": "SEK High Yield Bond"
+					},
+					{
+						"id": "EUCA000898",
+						"name": "SEK Moderate Allocation"
+					},
+					{
+						"id": "EUCA000774",
+						"name": "SGD Bond"
+					},
+					{
+						"id": "EUCA000544",
+						"name": "Singapore Equity"
+					},
+					{
+						"id": "EUCA000643",
+						"name": "Spain Equity"
+					},
+					{
+						"id": "EUCA000545",
+						"name": "Sweden Equity"
+					},
+					{
+						"id": "EUCA000548",
+						"name": "Switzerland Equity"
+					},
+					{
+						"id": "EUCA000644",
+						"name": "Switzerland Small/Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000670",
+						"name": "Taiwan Large-Cap Equity"
+					},
+					{
+						"id": "EUCA000868",
+						"name": "Target Date 2016 - 2020"
+					},
+					{
+						"id": "EUCA000869",
+						"name": "Target Date 2021 - 2025"
+					},
+					{
+						"id": "EUCA000870",
+						"name": "Target Date 2026 - 2030"
+					},
+					{
+						"id": "EUCA000871",
+						"name": "Target Date 2031 - 2035"
+					},
+					{
+						"id": "EUCA000872",
+						"name": "Target Date 2036 - 2040"
+					},
+					{
+						"id": "EUCA000873",
+						"name": "Target Date 2041 - 2045"
+					},
+					{
+						"id": "EUCA000874",
+						"name": "Target Date 2046+"
+					},
+					{
+						"id": "EUCA000783",
+						"name": "Thailand Equity"
+					},
+					{
+						"id": "EUCA000815",
+						"name": "Trading - Leveraged/Inverse Commodities"
+					},
+					{
+						"id": "EUCA000703",
+						"name": "Turkey Equity"
+					},
+					{
+						"id": "EUCA000846",
+						"name": "UK Equity Income"
+					},
+					{
+						"id": "EUCA000553",
+						"name": "UK Flex-Cap Equity"
+					},
+					{
+						"id": "EUCA000539",
+						"name": "UK Large-Cap Equity"
+					},
+					{
+						"id": "EUCA000550",
+						"name": "UK Large-Cap Equity"
+					},
+					{
+						"id": "EUCA000852",
+						"name": "UK Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000554",
+						"name": "UK Small-Cap Equity"
+					},
+					{
+						"id": "EUCA000529",
+						"name": "US Flex-Cap Equity"
+					},
+					{
+						"id": "EUCA000526",
+						"name": "US Large-Cap Blend Equity"
+					},
+					{
+						"id": "EUCA000527",
+						"name": "US Large-Cap Growth Equity"
+					},
+					{
+						"id": "EUCA000528",
+						"name": "US Large-Cap Value Equity"
+					},
+					{
+						"id": "EUCA000853",
+						"name": "US Mid-Cap Equity"
+					},
+					{
+						"id": "EUCA000530",
+						"name": "US Small-Cap Equity"
+					},
+					{
+						"id": "EUCA000693",
+						"name": "USD Aggressive Allocation"
+					},
+					{
+						"id": "EUCA000695",
+						"name": "USD Cautious Allocation"
+					},
+					{
+						"id": "EUCA000691",
+						"name": "USD Corporate Bond"
+					},
+					{
+						"id": "EUCA000580",
+						"name": "USD Diversified Bond"
+					},
+					{
+						"id": "EUCA000585",
+						"name": "USD Diversified Bond - Short Term"
+					},
+					{
+						"id": "EUCA000746",
+						"name": "USD Flexible Allocation"
+					},
+					{
+						"id": "EUCA000775",
+						"name": "USD Flexible Bond"
+					},
+					{
+						"id": "EUCA000582",
+						"name": "USD Government Bond"
+					},
+					{
+						"id": "EUCA000583",
+						"name": "USD High Yield Bond"
+					},
+					{
+						"id": "EUCA000767",
+						"name": "USD Inflation-Linked Bond"
+					},
+					{
+						"id": "EUCA000694",
+						"name": "USD Moderate Allocation"
+					},
+					{
+						"id": "EUCA000584",
+						"name": "USD Money Market"
+					},
+					{
+						"id": "EUCA000832",
+						"name": "USD Money Market - Short Term"
+					},
+					{
+						"id": "EUCA000829",
+						"name": "Vietnam Equity"
+					},
+					{
+						"id": "$FOCA$WS$$",
+						"name": "World Large Stock"
+					}
+				]

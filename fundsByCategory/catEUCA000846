@@ -1,0 +1,169 @@
+,id,name
+0,F00000Y5FB,AI Stewardship UK Eq Inc UK Corp Inc
+1,F000013INB,AI Stewardship UK Equity Income UK Instl
+2,F0GBR04RQH,Allianz UK Equity Income A Inc
+3,F00000PLW9,Allianz UK Equity Income C Inc
+4,F000014XX1,Artemis Income C Acc
+5,F000014XX0,Artemis Income C Inc
+6,F000003U77,Artemis Income I Acc
+7,F000003U78,Artemis Income I Inc
+8,F0GBR04FG6,Artemis Income R Acc
+9,F0GBR04SCX,Artemis Income R Inc
+10,F0GBR06KDH,Artemis Instl Equity Income IN Acc
+11,F0GBR06KDI,Artemis Instl Equity Income IN Inc
+12,F0GBR04EAM,ASI UK Income Equity A Acc
+13,F0GBR04S5X,ASI UK Income Equity A Inc
+14,F0GBR06IAU,ASI UK Income Equity I Acc
+15,F0GBR06IAT,ASI UK Income Equity I Inc
+16,F00000Y4IX,ASI UK Income Equity K Inc
+17,F00000PI8Z,Aviva Investors UK Listed Eq Inc 1 £ Acc
+18,F0GBR04EK1,Aviva Investors UK Listed Eq Inc 1 £ Inc
+19,F00000P9SW,Aviva Investors UK Listed Eq Inc 2 £ Acc
+20,F0GBR052WH,Aviva Investors UK Listed Eq Inc 2 £ Inc
+21,F000002XX1,Aviva Investors UK Listed Eq Inc 3 £ Acc
+22,F0GBR06I0G,Aviva Investors UK Listed Eq Inc 3 £ Inc
+23,F00000P7MQ,AXA Framlington Monthly Income Z GBP Acc
+24,F00000P7MR,AXA Framlington Monthly Income Z GBP Inc
+25,F000002KPD,AXA Framlington UK Equity Income R £ Acc
+26,F000002KPE,AXA Framlington UK Equity Income R £ Inc
+27,F00000P77M,AXA Framlington UK Equity Income Z £ Acc
+28,F00000P77N,AXA Framlington UK Equity Income Z £ Inc
+29,F0GBR04RTV,BlackRock UK Income A Acc
+30,F0GBR04RUC,BlackRock UK Income A Inc
+31,F000005QEC,BlackRock UK Income D
+32,F00000MJPT,BlackRock UK Income D Acc
+33,F00000VFX1,BlackRock UK Income S GBP Acc
+34,F00000VFX2,BlackRock UK Income S GBP Inc
+35,F00000WNYU,BlackRock UK Income X GBP Acc
+36,F0GBR04SD6,BMO Responsible UK Income 1 Acc
+37,F0GBR04SAN,BMO Responsible UK Income 1 Inc
+38,F00000OT4O,BMO Responsible UK Income 2 Acc
+39,F0GBR053M9,BMO Responsible UK Income 2 Inc
+40,F00000OT4M,BMO UK Equity Income 2 Acc
+41,F00000OYV1,BNY Mellon UK Income B Acc
+42,F00000OYV2,BNY Mellon UK Income B Inc
+43,F0GBR06JTX,BNY Mellon UK Income Expt 1 Acc
+44,F0GBR068AV,BNY Mellon UK Income Instl Acc
+45,F000002YHY,BNY Mellon UK Income Inst Inc
+46,F00000OTTJ,BNY Mellon UK Income Inst W Acc
+47,F00000OTTI,BNY Mellon UK Income Inst W Inc
+48,F0GBR04RQ3,BNY Mellon UK Income GBP Inc
+49,F000002YI4,BNY Mellon UK Income X Acc
+50,F000002IQX,CCLA CBF CoE UK Equity Acc
+51,F000002IR0,CCLA CBF CoE UK Equity Inc
+52,F00000WN52,Courtiers UK Equity Income I Acc
+53,F000002KYQ,ES R&M UK Equity Income Fund A Inc
+54,F000002KYR,ES R&M UK Equity Income Fund B Inc
+55,F00000WYB3,Fidelity Enhanced Income W Inc Monthly
+56,F00000NQBB,Fidelity MoneyBuilder Dividend W INC
+57,F00000WYB5,Fidelity MoneyBuilder Dividend W MINC
+58,F00000N703,Franklin UK Equity Income A Acc
+59,F00000N702,Franklin UK Equity Income A Inc
+60,F00000OBQT,Franklin UK Equity Income W Acc
+61,F00000OBQS,Franklin UK Equity Income W Inc
+62,F000011PUP,Franklin UK Equity Income Y Inc
+63,F00000OBQR,Franklin UK Equity Income Z Acc
+64,F00000OBQQ,Franklin UK Equity Income Z Inc
+65,F00000YEFI,HL Select UK Income Shares A Acc
+66,F00000YEFH,HL Select UK Income Shares A Inc
+67,F000005F14,Invesco Income & Growth UK (NoTrail) Acc
+68,F000005F15,Invesco Income & Growth UK (NoTrail) Inc
+69,F0GBR04DTA,Janus Henderson UK Responsible Inc A Inc
+70,F000013LB3,Janus Henderson UK Responsible Inc E Inc
+71,F0GBR04S8F,Janus Henderson UK Responsible Inc I Inc
+72,F00000WF7E,JPM UK Equity Income C Net Acc
+73,F0GBR06I4L,Lazard Multicap UK Income A Inc
+74,F00000Z569,LF Gresham House UK Mlt Cap Inc C £ Acc
+75,F00000Z56A,LF Gresham House UK Mlt Cap Inc C £ Inc
+76,F00000Z56B,LF Gresham House UK Mlt Cap Inc F £ Acc
+77,F00000Z56C,LF Gresham House UK Mlt Cap Inc F £ Inc
+78,F0GBR04GTH,Liontrust Income A Acc GBP
+79,F0GBR04GTF,Liontrust Income A Inc GBP
+80,F0GBR05376,Liontrust Income B Inc GBP
+81,F00000OWFK,Liontrust Income C Acc GBP
+82,F00000OWFR,Liontrust Income C Inc GBP
+83,F0GBR04GHM,M&G Equity Investment for Chrts GBP Acc
+84,F0GBR04GHO,M&G Equity Investment for Chrts GBP Inc
+85,F000000EO1,MI Chelverton UK Equity Income B Inc
+86,F000015G3A,Montanaro UK Income EUR
+87,F000003TOS,Montanaro UK Income EUR Unhedged
+88,F00000X00W,Montanaro UK Income GBP
+89,F000003TOT,Montanaro UK Income STG Unhedged
+90,F000002YAF,NFU Mutual UK Equity Income I
+91,F00000VEYN,Ninety One UK Equity Income A Acc
+92,F00000VAVG,Ninety One UK Equity Income A Inc 2
+93,F00000VEYO,Ninety One UK Equity Income I Acc
+94,F00000VAVH,Ninety One UK Equity Income I Inc 2
+95,F00000VDTF,Ninety One UK Equity Income J Acc
+96,F00000VDTH,Ninety One UK Equity Income J Inc 2
+97,F00000WEPE,Ninety One UK Equity Income L Acc
+98,F00000WEPD,Ninety One UK Equity Income L Inc 2
+99,F00000VAVI,Ninety One UK Equity Income S Inc 2
+100,F00000N2KR,Premier Miton UK Multi Cap Inc A Acc Ret
+101,F00000N2KS,Premier Miton UK Multi Cap Inc A Inc Ret
+102,F00000N2KV,Premier Miton UK Multi Cap Inc B Acc Ins
+103,F00000N2KW,Premier Miton UK Multi Cap Inc B Inc Ins
+104,F00000PQ7P,Quilter Inv UK Eq Lrg-Cp Inc A GBP Inc
+105,F00000SJTF,Quilter Inv UK Eq Lrg-Cp Inc U2 GBP Acc
+106,F00000SJTG,Quilter Inv UK Eq Lrg-Cp Inc U2 GBP Inc
+107,F00000PSR5,Quilter Inv UK Eq Lrg-Cp Val A GBP Inc
+108,F00000SJYC,Quilter Inv UK Eq Lrg-Cp Val U2 GBP Acc
+109,F00000NQA0,Rathbone Income I Acc
+110,F00000NQA1,Rathbone Income I Inc
+111,F0GBR05YU2,Rathbone Income R Acc
+112,F0GBR04DIR,Rathbone Income R Inc
+113,F0GBR04NRX,Royal London UK Equity Income A
+114,F00000LJM1,Royal London UK Equity Income M
+115,F00000PW2A,Royal London UK Equity Income M Acc
+116,F00000W6D8,Santander Enhanced Income Port IA
+117,F000005EVQ,Santander Enhanced Income II
+118,F00000W6D7,Santander Equity Income R Acc
+119,F0GBR04C2O,Santander Equity Income R Inc
+120,F0GBR05VGD,Schroder UK Alpha Income C Inc
+121,F0GBR05VGF,Schroder UK Alpha Income Z Inc
+122,F0GBR06XRS,SPW MM UK Equity Income X Acc
+123,F00000ZDVB,TB Evenlode Income B Acc
+124,F00000ZDVC,TB Evenlode Income B Inc
+125,F00000ZDVD,TB Evenlode Income C Acc
+126,F00000ZDVE,TB Evenlode Income C Inc
+127,F00000XSAU,Threadneedle (Lux) UK Equity Income AE
+128,F00000XSB4,Threadneedle (Lux) UK Equity Income AG
+129,F00000XSAV,Threadneedle (Lux) UK Equity Income DE
+130,F00000XSB5,Threadneedle (Lux) UK Equity Income DG
+131,F00000XSB6,Threadneedle (Lux) UK Equity Income DGP
+132,F00000XSB2,Threadneedle (Lux) UK Equity Income IE
+133,F00000XSB7,Threadneedle (Lux) UK Equity Income IG
+134,F00000XSB8,Threadneedle (Lux) UK Equity Income IGP
+135,F00000XSBG,Threadneedle (Lux) UK Equity Income IU
+136,F00000XSB3,Threadneedle (Lux) UK Equity Income ZE
+137,F00000XSBB,Threadneedle (Lux) UK Equity Income ZG
+138,F00000XSBC,Threadneedle (Lux) UK Equity Income ZGP
+139,F0GBR06XGD,Threadneedle UK Equity Alpha Inc Ins Inc
+140,F0GBR06SVT,Threadneedle UK Equity Alpha Inc Rtl Inc
+141,F00000OU9H,Threadneedle UK Equity Alpha Inc Z Inc
+142,F00000X5VF,Threadneedle UK Eq Inc Ins Acc GBP
+143,F0GBR04RST,Threadneedle UK Eq Inc Ins Inc GBP
+144,F000003THQ,Threadneedle UK Eq Inc Rtl Acc GBP
+145,F00000YX5J,Threadneedle UK Eq Inc Rtl Grs Inc GBP
+146,F0GBR04RSU,Threadneedle UK Eq Inc Rtl Inc GBP
+147,F00000OU93,Threadneedle UK Eq Inc Z Acc GBP
+148,F00000OU94,Threadneedle UK Eq Inc Z Inc GBP
+149,F00000OU97,Threadneedle UK Monthly Inc Z Inc
+150,F00000WQ4L,Trojan Ethical Income Fund I Acc
+151,F00000WQ4M,Trojan Ethical Income Fund I Income
+152,F00000WQ4H,Trojan Ethical Income Fund O Acc
+153,F00000WQ4I,Trojan Ethical Income Fund O Income
+154,F00000WQ4J,Trojan Ethical Income Fund S Acc
+155,F00000WQ4K,Trojan Ethical Income Fund S Income
+156,F00000SJ7Y,Trojan Income (Ireland) O GBP Acc
+157,F00000SJ7X,Trojan Income (Ireland) O GBP Inc
+158,F00000ZTV4,Trojan Income Fund X Income
+159,F0GBR06OGV,Trojan Income I Acc
+160,F0GBR06OGW,Trojan Income I Inc
+161,F0GBR06OGU,Trojan Income O Acc
+162,F0GBR06OGT,Trojan Income O Inc
+163,F0GBR06OGX,Trojan Income S Acc
+164,F0GBR06OGY,Trojan Income S Inc
+165,F000014PU7,Unicorn UK Ethical Income A Acc
+166,F0GBR04V7P,Unicorn UK Income A Inc
+167,F0GBR065QC,Unicorn UK Income B Inc

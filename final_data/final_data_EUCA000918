@@ -1,0 +1,938 @@
+,fund,stock
+0,BNY Mellon Asian Income B Acc,Samsung Electronics Co Ltd Participating Preferred
+1,BNY Mellon Asian Income B Acc,Taiwan Semiconductor Manufacturing Co Ltd
+2,BNY Mellon Asian Income B Acc,DBS Group Holdings Ltd
+3,BNY Mellon Asian Income B Acc,United Overseas Bank Ltd
+4,BNY Mellon Asian Income B Acc,Link Real Estate Investment Trust
+5,BNY Mellon Asian Income B Acc,Insurance Australia Group Ltd
+6,BNY Mellon Asian Income B Acc,Singapore Technologies Engineering Ltd
+7,BNY Mellon Asian Income B Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+8,BNY Mellon Asian Income B Acc,CLP Holdings Ltd
+9,BNY Mellon Asian Income B Inc,Samsung Electronics Co Ltd Participating Preferred
+10,BNY Mellon Asian Income B Inc,Taiwan Semiconductor Manufacturing Co Ltd
+11,BNY Mellon Asian Income B Inc,DBS Group Holdings Ltd
+12,BNY Mellon Asian Income B Inc,United Overseas Bank Ltd
+13,BNY Mellon Asian Income B Inc,Link Real Estate Investment Trust
+14,BNY Mellon Asian Income B Inc,Insurance Australia Group Ltd
+15,BNY Mellon Asian Income B Inc,Singapore Technologies Engineering Ltd
+16,BNY Mellon Asian Income B Inc,Ping An Insurance (Group) Co. of China Ltd Class H
+17,BNY Mellon Asian Income B Inc,CLP Holdings Ltd
+18,BNY Mellon Asian Income Instl Acc,Samsung Electronics Co Ltd Participating Preferred
+19,BNY Mellon Asian Income Instl Acc,Taiwan Semiconductor Manufacturing Co Ltd
+20,BNY Mellon Asian Income Instl Acc,DBS Group Holdings Ltd
+21,BNY Mellon Asian Income Instl Acc,United Overseas Bank Ltd
+22,BNY Mellon Asian Income Instl Acc,Link Real Estate Investment Trust
+23,BNY Mellon Asian Income Instl Acc,Insurance Australia Group Ltd
+24,BNY Mellon Asian Income Instl Acc,Singapore Technologies Engineering Ltd
+25,BNY Mellon Asian Income Instl Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+26,BNY Mellon Asian Income Instl Acc,CLP Holdings Ltd
+27,BNY Mellon Asian Income Instl Inc,Samsung Electronics Co Ltd Participating Preferred
+28,BNY Mellon Asian Income Instl Inc,Taiwan Semiconductor Manufacturing Co Ltd
+29,BNY Mellon Asian Income Instl Inc,DBS Group Holdings Ltd
+30,BNY Mellon Asian Income Instl Inc,United Overseas Bank Ltd
+31,BNY Mellon Asian Income Instl Inc,Link Real Estate Investment Trust
+32,BNY Mellon Asian Income Instl Inc,Insurance Australia Group Ltd
+33,BNY Mellon Asian Income Instl Inc,Singapore Technologies Engineering Ltd
+34,BNY Mellon Asian Income Instl Inc,Ping An Insurance (Group) Co. of China Ltd Class H
+35,BNY Mellon Asian Income Instl Inc,CLP Holdings Ltd
+36,BNY Mellon Asian Income Instl W Acc,Samsung Electronics Co Ltd Participating Preferred
+37,BNY Mellon Asian Income Instl W Acc,Taiwan Semiconductor Manufacturing Co Ltd
+38,BNY Mellon Asian Income Instl W Acc,DBS Group Holdings Ltd
+39,BNY Mellon Asian Income Instl W Acc,United Overseas Bank Ltd
+40,BNY Mellon Asian Income Instl W Acc,Link Real Estate Investment Trust
+41,BNY Mellon Asian Income Instl W Acc,Insurance Australia Group Ltd
+42,BNY Mellon Asian Income Instl W Acc,Singapore Technologies Engineering Ltd
+43,BNY Mellon Asian Income Instl W Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+44,BNY Mellon Asian Income Instl W Acc,CLP Holdings Ltd
+45,BNY Mellon Asian Income GBP Inc,Samsung Electronics Co Ltd Participating Preferred
+46,BNY Mellon Asian Income GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd
+47,BNY Mellon Asian Income GBP Inc,DBS Group Holdings Ltd
+48,BNY Mellon Asian Income GBP Inc,United Overseas Bank Ltd
+49,BNY Mellon Asian Income GBP Inc,Link Real Estate Investment Trust
+50,BNY Mellon Asian Income GBP Inc,Insurance Australia Group Ltd
+51,BNY Mellon Asian Income GBP Inc,Singapore Technologies Engineering Ltd
+52,BNY Mellon Asian Income GBP Inc,Ping An Insurance (Group) Co. of China Ltd Class H
+53,BNY Mellon Asian Income GBP Inc,CLP Holdings Ltd
+54,BNY Mellon Asian Income X Inc,Samsung Electronics Co Ltd Participating Preferred
+55,BNY Mellon Asian Income X Inc,Taiwan Semiconductor Manufacturing Co Ltd
+56,BNY Mellon Asian Income X Inc,DBS Group Holdings Ltd
+57,BNY Mellon Asian Income X Inc,United Overseas Bank Ltd
+58,BNY Mellon Asian Income X Inc,Link Real Estate Investment Trust
+59,BNY Mellon Asian Income X Inc,Insurance Australia Group Ltd
+60,BNY Mellon Asian Income X Inc,Singapore Technologies Engineering Ltd
+61,BNY Mellon Asian Income X Inc,Ping An Insurance (Group) Co. of China Ltd Class H
+62,BNY Mellon Asian Income X Inc,CLP Holdings Ltd
+63,CIM Div Inc Fd A Ordinary Shares Inc,Yuzhou Group Holdings Co Ltd
+64,CIM Div Inc Fd A Ordinary Shares Inc,Powerlong Real Estate Holdings Ltd
+65,CIM Div Inc Fd A Ordinary Shares Inc,China Suntien Green Energy Corp Ltd Class H
+66,CIM Div Inc Fd A Ordinary Shares Inc,West China Cement Ltd
+67,CIM Div Inc Fd A Ordinary Shares Inc,SBI Holdings Inc
+68,CIM Div Inc Fd A Ordinary Shares Inc,Yuexiu Property Co Ltd
+69,CIM Div Inc Fd A Ordinary Shares Inc,E Ink Holdings Inc
+70,CIM Div Inc Fd A Ordinary Shares Inc,IRB InvIT Fund Units 2017-Series IV
+71,CIM Div Inc Fd A Ordinary Shares Inc,China Resources Cement Holdings Ltd
+72,CIM Div Inc Fd B Ordinary Shares Acc,Yuzhou Group Holdings Co Ltd
+73,CIM Div Inc Fd B Ordinary Shares Acc,Powerlong Real Estate Holdings Ltd
+74,CIM Div Inc Fd B Ordinary Shares Acc,China Suntien Green Energy Corp Ltd Class H
+75,CIM Div Inc Fd B Ordinary Shares Acc,West China Cement Ltd
+76,CIM Div Inc Fd B Ordinary Shares Acc,SBI Holdings Inc
+77,CIM Div Inc Fd B Ordinary Shares Acc,Yuexiu Property Co Ltd
+78,CIM Div Inc Fd B Ordinary Shares Acc,E Ink Holdings Inc
+79,CIM Div Inc Fd B Ordinary Shares Acc,IRB InvIT Fund Units 2017-Series IV
+80,CIM Div Inc Fd B Ordinary Shares Acc,China Resources Cement Holdings Ltd
+81,CIM Div Inc Fd D Ordinary Shares Acc,Yuzhou Group Holdings Co Ltd
+82,CIM Div Inc Fd D Ordinary Shares Acc,Powerlong Real Estate Holdings Ltd
+83,CIM Div Inc Fd D Ordinary Shares Acc,China Suntien Green Energy Corp Ltd Class H
+84,CIM Div Inc Fd D Ordinary Shares Acc,West China Cement Ltd
+85,CIM Div Inc Fd D Ordinary Shares Acc,SBI Holdings Inc
+86,CIM Div Inc Fd D Ordinary Shares Acc,Yuexiu Property Co Ltd
+87,CIM Div Inc Fd D Ordinary Shares Acc,E Ink Holdings Inc
+88,CIM Div Inc Fd D Ordinary Shares Acc,IRB InvIT Fund Units 2017-Series IV
+89,CIM Div Inc Fd D Ordinary Shares Acc,China Resources Cement Holdings Ltd
+90,CIM Div Inc Fd F Ordinary Shares Acc,Yuzhou Group Holdings Co Ltd
+91,CIM Div Inc Fd F Ordinary Shares Acc,Powerlong Real Estate Holdings Ltd
+92,CIM Div Inc Fd F Ordinary Shares Acc,China Suntien Green Energy Corp Ltd Class H
+93,CIM Div Inc Fd F Ordinary Shares Acc,West China Cement Ltd
+94,CIM Div Inc Fd F Ordinary Shares Acc,SBI Holdings Inc
+95,CIM Div Inc Fd F Ordinary Shares Acc,Yuexiu Property Co Ltd
+96,CIM Div Inc Fd F Ordinary Shares Acc,E Ink Holdings Inc
+97,CIM Div Inc Fd F Ordinary Shares Acc,IRB InvIT Fund Units 2017-Series IV
+98,CIM Div Inc Fd F Ordinary Shares Acc,China Resources Cement Holdings Ltd
+99,Fidelity Asian Dividend A Acc,Samsung Electronics Co Ltd Participating Preferred
+100,Fidelity Asian Dividend A Acc,Taiwan Semiconductor Manufacturing Co Ltd
+101,Fidelity Asian Dividend A Acc,Power Grid Corp Of India Ltd
+102,Fidelity Asian Dividend A Acc,HKBN Ltd
+103,Fidelity Asian Dividend A Acc,CK Infrastructure Holdings Ltd
+104,Fidelity Asian Dividend A Acc,Evolution Mining Ltd
+105,Fidelity Asian Dividend A Acc,Hon Hai Precision Industry Co Ltd
+106,Fidelity Asian Dividend A Acc,Chailease Holding Co Ltd
+107,Fidelity Asian Dividend A Acc,China Yangtze Power Co LtdCFD
+108,Fidelity Asian Dividend A Acc,AIA Group Ltd
+109,Fidelity Asian Dividend A Inc,Samsung Electronics Co Ltd Participating Preferred
+110,Fidelity Asian Dividend A Inc,Taiwan Semiconductor Manufacturing Co Ltd
+111,Fidelity Asian Dividend A Inc,Power Grid Corp Of India Ltd
+112,Fidelity Asian Dividend A Inc,HKBN Ltd
+113,Fidelity Asian Dividend A Inc,CK Infrastructure Holdings Ltd
+114,Fidelity Asian Dividend A Inc,Evolution Mining Ltd
+115,Fidelity Asian Dividend A Inc,Hon Hai Precision Industry Co Ltd
+116,Fidelity Asian Dividend A Inc,Chailease Holding Co Ltd
+117,Fidelity Asian Dividend A Inc,China Yangtze Power Co LtdCFD
+118,Fidelity Asian Dividend A Inc,AIA Group Ltd
+119,Fidelity Asian Dividend W Acc,Samsung Electronics Co Ltd Participating Preferred
+120,Fidelity Asian Dividend W Acc,Taiwan Semiconductor Manufacturing Co Ltd
+121,Fidelity Asian Dividend W Acc,Power Grid Corp Of India Ltd
+122,Fidelity Asian Dividend W Acc,HKBN Ltd
+123,Fidelity Asian Dividend W Acc,CK Infrastructure Holdings Ltd
+124,Fidelity Asian Dividend W Acc,Evolution Mining Ltd
+125,Fidelity Asian Dividend W Acc,Hon Hai Precision Industry Co Ltd
+126,Fidelity Asian Dividend W Acc,Chailease Holding Co Ltd
+127,Fidelity Asian Dividend W Acc,China Yangtze Power Co LtdCFD
+128,Fidelity Asian Dividend W Acc,AIA Group Ltd
+129,Fidelity Asian Dividend W Inc,Samsung Electronics Co Ltd Participating Preferred
+130,Fidelity Asian Dividend W Inc,Taiwan Semiconductor Manufacturing Co Ltd
+131,Fidelity Asian Dividend W Inc,Power Grid Corp Of India Ltd
+132,Fidelity Asian Dividend W Inc,HKBN Ltd
+133,Fidelity Asian Dividend W Inc,CK Infrastructure Holdings Ltd
+134,Fidelity Asian Dividend W Inc,Evolution Mining Ltd
+135,Fidelity Asian Dividend W Inc,Hon Hai Precision Industry Co Ltd
+136,Fidelity Asian Dividend W Inc,Chailease Holding Co Ltd
+137,Fidelity Asian Dividend W Inc,China Yangtze Power Co LtdCFD
+138,Fidelity Asian Dividend W Inc,AIA Group Ltd
+139,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,Taiwan Semiconductor Manufacturing Co Ltd
+140,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,Samsung Electronics Co Ltd
+141,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,MediaTek Inc
+142,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,BHP Group Ltd
+143,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,KB Financial Group Inc
+144,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,AIA Group Ltd
+145,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,ITC Ltd
+146,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,Tencent Holdings Ltd
+147,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+148,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,Taiwan Semiconductor Manufacturing Co Ltd
+149,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,Samsung Electronics Co Ltd
+150,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,MediaTek Inc
+151,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,BHP Group Ltd
+152,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,KB Financial Group Inc
+153,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,AIA Group Ltd
+154,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,ITC Ltd
+155,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,Tencent Holdings Ltd
+156,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+157,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,Taiwan Semiconductor Manufacturing Co Ltd
+158,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,Samsung Electronics Co Ltd
+159,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,MediaTek Inc
+160,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,BHP Group Ltd
+161,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,KB Financial Group Inc
+162,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,AIA Group Ltd
+163,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,ITC Ltd
+164,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,Tencent Holdings Ltd
+165,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+166,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,Taiwan Semiconductor Manufacturing Co Ltd
+167,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,Samsung Electronics Co Ltd
+168,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,MediaTek Inc
+169,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,BHP Group Ltd
+170,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,KB Financial Group Inc
+171,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,AIA Group Ltd
+172,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,ITC Ltd
+173,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,Tencent Holdings Ltd
+174,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+175,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,Taiwan Semiconductor Manufacturing Co Ltd
+176,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,Samsung Electronics Co Ltd
+177,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,MediaTek Inc
+178,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,BHP Group Ltd
+179,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,KB Financial Group Inc
+180,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,AIA Group Ltd
+181,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,ITC Ltd
+182,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,Tencent Holdings Ltd
+183,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+184,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,Taiwan Semiconductor Manufacturing Co Ltd
+185,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,Samsung Electronics Co Ltd
+186,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,MediaTek Inc
+187,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,BHP Group Ltd
+188,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,KB Financial Group Inc
+189,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,AIA Group Ltd
+190,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,ITC Ltd
+191,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,Tencent Holdings Ltd
+192,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+193,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,Taiwan Semiconductor Manufacturing Co Ltd
+194,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,Samsung Electronics Co Ltd
+195,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,MediaTek Inc
+196,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,BHP Group Ltd
+197,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,KB Financial Group Inc
+198,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,AIA Group Ltd
+199,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,ITC Ltd
+200,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,Tencent Holdings Ltd
+201,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+202,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,Taiwan Semiconductor Manufacturing Co Ltd
+203,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,Samsung Electronics Co Ltd
+204,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,MediaTek Inc
+205,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,BHP Group Ltd
+206,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,KB Financial Group Inc
+207,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,AIA Group Ltd
+208,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,ITC Ltd
+209,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,Tencent Holdings Ltd
+210,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+211,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,Taiwan Semiconductor Manufacturing Co Ltd
+212,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,Samsung Electronics Co Ltd
+213,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,MediaTek Inc
+214,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,BHP Group Ltd
+215,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,KB Financial Group Inc
+216,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,AIA Group Ltd
+217,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,ITC Ltd
+218,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,Tencent Holdings Ltd
+219,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+220,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,Taiwan Semiconductor Manufacturing Co Ltd
+221,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,Samsung Electronics Co Ltd
+222,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,MediaTek Inc
+223,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,BHP Group Ltd
+224,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,KB Financial Group Inc
+225,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,AIA Group Ltd
+226,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,ITC Ltd
+227,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,Tencent Holdings Ltd
+228,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+229,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,Taiwan Semiconductor Manufacturing Co Ltd
+230,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,Samsung Electronics Co Ltd
+231,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,MediaTek Inc
+232,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,BHP Group Ltd
+233,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,KB Financial Group Inc
+234,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,AIA Group Ltd
+235,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,ITC Ltd
+236,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,Tencent Holdings Ltd
+237,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+238,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,Taiwan Semiconductor Manufacturing Co Ltd
+239,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,Samsung Electronics Co Ltd
+240,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,MediaTek Inc
+241,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,BHP Group Ltd
+242,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,KB Financial Group Inc
+243,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,AIA Group Ltd
+244,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,ITC Ltd
+245,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,Tencent Holdings Ltd
+246,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+247,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,Taiwan Semiconductor Manufacturing Co Ltd
+248,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,Samsung Electronics Co Ltd
+249,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,MediaTek Inc
+250,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,BHP Group Ltd
+251,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,KB Financial Group Inc
+252,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,AIA Group Ltd
+253,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,ITC Ltd
+254,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,Tencent Holdings Ltd
+255,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+256,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,Taiwan Semiconductor Manufacturing Co Ltd
+257,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,Samsung Electronics Co Ltd
+258,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,MediaTek Inc
+259,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,BHP Group Ltd
+260,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,KB Financial Group Inc
+261,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,AIA Group Ltd
+262,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,ITC Ltd
+263,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,Tencent Holdings Ltd
+264,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+265,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,Taiwan Semiconductor Manufacturing Co Ltd
+266,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,Samsung Electronics Co Ltd
+267,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,MediaTek Inc
+268,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,BHP Group Ltd
+269,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,KB Financial Group Inc
+270,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,AIA Group Ltd
+271,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,ITC Ltd
+272,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,Tencent Holdings Ltd
+273,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+274,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,Taiwan Semiconductor Manufacturing Co Ltd
+275,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,Samsung Electronics Co Ltd
+276,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,MediaTek Inc
+277,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,BHP Group Ltd
+278,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,KB Financial Group Inc
+279,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,AIA Group Ltd
+280,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,ITC Ltd
+281,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,Tencent Holdings Ltd
+282,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+283,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,Taiwan Semiconductor Manufacturing Co Ltd
+284,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,Samsung Electronics Co Ltd
+285,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,MediaTek Inc
+286,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,BHP Group Ltd
+287,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,KB Financial Group Inc
+288,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,AIA Group Ltd
+289,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,ITC Ltd
+290,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,Tencent Holdings Ltd
+291,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+292,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,Taiwan Semiconductor Manufacturing Co Ltd
+293,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,Samsung Electronics Co Ltd
+294,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,MediaTek Inc
+295,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,BHP Group Ltd
+296,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,KB Financial Group Inc
+297,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,AIA Group Ltd
+298,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,ITC Ltd
+299,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,Tencent Holdings Ltd
+300,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+301,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,Taiwan Semiconductor Manufacturing Co Ltd
+302,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,Samsung Electronics Co Ltd
+303,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,MediaTek Inc
+304,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,BHP Group Ltd
+305,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,KB Financial Group Inc
+306,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,AIA Group Ltd
+307,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,ITC Ltd
+308,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,Tencent Holdings Ltd
+309,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+310,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,Taiwan Semiconductor Manufacturing Co Ltd
+311,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,Samsung Electronics Co Ltd
+312,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,MediaTek Inc
+313,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,BHP Group Ltd
+314,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,KB Financial Group Inc
+315,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,AIA Group Ltd
+316,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,ITC Ltd
+317,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,Tencent Holdings Ltd
+318,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+319,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,Taiwan Semiconductor Manufacturing Co Ltd
+320,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,Samsung Electronics Co Ltd
+321,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,MediaTek Inc
+322,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,BHP Group Ltd
+323,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,KB Financial Group Inc
+324,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,AIA Group Ltd
+325,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,ITC Ltd
+326,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,Tencent Holdings Ltd
+327,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+328,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,Taiwan Semiconductor Manufacturing Co Ltd
+329,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,Samsung Electronics Co Ltd
+330,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,MediaTek Inc
+331,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,BHP Group Ltd
+332,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,KB Financial Group Inc
+333,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,AIA Group Ltd
+334,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,ITC Ltd
+335,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,Tencent Holdings Ltd
+336,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+337,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,Taiwan Semiconductor Manufacturing Co Ltd
+338,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,Samsung Electronics Co Ltd
+339,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,MediaTek Inc
+340,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,BHP Group Ltd
+341,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,KB Financial Group Inc
+342,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,AIA Group Ltd
+343,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,ITC Ltd
+344,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,Tencent Holdings Ltd
+345,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+346,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,Taiwan Semiconductor Manufacturing Co Ltd
+347,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,Samsung Electronics Co Ltd
+348,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,MediaTek Inc
+349,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,BHP Group Ltd
+350,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,KB Financial Group Inc
+351,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,AIA Group Ltd
+352,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,ITC Ltd
+353,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,Tencent Holdings Ltd
+354,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+355,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,Taiwan Semiconductor Manufacturing Co Ltd
+356,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,Samsung Electronics Co Ltd
+357,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,MediaTek Inc
+358,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,BHP Group Ltd
+359,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,KB Financial Group Inc
+360,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,AIA Group Ltd
+361,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,ITC Ltd
+362,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,Tencent Holdings Ltd
+363,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+364,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,Taiwan Semiconductor Manufacturing Co Ltd
+365,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,Samsung Electronics Co Ltd
+366,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,MediaTek Inc
+367,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,BHP Group Ltd
+368,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,KB Financial Group Inc
+369,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,AIA Group Ltd
+370,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,ITC Ltd
+371,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,Tencent Holdings Ltd
+372,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+373,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,Taiwan Semiconductor Manufacturing Co Ltd
+374,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,Samsung Electronics Co Ltd
+375,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,MediaTek Inc
+376,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,BHP Group Ltd
+377,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,KB Financial Group Inc
+378,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,AIA Group Ltd
+379,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,ITC Ltd
+380,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,Tencent Holdings Ltd
+381,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+382,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,Taiwan Semiconductor Manufacturing Co Ltd
+383,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,Samsung Electronics Co Ltd
+384,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,MediaTek Inc
+385,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,BHP Group Ltd
+386,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,KB Financial Group Inc
+387,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,AIA Group Ltd
+388,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,ITC Ltd
+389,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,Tencent Holdings Ltd
+390,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+391,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,Taiwan Semiconductor Manufacturing Co Ltd
+392,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,Samsung Electronics Co Ltd
+393,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,MediaTek Inc
+394,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,BHP Group Ltd
+395,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,KB Financial Group Inc
+396,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,AIA Group Ltd
+397,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,ITC Ltd
+398,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,Tencent Holdings Ltd
+399,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+400,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,Taiwan Semiconductor Manufacturing Co Ltd
+401,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,Samsung Electronics Co Ltd
+402,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,MediaTek Inc
+403,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,BHP Group Ltd
+404,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,KB Financial Group Inc
+405,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,AIA Group Ltd
+406,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,ITC Ltd
+407,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,Tencent Holdings Ltd
+408,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+409,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,Taiwan Semiconductor Manufacturing Co Ltd
+410,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,Samsung Electronics Co Ltd
+411,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,MediaTek Inc
+412,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,BHP Group Ltd
+413,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,KB Financial Group Inc
+414,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,AIA Group Ltd
+415,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,ITC Ltd
+416,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,Tencent Holdings Ltd
+417,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+418,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,Taiwan Semiconductor Manufacturing Co Ltd
+419,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,Samsung Electronics Co Ltd
+420,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,MediaTek Inc
+421,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,BHP Group Ltd
+422,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,KB Financial Group Inc
+423,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,AIA Group Ltd
+424,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,ITC Ltd
+425,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,Tencent Holdings Ltd
+426,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+427,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,Taiwan Semiconductor Manufacturing Co Ltd
+428,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,Samsung Electronics Co Ltd
+429,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,MediaTek Inc
+430,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,BHP Group Ltd
+431,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,KB Financial Group Inc
+432,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,AIA Group Ltd
+433,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,ITC Ltd
+434,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,Tencent Holdings Ltd
+435,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+436,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,Taiwan Semiconductor Manufacturing Co Ltd
+437,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,Samsung Electronics Co Ltd
+438,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,MediaTek Inc
+439,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,BHP Group Ltd
+440,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,KB Financial Group Inc
+441,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,AIA Group Ltd
+442,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,ITC Ltd
+443,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,Tencent Holdings Ltd
+444,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+445,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,Taiwan Semiconductor Manufacturing Co Ltd
+446,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,Samsung Electronics Co Ltd
+447,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,MediaTek Inc
+448,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,BHP Group Ltd
+449,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,KB Financial Group Inc
+450,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,AIA Group Ltd
+451,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,ITC Ltd
+452,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,Tencent Holdings Ltd
+453,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+454,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,Taiwan Semiconductor Manufacturing Co Ltd
+455,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,Samsung Electronics Co Ltd
+456,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,MediaTek Inc
+457,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,BHP Group Ltd
+458,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,KB Financial Group Inc
+459,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,AIA Group Ltd
+460,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,ITC Ltd
+461,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,Tencent Holdings Ltd
+462,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+463,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,Taiwan Semiconductor Manufacturing Co Ltd
+464,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,Samsung Electronics Co Ltd
+465,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,MediaTek Inc
+466,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,BHP Group Ltd
+467,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,KB Financial Group Inc
+468,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,AIA Group Ltd
+469,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,ITC Ltd
+470,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,Tencent Holdings Ltd
+471,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+472,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,Taiwan Semiconductor Manufacturing Co Ltd
+473,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,Samsung Electronics Co Ltd
+474,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,MediaTek Inc
+475,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,BHP Group Ltd
+476,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,KB Financial Group Inc
+477,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,AIA Group Ltd
+478,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,ITC Ltd
+479,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,Tencent Holdings Ltd
+480,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN,PT Telekomunikasi Indonesia (Persero) Tbk Class B
+481,Invesco Asian Equity Inc UK Acc,Taiwan Semiconductor Manufacturing Co Ltd
+482,Invesco Asian Equity Inc UK Acc,Alibaba Group Holding Ltd ADR
+483,Invesco Asian Equity Inc UK Acc,Samsung Electronics Co Ltd
+484,Invesco Asian Equity Inc UK Acc,Tencent Holdings Ltd
+485,Invesco Asian Equity Inc UK Acc,AIA Group Ltd
+486,Invesco Asian Equity Inc UK Acc,Delta Electronics Inc
+487,Invesco Asian Equity Inc UK Acc,Mahindra & Mahindra Ltd
+488,Invesco Asian Equity Inc UK Acc,Beijing Capital International Airport Co Ltd Class H
+489,Invesco Asian Equity Inc UK Acc,Woodside Petroleum Ltd
+490,Invesco Asian Equity Inc UK Acc,MediaTek Inc
+491,Invesco Asian Equity Inc UK Inc,Taiwan Semiconductor Manufacturing Co Ltd
+492,Invesco Asian Equity Inc UK Inc,Alibaba Group Holding Ltd ADR
+493,Invesco Asian Equity Inc UK Inc,Samsung Electronics Co Ltd
+494,Invesco Asian Equity Inc UK Inc,Tencent Holdings Ltd
+495,Invesco Asian Equity Inc UK Inc,AIA Group Ltd
+496,Invesco Asian Equity Inc UK Inc,Delta Electronics Inc
+497,Invesco Asian Equity Inc UK Inc,Mahindra & Mahindra Ltd
+498,Invesco Asian Equity Inc UK Inc,Beijing Capital International Airport Co Ltd Class H
+499,Invesco Asian Equity Inc UK Inc,Woodside Petroleum Ltd
+500,Invesco Asian Equity Inc UK Inc,MediaTek Inc
+501,Invesco Asian Equity Inc UK(No Trail)Acc,Taiwan Semiconductor Manufacturing Co Ltd
+502,Invesco Asian Equity Inc UK(No Trail)Acc,Alibaba Group Holding Ltd ADR
+503,Invesco Asian Equity Inc UK(No Trail)Acc,Samsung Electronics Co Ltd
+504,Invesco Asian Equity Inc UK(No Trail)Acc,Tencent Holdings Ltd
+505,Invesco Asian Equity Inc UK(No Trail)Acc,AIA Group Ltd
+506,Invesco Asian Equity Inc UK(No Trail)Acc,Delta Electronics Inc
+507,Invesco Asian Equity Inc UK(No Trail)Acc,Mahindra & Mahindra Ltd
+508,Invesco Asian Equity Inc UK(No Trail)Acc,Beijing Capital International Airport Co Ltd Class H
+509,Invesco Asian Equity Inc UK(No Trail)Acc,Woodside Petroleum Ltd
+510,Invesco Asian Equity Inc UK(No Trail)Acc,MediaTek Inc
+511,Invesco Asian Equity Inc UK(No Trail)Inc,Taiwan Semiconductor Manufacturing Co Ltd
+512,Invesco Asian Equity Inc UK(No Trail)Inc,Alibaba Group Holding Ltd ADR
+513,Invesco Asian Equity Inc UK(No Trail)Inc,Samsung Electronics Co Ltd
+514,Invesco Asian Equity Inc UK(No Trail)Inc,Tencent Holdings Ltd
+515,Invesco Asian Equity Inc UK(No Trail)Inc,AIA Group Ltd
+516,Invesco Asian Equity Inc UK(No Trail)Inc,Delta Electronics Inc
+517,Invesco Asian Equity Inc UK(No Trail)Inc,Mahindra & Mahindra Ltd
+518,Invesco Asian Equity Inc UK(No Trail)Inc,Beijing Capital International Airport Co Ltd Class H
+519,Invesco Asian Equity Inc UK(No Trail)Inc,Woodside Petroleum Ltd
+520,Invesco Asian Equity Inc UK(No Trail)Inc,MediaTek Inc
+521,Invesco Asian Equity Inc UK Y Acc,Taiwan Semiconductor Manufacturing Co Ltd
+522,Invesco Asian Equity Inc UK Y Acc,Alibaba Group Holding Ltd ADR
+523,Invesco Asian Equity Inc UK Y Acc,Samsung Electronics Co Ltd
+524,Invesco Asian Equity Inc UK Y Acc,Tencent Holdings Ltd
+525,Invesco Asian Equity Inc UK Y Acc,AIA Group Ltd
+526,Invesco Asian Equity Inc UK Y Acc,Delta Electronics Inc
+527,Invesco Asian Equity Inc UK Y Acc,Mahindra & Mahindra Ltd
+528,Invesco Asian Equity Inc UK Y Acc,Beijing Capital International Airport Co Ltd Class H
+529,Invesco Asian Equity Inc UK Y Acc,Woodside Petroleum Ltd
+530,Invesco Asian Equity Inc UK Y Acc,MediaTek Inc
+531,Invesco Asian Equity Inc UK Y Inc,Taiwan Semiconductor Manufacturing Co Ltd
+532,Invesco Asian Equity Inc UK Y Inc,Alibaba Group Holding Ltd ADR
+533,Invesco Asian Equity Inc UK Y Inc,Samsung Electronics Co Ltd
+534,Invesco Asian Equity Inc UK Y Inc,Tencent Holdings Ltd
+535,Invesco Asian Equity Inc UK Y Inc,AIA Group Ltd
+536,Invesco Asian Equity Inc UK Y Inc,Delta Electronics Inc
+537,Invesco Asian Equity Inc UK Y Inc,Mahindra & Mahindra Ltd
+538,Invesco Asian Equity Inc UK Y Inc,Beijing Capital International Airport Co Ltd Class H
+539,Invesco Asian Equity Inc UK Y Inc,Woodside Petroleum Ltd
+540,Invesco Asian Equity Inc UK Y Inc,MediaTek Inc
+541,Invesco Asian Equity Inc UK Z Acc,Taiwan Semiconductor Manufacturing Co Ltd
+542,Invesco Asian Equity Inc UK Z Acc,Alibaba Group Holding Ltd ADR
+543,Invesco Asian Equity Inc UK Z Acc,Samsung Electronics Co Ltd
+544,Invesco Asian Equity Inc UK Z Acc,Tencent Holdings Ltd
+545,Invesco Asian Equity Inc UK Z Acc,AIA Group Ltd
+546,Invesco Asian Equity Inc UK Z Acc,Delta Electronics Inc
+547,Invesco Asian Equity Inc UK Z Acc,Mahindra & Mahindra Ltd
+548,Invesco Asian Equity Inc UK Z Acc,Beijing Capital International Airport Co Ltd Class H
+549,Invesco Asian Equity Inc UK Z Acc,Woodside Petroleum Ltd
+550,Invesco Asian Equity Inc UK Z Acc,MediaTek Inc
+551,Invesco Asian Equity Inc UK Z Inc,Taiwan Semiconductor Manufacturing Co Ltd
+552,Invesco Asian Equity Inc UK Z Inc,Alibaba Group Holding Ltd ADR
+553,Invesco Asian Equity Inc UK Z Inc,Samsung Electronics Co Ltd
+554,Invesco Asian Equity Inc UK Z Inc,Tencent Holdings Ltd
+555,Invesco Asian Equity Inc UK Z Inc,AIA Group Ltd
+556,Invesco Asian Equity Inc UK Z Inc,Delta Electronics Inc
+557,Invesco Asian Equity Inc UK Z Inc,Mahindra & Mahindra Ltd
+558,Invesco Asian Equity Inc UK Z Inc,Beijing Capital International Airport Co Ltd Class H
+559,Invesco Asian Equity Inc UK Z Inc,Woodside Petroleum Ltd
+560,Invesco Asian Equity Inc UK Z Inc,MediaTek Inc
+561,Jupiter Asian Income I GBP Acc,Samsung Electronics Co Ltd Participating Preferred
+562,Jupiter Asian Income I GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd
+563,Jupiter Asian Income I GBP Acc,MediaTek Inc
+564,Jupiter Asian Income I GBP Acc,Tencent Holdings Ltd
+565,Jupiter Asian Income I GBP Acc,Hon Hai Precision Industry Co Ltd
+566,Jupiter Asian Income I GBP Acc,Macquarie Group Ltd
+567,Jupiter Asian Income I GBP Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+568,Jupiter Asian Income I GBP Acc,BHP Group PLC
+569,Jupiter Asian Income I GBP Acc,Hong Kong Exchanges and Clearing Ltd
+570,Jupiter Asian Income I GBP Acc,Sands China Ltd
+571,Jupiter Asian Income I GBP Inc,Samsung Electronics Co Ltd Participating Preferred
+572,Jupiter Asian Income I GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd
+573,Jupiter Asian Income I GBP Inc,MediaTek Inc
+574,Jupiter Asian Income I GBP Inc,Tencent Holdings Ltd
+575,Jupiter Asian Income I GBP Inc,Hon Hai Precision Industry Co Ltd
+576,Jupiter Asian Income I GBP Inc,Macquarie Group Ltd
+577,Jupiter Asian Income I GBP Inc,Ping An Insurance (Group) Co. of China Ltd Class H
+578,Jupiter Asian Income I GBP Inc,BHP Group PLC
+579,Jupiter Asian Income I GBP Inc,Hong Kong Exchanges and Clearing Ltd
+580,Jupiter Asian Income I GBP Inc,Sands China Ltd
+581,Jupiter Asian Income Z GBP Acc,Samsung Electronics Co Ltd Participating Preferred
+582,Jupiter Asian Income Z GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd
+583,Jupiter Asian Income Z GBP Acc,MediaTek Inc
+584,Jupiter Asian Income Z GBP Acc,Tencent Holdings Ltd
+585,Jupiter Asian Income Z GBP Acc,Hon Hai Precision Industry Co Ltd
+586,Jupiter Asian Income Z GBP Acc,Macquarie Group Ltd
+587,Jupiter Asian Income Z GBP Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+588,Jupiter Asian Income Z GBP Acc,BHP Group PLC
+589,Jupiter Asian Income Z GBP Acc,Hong Kong Exchanges and Clearing Ltd
+590,Jupiter Asian Income Z GBP Acc,Sands China Ltd
+591,Jupiter Asian Income Z GBP Inc,Samsung Electronics Co Ltd Participating Preferred
+592,Jupiter Asian Income Z GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd
+593,Jupiter Asian Income Z GBP Inc,MediaTek Inc
+594,Jupiter Asian Income Z GBP Inc,Tencent Holdings Ltd
+595,Jupiter Asian Income Z GBP Inc,Hon Hai Precision Industry Co Ltd
+596,Jupiter Asian Income Z GBP Inc,Macquarie Group Ltd
+597,Jupiter Asian Income Z GBP Inc,Ping An Insurance (Group) Co. of China Ltd Class H
+598,Jupiter Asian Income Z GBP Inc,BHP Group PLC
+599,Jupiter Asian Income Z GBP Inc,Hong Kong Exchanges and Clearing Ltd
+600,Jupiter Asian Income Z GBP Inc,Sands China Ltd
+601,Jupiter Asia Pac Inc D EUR Q Inc,Samsung Electronics Co Ltd Participating Preferred
+602,Jupiter Asia Pac Inc D EUR Q Inc,Taiwan Semiconductor Manufacturing Co Ltd
+603,Jupiter Asia Pac Inc D EUR Q Inc,Tencent Holdings Ltd
+604,Jupiter Asia Pac Inc D EUR Q Inc,MediaTek Inc
+605,Jupiter Asia Pac Inc D EUR Q Inc,Hon Hai Precision Industry Co Ltd
+606,Jupiter Asia Pac Inc D EUR Q Inc,Macquarie Group Ltd
+607,Jupiter Asia Pac Inc D EUR Q Inc,Ping An Insurance (Group) Co. of China Ltd Class H
+608,Jupiter Asia Pac Inc D EUR Q Inc,BHP Group PLC
+609,Jupiter Asia Pac Inc D EUR Q Inc,Hong Kong Exchanges and Clearing Ltd
+610,Jupiter Asia Pac Inc D EUR Q Inc,Sands China Ltd
+611,Jupiter Asia Pac Inc D GBP Acc,Samsung Electronics Co Ltd Participating Preferred
+612,Jupiter Asia Pac Inc D GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd
+613,Jupiter Asia Pac Inc D GBP Acc,Tencent Holdings Ltd
+614,Jupiter Asia Pac Inc D GBP Acc,MediaTek Inc
+615,Jupiter Asia Pac Inc D GBP Acc,Hon Hai Precision Industry Co Ltd
+616,Jupiter Asia Pac Inc D GBP Acc,Macquarie Group Ltd
+617,Jupiter Asia Pac Inc D GBP Acc,Ping An Insurance (Group) Co. of China Ltd Class H
+618,Jupiter Asia Pac Inc D GBP Acc,BHP Group PLC
+619,Jupiter Asia Pac Inc D GBP Acc,Hong Kong Exchanges and Clearing Ltd
+620,Jupiter Asia Pac Inc D GBP Acc,Sands China Ltd
+621,Jupiter Asia Pac Inc D USD Q Inc Dist,Samsung Electronics Co Ltd Participating Preferred
+622,Jupiter Asia Pac Inc D USD Q Inc Dist,Taiwan Semiconductor Manufacturing Co Ltd
+623,Jupiter Asia Pac Inc D USD Q Inc Dist,Tencent Holdings Ltd
+624,Jupiter Asia Pac Inc D USD Q Inc Dist,MediaTek Inc
+625,Jupiter Asia Pac Inc D USD Q Inc Dist,Hon Hai Precision Industry Co Ltd
+626,Jupiter Asia Pac Inc D USD Q Inc Dist,Macquarie Group Ltd
+627,Jupiter Asia Pac Inc D USD Q Inc Dist,Ping An Insurance (Group) Co. of China Ltd Class H
+628,Jupiter Asia Pac Inc D USD Q Inc Dist,BHP Group PLC
+629,Jupiter Asia Pac Inc D USD Q Inc Dist,Hong Kong Exchanges and Clearing Ltd
+630,Jupiter Asia Pac Inc D USD Q Inc Dist,Sands China Ltd
+631,Liontrust Asia Income A Inc,LG Chem Ltd Participating Preferred
+632,Liontrust Asia Income A Inc,Tianneng Power International Ltd
+633,Liontrust Asia Income A Inc,Xinyi Glass Holdings Ltd
+634,Liontrust Asia Income A Inc,Taiwan Semiconductor Manufacturing Co Ltd
+635,Liontrust Asia Income A Inc,SITC International Holdings Co Ltd
+636,Liontrust Asia Income A Inc,Lotes Co Ltd
+637,Liontrust Asia Income A Inc,Samsung Electronics Co Ltd Participating Preferred
+638,Liontrust Asia Income A Inc,ANTA Sports Products Ltd
+639,Liontrust Asia Income A Inc,BHP Group PLC
+640,Liontrust Asia Income A Inc,Wistron Corp
+641,Liontrust Asia Income I Inc,LG Chem Ltd Participating Preferred
+642,Liontrust Asia Income I Inc,Tianneng Power International Ltd
+643,Liontrust Asia Income I Inc,Xinyi Glass Holdings Ltd
+644,Liontrust Asia Income I Inc,Taiwan Semiconductor Manufacturing Co Ltd
+645,Liontrust Asia Income I Inc,SITC International Holdings Co Ltd
+646,Liontrust Asia Income I Inc,Lotes Co Ltd
+647,Liontrust Asia Income I Inc,Samsung Electronics Co Ltd Participating Preferred
+648,Liontrust Asia Income I Inc,ANTA Sports Products Ltd
+649,Liontrust Asia Income I Inc,BHP Group PLC
+650,Liontrust Asia Income I Inc,Wistron Corp
+651,Liontrust Asia Income R Inc,LG Chem Ltd Participating Preferred
+652,Liontrust Asia Income R Inc,Tianneng Power International Ltd
+653,Liontrust Asia Income R Inc,Xinyi Glass Holdings Ltd
+654,Liontrust Asia Income R Inc,Taiwan Semiconductor Manufacturing Co Ltd
+655,Liontrust Asia Income R Inc,SITC International Holdings Co Ltd
+656,Liontrust Asia Income R Inc,Lotes Co Ltd
+657,Liontrust Asia Income R Inc,Samsung Electronics Co Ltd Participating Preferred
+658,Liontrust Asia Income R Inc,ANTA Sports Products Ltd
+659,Liontrust Asia Income R Inc,BHP Group PLC
+660,Liontrust Asia Income R Inc,Wistron Corp
+661,Schroder Asian Income Acc,Taiwan Semiconductor Manufacturing Co Ltd
+662,Schroder Asian Income Acc,Samsung Electronics Co Ltd Participating Preferred
+663,Schroder Asian Income Acc,BHP Group PLC
+664,Schroder Asian Income Acc,Sands China Ltd
+665,Schroder Asian Income Acc,China Mobile Ltd
+666,Schroder Asian Income Acc,Shenzhou International Group Holdings Ltd
+667,Schroder Asian Income Acc,HKT Trust and HKT Ltd
+668,Schroder Asian Income Acc,Samsung Electronics Co Ltd
+669,Schroder Asian Income Acc,Midea Group Co Ltd Class A
+670,Schroder Asian Income Inc,Taiwan Semiconductor Manufacturing Co Ltd
+671,Schroder Asian Income Inc,Samsung Electronics Co Ltd Participating Preferred
+672,Schroder Asian Income Inc,BHP Group PLC
+673,Schroder Asian Income Inc,Sands China Ltd
+674,Schroder Asian Income Inc,China Mobile Ltd
+675,Schroder Asian Income Inc,Shenzhou International Group Holdings Ltd
+676,Schroder Asian Income Inc,HKT Trust and HKT Ltd
+677,Schroder Asian Income Inc,Samsung Electronics Co Ltd
+678,Schroder Asian Income Inc,Midea Group Co Ltd Class A
+679,Schroder Asian Income L GBP Acc,Taiwan Semiconductor Manufacturing Co Ltd
+680,Schroder Asian Income L GBP Acc,Samsung Electronics Co Ltd Participating Preferred
+681,Schroder Asian Income L GBP Acc,BHP Group PLC
+682,Schroder Asian Income L GBP Acc,Sands China Ltd
+683,Schroder Asian Income L GBP Acc,China Mobile Ltd
+684,Schroder Asian Income L GBP Acc,Shenzhou International Group Holdings Ltd
+685,Schroder Asian Income L GBP Acc,HKT Trust and HKT Ltd
+686,Schroder Asian Income L GBP Acc,Samsung Electronics Co Ltd
+687,Schroder Asian Income L GBP Acc,Midea Group Co Ltd Class A
+688,Schroder Asian Income L GBP Inc,Taiwan Semiconductor Manufacturing Co Ltd
+689,Schroder Asian Income L GBP Inc,Samsung Electronics Co Ltd Participating Preferred
+690,Schroder Asian Income L GBP Inc,BHP Group PLC
+691,Schroder Asian Income L GBP Inc,Sands China Ltd
+692,Schroder Asian Income L GBP Inc,China Mobile Ltd
+693,Schroder Asian Income L GBP Inc,Shenzhou International Group Holdings Ltd
+694,Schroder Asian Income L GBP Inc,HKT Trust and HKT Ltd
+695,Schroder Asian Income L GBP Inc,Samsung Electronics Co Ltd
+696,Schroder Asian Income L GBP Inc,Midea Group Co Ltd Class A
+697,Schroder Asian Income Z Acc,Taiwan Semiconductor Manufacturing Co Ltd
+698,Schroder Asian Income Z Acc,Samsung Electronics Co Ltd Participating Preferred
+699,Schroder Asian Income Z Acc,BHP Group PLC
+700,Schroder Asian Income Z Acc,Sands China Ltd
+701,Schroder Asian Income Z Acc,China Mobile Ltd
+702,Schroder Asian Income Z Acc,Shenzhou International Group Holdings Ltd
+703,Schroder Asian Income Z Acc,HKT Trust and HKT Ltd
+704,Schroder Asian Income Z Acc,Samsung Electronics Co Ltd
+705,Schroder Asian Income Z Acc,Midea Group Co Ltd Class A
+706,Schroder Asian Income Z Inc,Taiwan Semiconductor Manufacturing Co Ltd
+707,Schroder Asian Income Z Inc,Samsung Electronics Co Ltd Participating Preferred
+708,Schroder Asian Income Z Inc,BHP Group PLC
+709,Schroder Asian Income Z Inc,Sands China Ltd
+710,Schroder Asian Income Z Inc,China Mobile Ltd
+711,Schroder Asian Income Z Inc,Shenzhou International Group Holdings Ltd
+712,Schroder Asian Income Z Inc,HKT Trust and HKT Ltd
+713,Schroder Asian Income Z Inc,Samsung Electronics Co Ltd
+714,Schroder Asian Income Z Inc,Midea Group Co Ltd Class A
+715,Schroder Asian Income Maximiser A Acc,Taiwan Semiconductor Manufacturing Co Ltd
+716,Schroder Asian Income Maximiser A Acc,Samsung Electronics Co Ltd Participating Preferred
+717,Schroder Asian Income Maximiser A Acc,BHP Group PLC
+718,Schroder Asian Income Maximiser A Acc,Sands China Ltd
+719,Schroder Asian Income Maximiser A Acc,China Mobile Ltd
+720,Schroder Asian Income Maximiser A Acc,Shenzhou International Group Holdings Ltd
+721,Schroder Asian Income Maximiser A Acc,Midea Group Co Ltd Class A
+722,Schroder Asian Income Maximiser A Acc,Hang Lung Properties Ltd
+723,Schroder Asian Income Maximiser Z Acc,Taiwan Semiconductor Manufacturing Co Ltd
+724,Schroder Asian Income Maximiser Z Acc,Samsung Electronics Co Ltd Participating Preferred
+725,Schroder Asian Income Maximiser Z Acc,BHP Group PLC
+726,Schroder Asian Income Maximiser Z Acc,Sands China Ltd
+727,Schroder Asian Income Maximiser Z Acc,China Mobile Ltd
+728,Schroder Asian Income Maximiser Z Acc,Shenzhou International Group Holdings Ltd
+729,Schroder Asian Income Maximiser Z Acc,Midea Group Co Ltd Class A
+730,Schroder Asian Income Maximiser Z Acc,Hang Lung Properties Ltd
+731,Schroder Asian Income Maximiser Z Inc,Taiwan Semiconductor Manufacturing Co Ltd
+732,Schroder Asian Income Maximiser Z Inc,Samsung Electronics Co Ltd Participating Preferred
+733,Schroder Asian Income Maximiser Z Inc,BHP Group PLC
+734,Schroder Asian Income Maximiser Z Inc,Sands China Ltd
+735,Schroder Asian Income Maximiser Z Inc,China Mobile Ltd
+736,Schroder Asian Income Maximiser Z Inc,Shenzhou International Group Holdings Ltd
+737,Schroder Asian Income Maximiser Z Inc,Midea Group Co Ltd Class A
+738,Schroder Asian Income Maximiser Z Inc,Hang Lung Properties Ltd
+739,Schroder ISF Asn Div Mxmsr C Acc USD,Taiwan Semiconductor Manufacturing Co Ltd
+740,Schroder ISF Asn Div Mxmsr C Acc USD,Samsung Electronics Co Ltd Participating Preferred
+741,Schroder ISF Asn Div Mxmsr C Acc USD,BHP Group PLC
+742,Schroder ISF Asn Div Mxmsr C Acc USD,Sands China Ltd
+743,Schroder ISF Asn Div Mxmsr C Acc USD,China Mobile Ltd
+744,Schroder ISF Asn Div Mxmsr C Acc USD,UBS AG EQUITY ELN
+745,Schroder ISF Asn Div Mxmsr C Acc USD,Shenzhou International Group Holdings Ltd
+746,Schroder ISF Asn Div Mxmsr C Acc USD,Hang Lung Properties Ltd
+747,Schroder ISF Asn Div Mxmsr C Acc USD,HKT Trust and HKT Ltd
+748,Schroder ISF Asn Div Mxmsr I Acc USD,Taiwan Semiconductor Manufacturing Co Ltd
+749,Schroder ISF Asn Div Mxmsr I Acc USD,Samsung Electronics Co Ltd Participating Preferred
+750,Schroder ISF Asn Div Mxmsr I Acc USD,BHP Group PLC
+751,Schroder ISF Asn Div Mxmsr I Acc USD,Sands China Ltd
+752,Schroder ISF Asn Div Mxmsr I Acc USD,China Mobile Ltd
+753,Schroder ISF Asn Div Mxmsr I Acc USD,UBS AG EQUITY ELN
+754,Schroder ISF Asn Div Mxmsr I Acc USD,Shenzhou International Group Holdings Ltd
+755,Schroder ISF Asn Div Mxmsr I Acc USD,Hang Lung Properties Ltd
+756,Schroder ISF Asn Div Mxmsr I Acc USD,HKT Trust and HKT Ltd
+757,Schroder ISF Asian Eq Yld A Acc USD,Taiwan Semiconductor Manufacturing Co Ltd
+758,Schroder ISF Asian Eq Yld A Acc USD,Samsung Electronics Co Ltd Participating Preferred
+759,Schroder ISF Asian Eq Yld A Acc USD,BHP Group Ltd
+760,Schroder ISF Asian Eq Yld A Acc USD,Midea Group Co Ltd Class A
+761,Schroder ISF Asian Eq Yld A Acc USD,AIA Group Ltd
+762,Schroder ISF Asian Eq Yld A Acc USD,China Yangtze Power Co Ltd
+763,Schroder ISF Asian Eq Yld A Acc USD,Ping An Insurance (Group) Co. of China Ltd Class H
+764,Schroder ISF Asian Eq Yld A Acc USD,Galaxy Entertainment Group Ltd
+765,Schroder ISF Asian Eq Yld A Acc USD,China Construction Bank Corp Class H
+766,Schroder ISF Asian Eq Yld A Acc USD,Venture Corp Ltd
+767,Schroder ISF Asian Eq Yld A Dis GBP AV,Taiwan Semiconductor Manufacturing Co Ltd
+768,Schroder ISF Asian Eq Yld A Dis GBP AV,Samsung Electronics Co Ltd Participating Preferred
+769,Schroder ISF Asian Eq Yld A Dis GBP AV,BHP Group Ltd
+770,Schroder ISF Asian Eq Yld A Dis GBP AV,Midea Group Co Ltd Class A
+771,Schroder ISF Asian Eq Yld A Dis GBP AV,AIA Group Ltd
+772,Schroder ISF Asian Eq Yld A Dis GBP AV,China Yangtze Power Co Ltd
+773,Schroder ISF Asian Eq Yld A Dis GBP AV,Ping An Insurance (Group) Co. of China Ltd Class H
+774,Schroder ISF Asian Eq Yld A Dis GBP AV,Galaxy Entertainment Group Ltd
+775,Schroder ISF Asian Eq Yld A Dis GBP AV,China Construction Bank Corp Class H
+776,Schroder ISF Asian Eq Yld A Dis GBP AV,Venture Corp Ltd
+777,Schroder ISF Asian Eq Yld A Dis USD M,Taiwan Semiconductor Manufacturing Co Ltd
+778,Schroder ISF Asian Eq Yld A Dis USD M,Samsung Electronics Co Ltd Participating Preferred
+779,Schroder ISF Asian Eq Yld A Dis USD M,BHP Group Ltd
+780,Schroder ISF Asian Eq Yld A Dis USD M,Midea Group Co Ltd Class A
+781,Schroder ISF Asian Eq Yld A Dis USD M,AIA Group Ltd
+782,Schroder ISF Asian Eq Yld A Dis USD M,China Yangtze Power Co Ltd
+783,Schroder ISF Asian Eq Yld A Dis USD M,Ping An Insurance (Group) Co. of China Ltd Class H
+784,Schroder ISF Asian Eq Yld A Dis USD M,Galaxy Entertainment Group Ltd
+785,Schroder ISF Asian Eq Yld A Dis USD M,China Construction Bank Corp Class H
+786,Schroder ISF Asian Eq Yld A Dis USD M,Venture Corp Ltd
+787,Schroder ISF Asian Eq Yld C Acc CHF,Taiwan Semiconductor Manufacturing Co Ltd
+788,Schroder ISF Asian Eq Yld C Acc CHF,Samsung Electronics Co Ltd Participating Preferred
+789,Schroder ISF Asian Eq Yld C Acc CHF,BHP Group Ltd
+790,Schroder ISF Asian Eq Yld C Acc CHF,Midea Group Co Ltd Class A
+791,Schroder ISF Asian Eq Yld C Acc CHF,AIA Group Ltd
+792,Schroder ISF Asian Eq Yld C Acc CHF,China Yangtze Power Co Ltd
+793,Schroder ISF Asian Eq Yld C Acc CHF,Ping An Insurance (Group) Co. of China Ltd Class H
+794,Schroder ISF Asian Eq Yld C Acc CHF,Galaxy Entertainment Group Ltd
+795,Schroder ISF Asian Eq Yld C Acc CHF,China Construction Bank Corp Class H
+796,Schroder ISF Asian Eq Yld C Acc CHF,Venture Corp Ltd
+797,Schroder ISF Asian Eq Yld C Acc EUR,Taiwan Semiconductor Manufacturing Co Ltd
+798,Schroder ISF Asian Eq Yld C Acc EUR,Samsung Electronics Co Ltd Participating Preferred
+799,Schroder ISF Asian Eq Yld C Acc EUR,BHP Group Ltd
+800,Schroder ISF Asian Eq Yld C Acc EUR,Midea Group Co Ltd Class A
+801,Schroder ISF Asian Eq Yld C Acc EUR,AIA Group Ltd
+802,Schroder ISF Asian Eq Yld C Acc EUR,China Yangtze Power Co Ltd
+803,Schroder ISF Asian Eq Yld C Acc EUR,Ping An Insurance (Group) Co. of China Ltd Class H
+804,Schroder ISF Asian Eq Yld C Acc EUR,Galaxy Entertainment Group Ltd
+805,Schroder ISF Asian Eq Yld C Acc EUR,China Construction Bank Corp Class H
+806,Schroder ISF Asian Eq Yld C Acc EUR,Venture Corp Ltd
+807,Schroder ISF Asian Eq Yld C Acc USD,Taiwan Semiconductor Manufacturing Co Ltd
+808,Schroder ISF Asian Eq Yld C Acc USD,Samsung Electronics Co Ltd Participating Preferred
+809,Schroder ISF Asian Eq Yld C Acc USD,BHP Group Ltd
+810,Schroder ISF Asian Eq Yld C Acc USD,Midea Group Co Ltd Class A
+811,Schroder ISF Asian Eq Yld C Acc USD,AIA Group Ltd
+812,Schroder ISF Asian Eq Yld C Acc USD,China Yangtze Power Co Ltd
+813,Schroder ISF Asian Eq Yld C Acc USD,Ping An Insurance (Group) Co. of China Ltd Class H
+814,Schroder ISF Asian Eq Yld C Acc USD,Galaxy Entertainment Group Ltd
+815,Schroder ISF Asian Eq Yld C Acc USD,China Construction Bank Corp Class H
+816,Schroder ISF Asian Eq Yld C Acc USD,Venture Corp Ltd
+817,Schroder ISF Asian Eq Yld C Dis USD M,Taiwan Semiconductor Manufacturing Co Ltd
+818,Schroder ISF Asian Eq Yld C Dis USD M,Samsung Electronics Co Ltd Participating Preferred
+819,Schroder ISF Asian Eq Yld C Dis USD M,BHP Group Ltd
+820,Schroder ISF Asian Eq Yld C Dis USD M,Midea Group Co Ltd Class A
+821,Schroder ISF Asian Eq Yld C Dis USD M,AIA Group Ltd
+822,Schroder ISF Asian Eq Yld C Dis USD M,China Yangtze Power Co Ltd
+823,Schroder ISF Asian Eq Yld C Dis USD M,Ping An Insurance (Group) Co. of China Ltd Class H
+824,Schroder ISF Asian Eq Yld C Dis USD M,Galaxy Entertainment Group Ltd
+825,Schroder ISF Asian Eq Yld C Dis USD M,China Construction Bank Corp Class H
+826,Schroder ISF Asian Eq Yld C Dis USD M,Venture Corp Ltd
+827,Schroder ISF Asian Eq Yld I Acc USD,Taiwan Semiconductor Manufacturing Co Ltd
+828,Schroder ISF Asian Eq Yld I Acc USD,Samsung Electronics Co Ltd Participating Preferred
+829,Schroder ISF Asian Eq Yld I Acc USD,BHP Group Ltd
+830,Schroder ISF Asian Eq Yld I Acc USD,Midea Group Co Ltd Class A
+831,Schroder ISF Asian Eq Yld I Acc USD,AIA Group Ltd
+832,Schroder ISF Asian Eq Yld I Acc USD,China Yangtze Power Co Ltd
+833,Schroder ISF Asian Eq Yld I Acc USD,Ping An Insurance (Group) Co. of China Ltd Class H
+834,Schroder ISF Asian Eq Yld I Acc USD,Galaxy Entertainment Group Ltd
+835,Schroder ISF Asian Eq Yld I Acc USD,China Construction Bank Corp Class H
+836,Schroder ISF Asian Eq Yld I Acc USD,Venture Corp Ltd
+837,Schroder ISF Asian Eq Yld S Acc USD,Taiwan Semiconductor Manufacturing Co Ltd
+838,Schroder ISF Asian Eq Yld S Acc USD,Samsung Electronics Co Ltd Participating Preferred
+839,Schroder ISF Asian Eq Yld S Acc USD,BHP Group Ltd
+840,Schroder ISF Asian Eq Yld S Acc USD,Midea Group Co Ltd Class A
+841,Schroder ISF Asian Eq Yld S Acc USD,AIA Group Ltd
+842,Schroder ISF Asian Eq Yld S Acc USD,China Yangtze Power Co Ltd
+843,Schroder ISF Asian Eq Yld S Acc USD,Ping An Insurance (Group) Co. of China Ltd Class H
+844,Schroder ISF Asian Eq Yld S Acc USD,Galaxy Entertainment Group Ltd
+845,Schroder ISF Asian Eq Yld S Acc USD,China Construction Bank Corp Class H
+846,Schroder ISF Asian Eq Yld S Acc USD,Venture Corp Ltd
+847,Schroder ISF Asian Eq Yld S Dis USD M,Taiwan Semiconductor Manufacturing Co Ltd
+848,Schroder ISF Asian Eq Yld S Dis USD M,Samsung Electronics Co Ltd Participating Preferred
+849,Schroder ISF Asian Eq Yld S Dis USD M,BHP Group Ltd
+850,Schroder ISF Asian Eq Yld S Dis USD M,Midea Group Co Ltd Class A
+851,Schroder ISF Asian Eq Yld S Dis USD M,AIA Group Ltd
+852,Schroder ISF Asian Eq Yld S Dis USD M,China Yangtze Power Co Ltd
+853,Schroder ISF Asian Eq Yld S Dis USD M,Ping An Insurance (Group) Co. of China Ltd Class H
+854,Schroder ISF Asian Eq Yld S Dis USD M,Galaxy Entertainment Group Ltd
+855,Schroder ISF Asian Eq Yld S Dis USD M,China Construction Bank Corp Class H
+856,Schroder ISF Asian Eq Yld S Dis USD M,Venture Corp Ltd
+857,Threadneedle (Lux) Asia Equity Inc AU,Samsung Electronics Co Ltd Participating Preferred
+858,Threadneedle (Lux) Asia Equity Inc AU,Taiwan Semiconductor Manufacturing Co Ltd
+859,Threadneedle (Lux) Asia Equity Inc AU,AIA Group Ltd
+860,Threadneedle (Lux) Asia Equity Inc AU,Hong Kong Exchanges and Clearing Ltd
+861,Threadneedle (Lux) Asia Equity Inc AU,Fortescue Metals Group Ltd
+862,Threadneedle (Lux) Asia Equity Inc AU,MediaTek Inc
+863,Threadneedle (Lux) Asia Equity Inc AU,Macquarie Group Ltd
+864,Threadneedle (Lux) Asia Equity Inc AU,Ping An Insurance (Group) Co. of China Ltd Class H
+865,Threadneedle (Lux) Asia Equity Inc AU,Wuliangye Yibin Co Ltd
+866,Threadneedle (Lux) Asia Equity Inc AU,Oz Minerals Ltd
+867,Threadneedle (Lux) Asia Equity Inc AU EUR,Samsung Electronics Co Ltd Participating Preferred
+868,Threadneedle (Lux) Asia Equity Inc AU EUR,Taiwan Semiconductor Manufacturing Co Ltd
+869,Threadneedle (Lux) Asia Equity Inc AU EUR,AIA Group Ltd
+870,Threadneedle (Lux) Asia Equity Inc AU EUR,Hong Kong Exchanges and Clearing Ltd
+871,Threadneedle (Lux) Asia Equity Inc AU EUR,Fortescue Metals Group Ltd
+872,Threadneedle (Lux) Asia Equity Inc AU EUR,MediaTek Inc
+873,Threadneedle (Lux) Asia Equity Inc AU EUR,Macquarie Group Ltd
+874,Threadneedle (Lux) Asia Equity Inc AU EUR,Ping An Insurance (Group) Co. of China Ltd Class H
+875,Threadneedle (Lux) Asia Equity Inc AU EUR,Wuliangye Yibin Co Ltd
+876,Threadneedle (Lux) Asia Equity Inc AU EUR,Oz Minerals Ltd
+877,Threadneedle (Lux) Asia Equity Inc AUP,Samsung Electronics Co Ltd Participating Preferred
+878,Threadneedle (Lux) Asia Equity Inc AUP,Taiwan Semiconductor Manufacturing Co Ltd
+879,Threadneedle (Lux) Asia Equity Inc AUP,AIA Group Ltd
+880,Threadneedle (Lux) Asia Equity Inc AUP,Hong Kong Exchanges and Clearing Ltd
+881,Threadneedle (Lux) Asia Equity Inc AUP,Fortescue Metals Group Ltd
+882,Threadneedle (Lux) Asia Equity Inc AUP,MediaTek Inc
+883,Threadneedle (Lux) Asia Equity Inc AUP,Macquarie Group Ltd
+884,Threadneedle (Lux) Asia Equity Inc AUP,Ping An Insurance (Group) Co. of China Ltd Class H
+885,Threadneedle (Lux) Asia Equity Inc AUP,Wuliangye Yibin Co Ltd
+886,Threadneedle (Lux) Asia Equity Inc AUP,Oz Minerals Ltd
+887,Threadneedle (Lux) Asia Equity Inc DUP,Samsung Electronics Co Ltd Participating Preferred
+888,Threadneedle (Lux) Asia Equity Inc DUP,Taiwan Semiconductor Manufacturing Co Ltd
+889,Threadneedle (Lux) Asia Equity Inc DUP,AIA Group Ltd
+890,Threadneedle (Lux) Asia Equity Inc DUP,Hong Kong Exchanges and Clearing Ltd
+891,Threadneedle (Lux) Asia Equity Inc DUP,Fortescue Metals Group Ltd
+892,Threadneedle (Lux) Asia Equity Inc DUP,MediaTek Inc
+893,Threadneedle (Lux) Asia Equity Inc DUP,Macquarie Group Ltd
+894,Threadneedle (Lux) Asia Equity Inc DUP,Ping An Insurance (Group) Co. of China Ltd Class H
+895,Threadneedle (Lux) Asia Equity Inc DUP,Wuliangye Yibin Co Ltd
+896,Threadneedle (Lux) Asia Equity Inc DUP,Oz Minerals Ltd
+897,Threadneedle (Lux) Asia Equity Inc IEP,Samsung Electronics Co Ltd Participating Preferred
+898,Threadneedle (Lux) Asia Equity Inc IEP,Taiwan Semiconductor Manufacturing Co Ltd
+899,Threadneedle (Lux) Asia Equity Inc IEP,AIA Group Ltd
+900,Threadneedle (Lux) Asia Equity Inc IEP,Hong Kong Exchanges and Clearing Ltd
+901,Threadneedle (Lux) Asia Equity Inc IEP,Fortescue Metals Group Ltd
+902,Threadneedle (Lux) Asia Equity Inc IEP,MediaTek Inc
+903,Threadneedle (Lux) Asia Equity Inc IEP,Macquarie Group Ltd
+904,Threadneedle (Lux) Asia Equity Inc IEP,Ping An Insurance (Group) Co. of China Ltd Class H
+905,Threadneedle (Lux) Asia Equity Inc IEP,Wuliangye Yibin Co Ltd
+906,Threadneedle (Lux) Asia Equity Inc IEP,Oz Minerals Ltd
+907,Threadneedle (Lux) Asia Equity Inc ZUP,Samsung Electronics Co Ltd Participating Preferred
+908,Threadneedle (Lux) Asia Equity Inc ZUP,Taiwan Semiconductor Manufacturing Co Ltd
+909,Threadneedle (Lux) Asia Equity Inc ZUP,AIA Group Ltd
+910,Threadneedle (Lux) Asia Equity Inc ZUP,Hong Kong Exchanges and Clearing Ltd
+911,Threadneedle (Lux) Asia Equity Inc ZUP,Fortescue Metals Group Ltd
+912,Threadneedle (Lux) Asia Equity Inc ZUP,MediaTek Inc
+913,Threadneedle (Lux) Asia Equity Inc ZUP,Macquarie Group Ltd
+914,Threadneedle (Lux) Asia Equity Inc ZUP,Ping An Insurance (Group) Co. of China Ltd Class H
+915,Threadneedle (Lux) Asia Equity Inc ZUP,Wuliangye Yibin Co Ltd
+916,Threadneedle (Lux) Asia Equity Inc ZUP,Oz Minerals Ltd
+917,Threadneedle (Lux) Asian Equity Inc W,Samsung Electronics Co Ltd Participating Preferred
+918,Threadneedle (Lux) Asian Equity Inc W,Taiwan Semiconductor Manufacturing Co Ltd
+919,Threadneedle (Lux) Asian Equity Inc W,AIA Group Ltd
+920,Threadneedle (Lux) Asian Equity Inc W,Hong Kong Exchanges and Clearing Ltd
+921,Threadneedle (Lux) Asian Equity Inc W,Fortescue Metals Group Ltd
+922,Threadneedle (Lux) Asian Equity Inc W,MediaTek Inc
+923,Threadneedle (Lux) Asian Equity Inc W,Macquarie Group Ltd
+924,Threadneedle (Lux) Asian Equity Inc W,Ping An Insurance (Group) Co. of China Ltd Class H
+925,Threadneedle (Lux) Asian Equity Inc W,Wuliangye Yibin Co Ltd
+926,Threadneedle (Lux) Asian Equity Inc W,Oz Minerals Ltd
+927,Threadneedle (Lux) Asian Equity Inc W EUR,Samsung Electronics Co Ltd Participating Preferred
+928,Threadneedle (Lux) Asian Equity Inc W EUR,Taiwan Semiconductor Manufacturing Co Ltd
+929,Threadneedle (Lux) Asian Equity Inc W EUR,AIA Group Ltd
+930,Threadneedle (Lux) Asian Equity Inc W EUR,Hong Kong Exchanges and Clearing Ltd
+931,Threadneedle (Lux) Asian Equity Inc W EUR,Fortescue Metals Group Ltd
+932,Threadneedle (Lux) Asian Equity Inc W EUR,MediaTek Inc
+933,Threadneedle (Lux) Asian Equity Inc W EUR,Macquarie Group Ltd
+934,Threadneedle (Lux) Asian Equity Inc W EUR,Ping An Insurance (Group) Co. of China Ltd Class H
+935,Threadneedle (Lux) Asian Equity Inc W EUR,Wuliangye Yibin Co Ltd
+936,Threadneedle (Lux) Asian Equity Inc W EUR,Oz Minerals Ltd

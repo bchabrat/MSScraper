@@ -1,0 +1,101 @@
+,id,name
+0,F00000OYO0,BNY Mellon Asian Income B Acc
+1,F00000OYO1,BNY Mellon Asian Income B Inc
+2,F0GBR06JLL,BNY Mellon Asian Income Instl Acc
+3,F0GBR069TF,BNY Mellon Asian Income Instl Inc
+4,F00000OTU3,BNY Mellon Asian Income Instl W Acc
+5,F0GBR069T2,BNY Mellon Asian Income GBP Inc
+6,F000002YGC,BNY Mellon Asian Income X Inc
+7,F00000Y620,CIM Div Inc Fd A Ordinary Shares Inc
+8,F00000Y621,CIM Div Inc Fd B Ordinary Shares Acc
+9,F00000Y623,CIM Div Inc Fd D Ordinary Shares Acc
+10,F00000Y625,CIM Div Inc Fd F Ordinary Shares Acc
+11,F00000Q0NI,Fidelity Asian Dividend A Acc
+12,F00000Q0NJ,Fidelity Asian Dividend A Inc
+13,F00000Q0NK,Fidelity Asian Dividend W Acc
+14,F00000Q0NL,Fidelity Asian Dividend W Inc
+15,F0GBR05XO2,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC
+16,0P00009T7C,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC EUR
+17,0P0000MLF2,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC GBP
+18,0P0000MLF3,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC PLN
+19,0P00001AIK,HSBC GIF Asia Pac ex Jpn Eq HiDiv AC SGD
+20,F00000ML67,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2
+21,0P0000ZF1E,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 EUR
+22,0P0000ZF1F,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 GBP
+23,0P0000ZF1H,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 PLN
+24,0P0000ZF1G,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2 SGD
+25,F00000NISP,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD
+26,0P000132J6,HSBC GIF Asia Pac ex Jpn Eq HiDiv AM2HKD USD
+27,F0GBR05XMQ,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS
+28,0P0000RZ2Z,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS EUR
+29,0P000132C9,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS GBP
+30,0P000132C8,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS PLN
+31,0P0000RZ2Y,HSBC GIF Asia Pac ex Jpn Eq HiDiv AS SGD
+32,F00000PIN4,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP
+33,0P000132J7,HSBC GIF Asia Pac ex Jpn Eq HiDiv BSGBP USD
+34,F0000000DD,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC
+35,0P0000N6CS,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC EUR
+36,0P0000N6CT,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC GBP
+37,0P0000N6CU,HSBC GIF Asia Pac ex Jpn Eq HiDiv EC PLN
+38,F000005LNR,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC
+39,0P0000MWBE,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC EUR
+40,0P0000MWBD,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC GBP
+41,0P0000MWBC,HSBC GIF Asia Pac ex Jpn Eq HiDiv IC PLN
+42,F00000NH0O,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR
+43,0P000132J8,HSBC GIF Asia Pac ex Jpn Eq HiDiv ICEUR USD
+44,F00000SS6L,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S
+45,0P00012638,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S EUR
+46,0P00012639,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S GBP
+47,0P0001263A,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S PLN
+48,0P0001263B,HSBC GIF Asia Pac ex Jpn Eq HiDiv S9S SGD
+49,F000003ZPZ,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS
+50,0P0000N6CV,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS EUR
+51,0P0000N6CW,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS GBP
+52,0P0000N6CX,HSBC GIF Asia Pac ex Jpn Eq HiDiv ZS PLN
+53,F00000LYI2,Invesco Asian Equity Inc UK Acc
+54,F00000LYI3,Invesco Asian Equity Inc UK Inc
+55,F00000LYI4,Invesco Asian Equity Inc UK(No Trail)Acc
+56,F00000LYI5,Invesco Asian Equity Inc UK(No Trail)Inc
+57,F00000SVCY,Invesco Asian Equity Inc UK Y Acc
+58,F00000SVCZ,Invesco Asian Equity Inc UK Y Inc
+59,F00000P0QC,Invesco Asian Equity Inc UK Z Acc
+60,F00000P0QD,Invesco Asian Equity Inc UK Z Inc
+61,F00000WTQB,Jupiter Asian Income I GBP Acc
+62,F00000WTQA,Jupiter Asian Income I GBP Inc
+63,F00000WTQD,Jupiter Asian Income Z GBP Acc
+64,F00000WTQC,Jupiter Asian Income Z GBP Inc
+65,F00000ZCDY,Jupiter Asia Pac Inc D EUR Q Inc
+66,F00000XKUH,Jupiter Asia Pac Inc D GBP Acc
+67,F00000XKUI,Jupiter Asia Pac Inc D USD Q Inc Dist
+68,F00000PA6Y,Liontrust Asia Income A Inc
+69,F00000NOQH,Liontrust Asia Income I Inc
+70,F00000NOQG,Liontrust Asia Income R Inc
+71,F0GBR04DLC,Schroder Asian Income Acc
+72,F0GBR04RWA,Schroder Asian Income Inc
+73,F00000QLM3,Schroder Asian Income L GBP Acc
+74,F00000QLM2,Schroder Asian Income L GBP Inc
+75,F00000MEXK,Schroder Asian Income Z Acc
+76,F00000MEXL,Schroder Asian Income Z Inc
+77,F00000HLGC,Schroder Asian Income Maximiser A Acc
+78,F00000HLGE,Schroder Asian Income Maximiser Z Acc
+79,F00000HLGF,Schroder Asian Income Maximiser Z Inc
+80,F00000QG2Q,Schroder ISF Asn Div Mxmsr C Acc USD
+81,F00000QG2V,Schroder ISF Asn Div Mxmsr I Acc USD
+82,F0GBR054YU,Schroder ISF Asian Eq Yld A Acc USD
+83,F0GBR069X5,Schroder ISF Asian Eq Yld A Dis GBP AV
+84,F0GBR0550R,Schroder ISF Asian Eq Yld A Dis USD M
+85,F00000OSVB,Schroder ISF Asian Eq Yld C Acc CHF
+86,F00000OSVE,Schroder ISF Asian Eq Yld C Acc EUR
+87,F0GBR0550P,Schroder ISF Asian Eq Yld C Acc USD
+88,F0GBR069Z4,Schroder ISF Asian Eq Yld C Dis USD M
+89,F0GBR0550Q,Schroder ISF Asian Eq Yld I Acc USD
+90,F00000Y0PY,Schroder ISF Asian Eq Yld S Acc USD
+91,F00000Y0Q4,Schroder ISF Asian Eq Yld S Dis USD M
+92,F0GBR04CZT,Threadneedle (Lux) Asia Equity Inc AU
+93,0P0000G3C4,Threadneedle (Lux) Asia Equity Inc AU EUR
+94,F00000YUOP,Threadneedle (Lux) Asia Equity Inc AUP
+95,F00000YUOQ,Threadneedle (Lux) Asia Equity Inc DUP
+96,F00000YUOG,Threadneedle (Lux) Asia Equity Inc IEP
+97,F00000XBLX,Threadneedle (Lux) Asia Equity Inc ZUP
+98,F0GBR06AEM,Threadneedle (Lux) Asian Equity Inc W
+99,0P0000SBZX,Threadneedle (Lux) Asian Equity Inc W EUR
